@@ -1314,236 +1314,236 @@ STR_1955    :{WINDOW_COLOUR_2}सर्किटों की संख्या
 STR_1956    :प्रति राइड ट्रैक के सर्किटों की संख्या
 STR_1957    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1958    :{COMMA16}
-STR_1959    :Can’t change number of circuits…
-STR_1960    :{WINDOW_COLOUR_2}Balloon price:
-STR_1961    :{WINDOW_COLOUR_2}Cuddly Toy price:
-STR_1962    :{WINDOW_COLOUR_2}Park Map price:
-STR_1963    :{WINDOW_COLOUR_2}On-Ride Photo price:
-STR_1964    :{WINDOW_COLOUR_2}Umbrella price:
-STR_1965    :{WINDOW_COLOUR_2}Drink price:
-STR_1966    :{WINDOW_COLOUR_2}Burger price:
-STR_1967    :{WINDOW_COLOUR_2}Chips price:
-STR_1968    :{WINDOW_COLOUR_2}Ice Cream price:
-STR_1969    :{WINDOW_COLOUR_2}Candyfloss price:
+STR_1959    :सर्किट्स की संख्या बदली नहीं जा सकती…
+STR_1960    :{WINDOW_COLOUR_2}गुब्बारे की कीमत:
+STR_1961    :{WINDOW_COLOUR_2}प्यारे खिलौने की कीमत:
+STR_1962    :{WINDOW_COLOUR_2}पार्क मानचित्र की कीमत:
+STR_1963    :{WINDOW_COLOUR_2}राइड फोटो की कीमत:
+STR_1964    :{WINDOW_COLOUR_2}छतरी की कीमत:
+STR_1965    :{WINDOW_COLOUR_2}पेय की कीमत:
+STR_1966    :{WINDOW_COLOUR_2}बर्गर की कीमत:
+STR_1967    :{WINDOW_COLOUR_2}चिप्स की कीमत:
+STR_1968    :{WINDOW_COLOUR_2}आइसक्रीम की कीमत:
+STR_1969    :{WINDOW_COLOUR_2}कॉटन कैंडी की कीमत:
 STR_1970    :{WINDOW_COLOUR_2}
 STR_1971    :{WINDOW_COLOUR_2}
 STR_1972    :{WINDOW_COLOUR_2}
-STR_1973    :{WINDOW_COLOUR_2}Pizza price:
+STR_1973    :{WINDOW_COLOUR_2}पिज़्ज़ा की कीमत:
 STR_1974    :{WINDOW_COLOUR_2}
-STR_1975    :{WINDOW_COLOUR_2}Popcorn price:
-STR_1976    :{WINDOW_COLOUR_2}Hot Dog price:
-STR_1977    :{WINDOW_COLOUR_2}Tentacle price:
-STR_1978    :{WINDOW_COLOUR_2}Hat price:
-STR_1979    :{WINDOW_COLOUR_2}Toffee Apple price:
-STR_1980    :{WINDOW_COLOUR_2}T-Shirt price:
-STR_1981    :{WINDOW_COLOUR_2}Doughnut price:
-STR_1982    :{WINDOW_COLOUR_2}Coffee price:
+STR_1975    :{WINDOW_COLOUR_2}पॉपकॉर्न की कीमत:
+STR_1976    :{WINDOW_COLOUR_2}हॉट डॉग की कीमत:
+STR_1977    :{WINDOW_COLOUR_2}टेंटाकल की कीमत:
+STR_1978    :{WINDOW_COLOUR_2}टोपी की कीमत:
+STR_1979    :{WINDOW_COLOUR_2}टॉफ़ी सेब की कीमत:
+STR_1980    :{WINDOW_COLOUR_2}टी-शर्ट की कीमत:
+STR_1981    :{WINDOW_COLOUR_2}डोनट की कीमत:
+STR_1982    :{WINDOW_COLOUR_2}कॉफी की कीमत:
 STR_1983    :{WINDOW_COLOUR_2}
-STR_1984    :{WINDOW_COLOUR_2}Fried Chicken price:
-STR_1985    :{WINDOW_COLOUR_2}Lemonade price:
+STR_1984    :{WINDOW_COLOUR_2}फ्राइड चिकन की कीमत:
+STR_1985    :{WINDOW_COLOUR_2}नींबू पानी की कीमत:
 STR_1986    :{WINDOW_COLOUR_2}
 STR_1987    :{WINDOW_COLOUR_2}
-STR_1988    :Balloon
-STR_1989    :Cuddly Toy
-STR_1990    :Park Map
-STR_1991    :On-Ride Photo
-STR_1992    :Umbrella
-STR_1993    :Drink
-STR_1994    :Burger
-STR_1995    :Chips
-STR_1996    :Ice Cream
-STR_1997    :Candyfloss
-STR_1998    :Empty Can
-STR_1999    :Rubbish
-STR_2000    :Empty Burger Box
-STR_2001    :Pizza
-STR_2002    :Voucher
-STR_2003    :Popcorn
-STR_2004    :Hot Dog
-STR_2005    :Tentacle
-STR_2006    :Hat
-STR_2007    :Toffee Apple
-STR_2008    :T-Shirt
-STR_2009    :Doughnut
-STR_2010    :Coffee
-STR_2011    :Empty Cup
-STR_2012    :Fried Chicken
-STR_2013    :Lemonade
-STR_2014    :Empty Box
-STR_2015    :Empty Bottle
-STR_2016    :Balloons
-STR_2017    :Cuddly Toys
-STR_2018    :Park Maps
-STR_2019    :On-Ride Photos
-STR_2020    :Umbrellas
-STR_2021    :Drinks
-STR_2022    :Burgers
-STR_2023    :Chips
-STR_2024    :Ice Creams
-STR_2025    :Candyfloss
-STR_2026    :Empty Cans
-STR_2027    :Rubbish
-STR_2028    :Empty Burger Boxes
-STR_2029    :Pizzas
-STR_2030    :Vouchers
-STR_2031    :Popcorn
-STR_2032    :Hot Dogs
-STR_2033    :Tentacles
-STR_2034    :Hats
-STR_2035    :Toffee Apples
-STR_2036    :T-Shirts
-STR_2037    :Doughnuts
-STR_2038    :Coffees
-STR_2039    :Empty Cups
-STR_2040    :Fried Chicken
-STR_2041    :Lemonade
-STR_2042    :Empty Boxes
-STR_2043    :Empty Bottles
-STR_2044    :a Balloon
-STR_2045    :a Cuddly Toy
-STR_2046    :a Park Map
-STR_2047    :an On-Ride Photo
-STR_2048    :an Umbrella
-STR_2049    :a Drink
-STR_2050    :a Burger
-STR_2051    :some Chips
-STR_2052    :an Ice Cream
-STR_2053    :some Candyfloss
-STR_2054    :an Empty Can
-STR_2055    :some Rubbish
-STR_2056    :an Empty Burger Box
-STR_2057    :a Pizza
-STR_2058    :a Voucher
-STR_2059    :some Popcorn
-STR_2060    :a Hot Dog
-STR_2061    :a Tentacle
-STR_2062    :a Hat
-STR_2063    :a Toffee Apple
-STR_2064    :a T-Shirt
-STR_2065    :a Doughnut
-STR_2066    :a Coffee
-STR_2067    :an Empty Cup
-STR_2068    :some Fried Chicken
-STR_2069    :some Lemonade
-STR_2070    :an Empty Box
-STR_2071    :an Empty Bottle
-STR_2072    :“{STRINGID}” Balloon
-STR_2073    :“{STRINGID}” Cuddly Toy
-STR_2074    :Map of {STRINGID}
-STR_2075    :On-Ride Photo of {STRINGID}
-STR_2076    :“{STRINGID}” Umbrella
-STR_2077    :Drink
-STR_2078    :Burger
-STR_2079    :Chips
-STR_2080    :Ice Cream
-STR_2081    :Candyfloss
-STR_2082    :Empty Can
-STR_2083    :Rubbish
-STR_2084    :Empty Burger Box
-STR_2085    :Pizza
-STR_2086    :Voucher for {STRINGID}
-STR_2087    :Popcorn
-STR_2088    :Hot Dog
-STR_2089    :Tentacle
-STR_2090    :“{STRINGID}” Hat
-STR_2091    :Toffee Apple
-STR_2092    :“{STRINGID}” T-Shirt
-STR_2093    :Doughnut
-STR_2094    :Coffee
-STR_2095    :Empty Cup
-STR_2096    :Fried Chicken
-STR_2097    :Lemonade
-STR_2098    :Empty Box
-STR_2099    :Empty Bottle
-STR_2103    :{WINDOW_COLOUR_2}Pretzel price:
-STR_2104    :{WINDOW_COLOUR_2}Hot Chocolate price:
-STR_2105    :{WINDOW_COLOUR_2}Iced Tea price:
-STR_2106    :{WINDOW_COLOUR_2}Funnel Cake price:
-STR_2107    :{WINDOW_COLOUR_2}Sunglasses price:
-STR_2108    :{WINDOW_COLOUR_2}Beef Noodles price:
-STR_2109    :{WINDOW_COLOUR_2}Fried Rice Noodles price:
-STR_2110    :{WINDOW_COLOUR_2}Wonton Soup price:
-STR_2111    :{WINDOW_COLOUR_2}Meatball Soup price:
-STR_2112    :{WINDOW_COLOUR_2}Fruit Juice price:
-STR_2113    :{WINDOW_COLOUR_2}Soybean Milk price:
-STR_2114    :{WINDOW_COLOUR_2}Sujeonggwa price:
-STR_2115    :{WINDOW_COLOUR_2}Sub Sandwich price:
-STR_2116    :{WINDOW_COLOUR_2}Cookie price:
+STR_1988    :गुब्बारा
+STR_1989    :प्यारा खिलौना
+STR_1990    :पार्क मानचित्र
+STR_1991    :राइड फोटो
+STR_1992    :छतरी
+STR_1993    :पेय
+STR_1994    :बर्गर
+STR_1995    :चिप्स
+STR_1996    :आइसक्रीम
+STR_1997    :कॉटन कैंडी
+STR_1998    :खाली कैन
+STR_1999    :कचरा
+STR_2000    :खाली बर्गर बॉक्स
+STR_2001    :पिज़्ज़ा
+STR_2002    :वाउचर
+STR_2003    :पॉपकॉर्न
+STR_2004    :हॉट डॉग
+STR_2005    :टेंटाकल
+STR_2006    :टोपी
+STR_2007    :टॉफ़ी सेब
+STR_2008    :टी-शर्ट
+STR_2009    :डोनट
+STR_2010    :कॉफी
+STR_2011    :खाली कप
+STR_2012    :फ्राइड चिकन
+STR_2013    :नींबू पानी
+STR_2014    :खाली बॉक्स
+STR_2015    :खाली बोतल
+STR_2016    :गुब्बारे
+STR_2017    :प्यारे खिलौने
+STR_2018    :पार्क मानचित्र
+STR_2019    :राइड फोटो
+STR_2020    :छतरियाँ
+STR_2021    :पेय
+STR_2022    :बर्गर
+STR_2023    :चिप्स
+STR_2024    :आइसक्रीम
+STR_2025    :कॉटन कैंडी
+STR_2026    :खाली कैन
+STR_2027    :कचरा
+STR_2028    :खाली बर्गर बॉक्स
+STR_2029    :पिज़्ज़ा
+STR_2030    :वाउचर
+STR_2031    :पॉपकॉर्न
+STR_2032    :हॉट डॉग
+STR_2033    :टेंटाकल
+STR_2034    :टोपी
+STR_2035    :टॉफ़ी सेब
+STR_2036    :टी-शर्ट
+STR_2037    :डोनट
+STR_2038    :कॉफी
+STR_2039    :खाली कप
+STR_2040    :फ्राइड चिकन
+STR_2041    :नींबू पानी
+STR_2042    :खाली बॉक्स
+STR_2043    :खाली बोतल
+STR_2044    :एक गुब्बारा
+STR_2045    :एक प्यारा खिलौना
+STR_2046    :एक पार्क मानचित्र
+STR_2047    :एक राइड फोटो
+STR_2048    :एक छतरी
+STR_2049    :एक पेय
+STR_2050    :एक बर्गर
+STR_2051    :कुछ चिप्स
+STR_2052    :एक आइसक्रीम
+STR_2053    :कुछ कॉटन कैंडी
+STR_2054    :एक खाली कैन
+STR_2055    :कुछ कचरा
+STR_2056    :एक खाली बर्गर बॉक्स
+STR_2057    :एक पिज़्ज़ा
+STR_2058    :एक वाउचर
+STR_2059    :कुछ पॉपकॉर्न
+STR_2060    :एक हॉट डॉग
+STR_2061    :एक टेंटाकल
+STR_2062    :एक टोपी
+STR_2063    :एक टॉफ़ी सेब
+STR_2064    :एक टी-शर्ट
+STR_2065    :एक डोनट
+STR_2066    :एक कॉफी
+STR_2067    :एक खाली कप
+STR_2068    :कुछ फ्राइड चिकन
+STR_2069    :कुछ नींबू पानी
+STR_2070    :एक खाली बॉक्स
+STR_2071    :एक खाली बोतल
+STR_2072    :“{STRINGID}” गुब्बारा
+STR_2073    :“{STRINGID}” प्यारा खिलौना
+STR_2074    :{STRINGID} का मानचित्र
+STR_2075    :{STRINGID} की राइड फोटो
+STR_2076    :“{STRINGID}” छतरी
+STR_2077    :पेय
+STR_2078    :बर्गर
+STR_2079    :चिप्स
+STR_2080    :आइसक्रीम
+STR_2081    :कॉटन कैंडी
+STR_2082    :खाली कैन
+STR_2083    :कचरा
+STR_2084    :खाली बर्गर बॉक्स
+STR_2085    :पिज़्ज़ा
+STR_2086    :{STRINGID} का वाउचर
+STR_2087    :पॉपकॉर्न
+STR_2088    :हॉट डॉग
+STR_2089    :टेंटाकल
+STR_2090    :“{STRINGID}” टोपी
+STR_2091    :टॉफ़ी सेब
+STR_2092    :“{STRINGID}” टी-शर्ट
+STR_2093    :डोनट
+STR_2094    :कॉफी
+STR_2095    :खाली कप
+STR_2096    :फ्राइड चिकन
+STR_2097    :नींबू पानी
+STR_2098    :खाली बॉक्स
+STR_2099    :खाली बोतल
+STR_2103    :{WINDOW_COLOUR_2}प्रेट्ज़ेल की कीमत:
+STR_2104    :{WINDOW_COLOUR_2}हॉट चॉकलेट की कीमत:
+STR_2105    :{WINDOW_COLOUR_2}आइस्ड टी की कीमत:
+STR_2106    :{WINDOW_COLOUR_2}फनल केक की कीमत:
+STR_2107    :{WINDOW_COLOUR_2}धूप के चश्मे की कीमत:
+STR_2108    :{WINDOW_COLOUR_2}बीफ़ नूडल्स की कीमत:
+STR_2109    :{WINDOW_COLOUR_2}फ्राइड राइस नूडल्स की कीमत:
+STR_2110    :{WINDOW_COLOUR_2}वॉनटन सूप की कीमत:
+STR_2111    :{WINDOW_COLOUR_2}मीटबॉल सूप की कीमत:
+STR_2112    :{WINDOW_COLOUR_2}फ्रूट जूस की कीमत:
+STR_2113    :{WINDOW_COLOUR_2}सोयाबीन दूध की कीमत:
+STR_2114    :{WINDOW_COLOUR_2}सुजोंगग्वा की कीमत:
+STR_2115    :{WINDOW_COLOUR_2}सब सैंडविच की कीमत:
+STR_2116    :{WINDOW_COLOUR_2}कुकी की कीमत:
 STR_2117    :{WINDOW_COLOUR_2}
 STR_2118    :{WINDOW_COLOUR_2}
 STR_2119    :{WINDOW_COLOUR_2}
-STR_2120    :{WINDOW_COLOUR_2}Roast Sausage price:
+STR_2120    :{WINDOW_COLOUR_2}रोस्ट सॉसेज की कीमत:
 STR_2121    :{WINDOW_COLOUR_2}
-STR_2125    :Pretzel
-STR_2126    :Hot Chocolate
-STR_2127    :Iced Tea
-STR_2128    :Funnel Cake
-STR_2129    :Sunglasses
-STR_2130    :Beef Noodles
-STR_2131    :Fried Rice Noodles
-STR_2132    :Wonton Soup
-STR_2133    :Meatball Soup
-STR_2134    :Fruit Juice
-STR_2135    :Soybean Milk
-STR_2136    :Sujeonggwa
-STR_2137    :Sub Sandwich
-STR_2138    :Cookie
-STR_2139    :Empty Bowl
-STR_2140    :Empty Drink Carton
-STR_2141    :Empty Juice Cup
-STR_2142    :Roast Sausage
-STR_2143    :Empty Bowl
-STR_2147    :Pretzels
-STR_2148    :Hot Chocolates
-STR_2149    :Iced Teas
-STR_2150    :Funnel Cakes
-STR_2151    :Sunglasses
-STR_2152    :Beef Noodles
-STR_2153    :Fried Rice Noodles
-STR_2154    :Wonton Soups
-STR_2155    :Meatball Soups
-STR_2156    :Fruit Juices
-STR_2157    :Soybean Milks
-STR_2158    :Sujeonggwa
-STR_2159    :Sub Sandwiches
-STR_2160    :Cookies
-STR_2161    :Empty Bowls
-STR_2162    :Empty Drink Cartons
-STR_2163    :Empty Juice cups
-STR_2164    :Roast Sausages
-STR_2165    :Empty Bowls
-STR_2169    :a Pretzel
-STR_2170    :a Hot Chocolate
-STR_2171    :an Iced Tea
-STR_2172    :a Funnel Cake
-STR_2173    :a pair of Sunglasses
-STR_2174    :some Beef Noodles
-STR_2175    :some Fried Rice Noodles
-STR_2176    :some Wonton Soup
-STR_2177    :some Meatball Soup
-STR_2178    :a Fruit Juice
-STR_2179    :some Soybean Milk
-STR_2180    :some Sujeonggwa
-STR_2181    :a Sub Sandwich
-STR_2182    :a Cookie
-STR_2183    :an Empty Bowl
-STR_2184    :an Empty Drink Carton
-STR_2185    :an Empty Juice Cup
-STR_2186    :a Roast Sausage
-STR_2187    :an Empty Bowl
-STR_2191    :Pretzel
-STR_2192    :Hot Chocolate
-STR_2193    :Iced Tea
-STR_2194    :Funnel Cake
-STR_2195    :Sunglasses
-STR_2196    :Beef Noodles
-STR_2197    :Fried Rice Noodles
-STR_2198    :Wonton Soup
-STR_2199    :Meatball Soup
-STR_2200    :Fruit Juice
-STR_2201    :Soybean Milk
-STR_2202    :Sujeonggwa
-STR_2203    :Sub Sandwich
+STR_2125    :प्रेट्ज़ेल
+STR_2126    :हॉट चॉकलेट
+STR_2127    :आइस्ड टी
+STR_2128    :फनल केक
+STR_2129    :धूप के चश्मे
+STR_2130    :बीफ़ नूडल्स
+STR_2131    :फ्राइड राइस नूडल्स
+STR_2132    :वॉनटन सूप
+STR_2133    :मीटबॉल सूप
+STR_2134    :फ्रूट जूस
+STR_2135    :सोयाबीन दूध
+STR_2136    :सुजोंगग्वा
+STR_2137    :सब सैंडविच
+STR_2138    :कुकी
+STR_2139    :खाली कटोरा
+STR_2140    :खाली ड्रिंक कार्टन
+STR_2141    :खाली जूस कप
+STR_2142    :रोस्ट सॉसेज
+STR_2143    :खाली कटोरा
+STR_2147    :प्रेट्ज़ेल्स
+STR_2148    :हॉट चॉकलेट्स
+STR_2149    :आइस्ड टी
+STR_2150    :फनल केक
+STR_2151    :धूप के चश्मे
+STR_2152    :बीफ़ नूडल्स
+STR_2153    :फ्राइड राइस नूडल्स
+STR_2154    :वॉनटन सूप
+STR_2155    :मीटबॉल सूप
+STR_2156    :फ्रूट जूस
+STR_2157    :सोयाबीन दूध
+STR_2158    :सुजोंगग्वा
+STR_2159    :सब सैंडविचेज़
+STR_2160    :कुकीज़
+STR_2161    :खाली कटोरे
+STR_2162    :खाली ड्रिंक कार्टन
+STR_2163    :खाली जूस कप
+STR_2164    :रोस्ट सॉसेजेज़
+STR_2165    :खाली कटोरे
+STR_2169    :एक प्रेट्ज़ेल
+STR_2170    :एक हॉट चॉकलेट
+STR_2171    :एक आइस्ड टी
+STR_2172    :एक फनल केक
+STR_2173    :एक जोड़ी धूप के चश्मे
+STR_2174    :कुछ बीफ़ नूडल्स
+STR_2175    :कुछ फ्राइड राइस नूडल्स
+STR_2176    :कुछ वॉनटन सूप
+STR_2177    :कुछ मीटबॉल सूप
+STR_2178    :एक फ्रूट जूस
+STR_2179    :कुछ सोयाबीन दूध
+STR_2180    :कुछ सुजोंगग्वा
+STR_2181    :एक सब सैंडविच
+STR_2182    :एक कुकी
+STR_2183    :एक खाली कटोरा
+STR_2184    :एक खाली ड्रिंक कार्टन
+STR_2185    :एक खाली जूस कप
+STR_2186    :एक रोस्ट सॉसेज
+STR_2187    :एक खाली कटोरा
+STR_2191    :प्रेट्ज़ेल
+STR_2192    :हॉट चॉकलेट
+STR_2193    :आइस्ड टी
+STR_2194    :फनल केक
+STR_2195    :धूप के चश्मे
+STR_2196    :बीफ़ नूडल्स
+STR_2197    :फ्राइड राइस नूडल्स
+STR_2198    :वॉनटन सूप
+STR_2199    :मीटबॉल सूप
+STR_2200    :फ्रूट जूस
+STR_2201    :सोयाबीन दूध
+STR_2202    :सुजोंगग्वा
+STR_2203    :सब सैंडविच
 STR_2204    :Cookie
 STR_2205    :Empty Bowl
 STR_2206    :Empty Drink Carton
