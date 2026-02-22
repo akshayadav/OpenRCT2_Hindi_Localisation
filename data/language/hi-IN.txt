@@ -1544,37 +1544,37 @@ STR_2200    :फ्रूट जूस
 STR_2201    :सोयाबीन दूध
 STR_2202    :सुजोंगग्वा
 STR_2203    :सब सैंडविच
-STR_2204    :Cookie
-STR_2205    :Empty Bowl
-STR_2206    :Empty Drink Carton
-STR_2207    :Empty Juice Cup
-STR_2208    :Roast Sausage
-STR_2209    :Empty Bowl
-STR_2210    :Show list of handymen in park
-STR_2211    :Show list of mechanics in park
-STR_2212    :Show list of security guards in park
-STR_2213    :Show list of entertainers in park
-STR_2214    :Construction not possible while game is paused!
+STR_2204    :कुकी
+STR_2205    :खाली कटोरा
+STR_2206    :खाली ड्रिंक कार्टन
+STR_2207    :खाली जूस कप
+STR_2208    :रोस्ट सॉसेज
+STR_2209    :खाली कटोरा
+STR_2210    :पार्क में काम करने वाले हैंडीमैन की सूची दिखाएँ
+STR_2211    :पार्क में मैकेनिकों की सूची दिखाएँ
+STR_2212    :पार्क में सुरक्षा गार्डों की सूची दिखाएँ
+STR_2213    :पार्क में कलाकारों की सूची दिखाएँ
+STR_2214    :गेम रुके होने पर निर्माण संभव नहीं है!
 STR_2215    :{STRINGID}{NEWLINE}({STRINGID})
 STR_2216    :{WINDOW_COLOUR_1}{COMMA16}°C
 STR_2217    :{WINDOW_COLOUR_1}{COMMA16}°F
-STR_2218    :{RED}{STRINGID} on {STRINGID} hasn’t returned to the {STRINGID} yet!{NEWLINE}Check whether it is stuck or has stalled
-STR_2219    :{RED}{COMMA16} people have died in an accident on {STRINGID}
-STR_2220    :{WINDOW_COLOUR_2}Park Rating: {BLACK}{COMMA16}
-STR_2221    :Park Rating: {COMMA16}
+STR_2218    :{RED}{STRINGID} {STRINGID} पर अभी तक {STRINGID} में वापस नहीं आया है!{NEWLINE}जाँचें कि यह फंसा हुआ या रुका तो नहीं है
+STR_2219    :{RED}{COMMA16} लोग {STRINGID} पर हुए हादसे में मारे गए हैं
+STR_2220    :{WINDOW_COLOUR_2}पार्क रेटिंग: {BLACK}{COMMA16}
+STR_2221    :पार्क रेटिंग: {COMMA16}
 STR_2222    :{BLACK}{STRINGID}
-STR_2223    :{WINDOW_COLOUR_2}Guests in park: {BLACK}{COMMA32}
-STR_2224    :{WINDOW_COLOUR_2}Cash: {BLACK}{CURRENCY2DP}
-STR_2225    :{WINDOW_COLOUR_2}Cash: {RED}{CURRENCY2DP}
-STR_2226    :{WINDOW_COLOUR_2}Park value: {BLACK}{CURRENCY}
-STR_2227    :{WINDOW_COLOUR_2}Company value: {BLACK}{CURRENCY}
-STR_2228    :{WINDOW_COLOUR_2}Last month’s profit from food/drink and{NEWLINE}merchandise sales: {BLACK}{CURRENCY}
-STR_2229    :Slope up to vertical
-STR_2230    :Vertical track
-STR_2231    :Holding brake for drop
-STR_2232    :Cable lift hill
-STR_2233    :Park information
-STR_2234    :Recent Messages
+STR_2223    :{WINDOW_COLOUR_2}पार्क में मेहमान: {BLACK}{COMMA32}
+STR_2224    :{WINDOW_COLOUR_2}नकद: {BLACK}{CURRENCY2DP}
+STR_2225    :{WINDOW_COLOUR_2}नकद: {RED}{CURRENCY2DP}
+STR_2226    :{WINDOW_COLOUR_2}पार्क मूल्य: {BLACK}{CURRENCY}
+STR_2227    :{WINDOW_COLOUR_2}कंपनी मूल्य: {BLACK}{CURRENCY}
+STR_2228    :{WINDOW_COLOUR_2}पिछले महीने भोजन/पेय और{NEWLINE}मर्चेंडाइज़ बिक्री से लाभ: {BLACK}{CURRENCY}
+STR_2229    :ऊपर की ओर ढलान (वर्टिकल तक)
+STR_2230    :ऊर्ध्वाधर ट्रैक
+STR_2231    :गिरावट के लिए होल्डिंग ब्रेक
+STR_2232    :केबल लिफ्ट हिल
+STR_2233    :पार्क जानकारी
+STR_2234    :हाल के संदेश
 STR_2235    :{STRINGID} {STRINGID}
 STR_2236    :जनवरी
 STR_2237    :फरवरी
@@ -1588,278 +1588,278 @@ STR_2244    :सितंबर
 STR_2245    :अक्टूबर
 STR_2246    :नवंबर
 STR_2247    :दिसंबर
-STR_2248    :Can’t demolish ride/attraction…
-STR_2249    :{BABYBLUE}New ride/attraction now available:{NEWLINE}{STRINGID}
-STR_2250    :{BABYBLUE}New scenery/theming now available:{NEWLINE}{STRINGID}
-STR_2251    :Can only be built on paths!
-STR_2252    :Can only be built across paths!
-STR_2253    :Transport Rides
-STR_2254    :Gentle Rides
-STR_2255    :Roller Coasters
-STR_2256    :Thrill Rides
-STR_2257    :Water Rides
-STR_2258    :Shops & Stalls
-STR_2259    :Scenery & Theming
-STR_2260    :No funding
-STR_2261    :Minimum funding
-STR_2262    :Normal funding
-STR_2263    :Maximum funding
-STR_2264    :Research funding
-STR_2265    :{WINDOW_COLOUR_2}Cost: {BLACK}{CURRENCY} per month
-STR_2266    :Research priorities
-STR_2267    :Currently in development
-STR_2268    :Last development
-STR_2269    :{WINDOW_COLOUR_2}Type: {BLACK}{STRINGID}
-STR_2270    :{WINDOW_COLOUR_2}Progress: {BLACK}{STRINGID}
-STR_2271    :{WINDOW_COLOUR_2}Expected: {BLACK}{STRINGID}
-STR_2272    :{WINDOW_COLOUR_2}Ride/attraction:{NEWLINE}{BLACK}{STRINGID}
-STR_2273    :{WINDOW_COLOUR_2}Scenery/theming:{NEWLINE}{BLACK}{STRINGID}
-STR_2274    :Show details of this invention or development
-STR_2275    :Show funding and options for research & development
-STR_2276    :Show research & development status
-STR_2277    :Unknown
-STR_2278    :Transport Ride
-STR_2279    :Gentle Ride
-STR_2280    :Roller Coaster
-STR_2281    :Thrill Ride
-STR_2282    :Water Ride
-STR_2283    :Shop/Stall
-STR_2284    :Scenery/Theming
-STR_2285    :Initial research
-STR_2286    :Designing
-STR_2287    :Completing design
-STR_2288    :Unknown
+STR_2248    :राइड/आकर्षण ध्वस्त नहीं किया जा सकता…
+STR_2249    :{BABYBLUE}नई राइड/आकर्षण अब उपलब्ध:{NEWLINE}{STRINGID}
+STR_2250    :{BABYBLUE}नया दृश्य/थीम अब उपलब्ध:{NEWLINE}{STRINGID}
+STR_2251    :सिर्फ पथ पर बनाया जा सकता है!
+STR_2252    :सिर्फ पथों के पार बनाया जा सकता है!
+STR_2253    :परिवहन राइड्स
+STR_2254    :सॉफ्ट राइड्स
+STR_2255    :रोलर कोस्टर
+STR_2256    :थ्रिल राइड्स
+STR_2257    :वाटर राइड्स
+STR_2258    :दुकानें और स्टॉल
+STR_2259    :दृश्य और थीमिंग
+STR_2260    :कोई फंडिंग नहीं
+STR_2261    :न्यूनतम फंडिंग
+STR_2262    :सामान्य फंडिंग
+STR_2263    :अधिकतम फंडिंग
+STR_2264    :अनुसंधान फंडिंग
+STR_2265    :{WINDOW_COLOUR_2}लागत: {BLACK}{CURRENCY} प्रति माह
+STR_2266    :अनुसंधान प्राथमिकताएँ
+STR_2267    :वर्तमान में विकासाधीन
+STR_2268    :पिछला विकास
+STR_2269    :{WINDOW_COLOUR_2}प्रकार: {BLACK}{STRINGID}
+STR_2270    :{WINDOW_COLOUR_2}प्रगति: {BLACK}{STRINGID}
+STR_2271    :{WINDOW_COLOUR_2}अपेक्षित: {BLACK}{STRINGID}
+STR_2272    :{WINDOW_COLOUR_2}राइड/आकर्षण:{NEWLINE}{BLACK}{STRINGID}
+STR_2273    :{WINDOW_COLOUR_2}दृश्य/थीम:{NEWLINE}{BLACK}{STRINGID}
+STR_2274    :इस आविष्कार या विकास का विवरण दिखाएँ
+STR_2275    :अनुसंधान और विकास के लिए फंडिंग और विकल्प दिखाएँ
+STR_2276    :अनुसंधान और विकास की स्थिति दिखाएँ
+STR_2277    :अज्ञात
+STR_2278    :परिवहन राइड
+STR_2279    :सॉफ्ट राइड
+STR_2280    :रोलर कोस्टर
+STR_2281    :थ्रिल राइड
+STR_2282    :वाटर राइड
+STR_2283    :दुकान/स्टॉल
+STR_2284    :दृश्य/थीमिंग
+STR_2285    :प्रारंभिक अनुसंधान
+STR_2286    :डिज़ाइनिंग
+STR_2287    :डिज़ाइन पूर्ण कर रहा है
+STR_2288    :अज्ञात
 STR_2289    :{STRINGID} {STRINGID}
-STR_2291    :Select scenario for new game
-STR_2292    :{WINDOW_COLOUR_2}Rides been on:
-STR_2293    :{BLACK} Nothing
-STR_2294    :Change base land style
-STR_2295    :Change vertical edges of land
-STR_2296    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} paid to enter park
-STR_2297    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} ride
-STR_2298    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} rides
-STR_2299    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} item of food
-STR_2300    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} items of food
-STR_2301    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} drink
-STR_2302    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} drinks
-STR_2303    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} souvenir
-STR_2304    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} souvenirs
-STR_2305    :Track design files
-STR_2306    :Save track design
-STR_2307    :Select {STRINGID} design
-STR_2308    :{STRINGID} Track Designs
-STR_2309    :Install New Track Design
-STR_2310    :Build custom design
-STR_2311    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}{COMMA2DP32} (approx.)
-STR_2312    :{WINDOW_COLOUR_2}Intensity rating: {BLACK}{COMMA2DP32} (approx.)
-STR_2313    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}{COMMA2DP32} (approx.)
-STR_2314    :{WINDOW_COLOUR_2}Ride length: {BLACK}{STRINGID}
-STR_2315    :{WINDOW_COLOUR_2}Cost: {BLACK}around {CURRENCY}
-STR_2316    :{WINDOW_COLOUR_2}Space required: {BLACK}{COMMA16} × {COMMA16} blocks
-STR_2321    :{WINDOW_COLOUR_2}Number of rides/attractions: {BLACK}{COMMA16}
-STR_2322    :{WINDOW_COLOUR_2}Staff: {BLACK}{COMMA32}
-STR_2323    :{WINDOW_COLOUR_2}Park size: {BLACK}{COMMA32}m²
-STR_2324    :{WINDOW_COLOUR_2}Park size: {BLACK}{COMMA32}sq.ft.
-STR_2325    :Buy land to extend park
-STR_2326    :Buy construction rights to allow construction above or below land outside the park
+STR_2291    :नई गेम के लिए परिदृश्य चुनें
+STR_2292    :{WINDOW_COLOUR_2}राइड्स जो ली गईं:
+STR_2293    :{BLACK} कुछ नहीं
+STR_2294    :भूमि की मूल शैली बदलें
+STR_2295    :भूमि के ऊर्ध्वाधर किनारे बदलें
+STR_2296    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} पार्क में प्रवेश करने के लिए भुगतान किया गया
+STR_2297    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} {BLACK}{COMMA16} राइड पर खर्च किया गया
+STR_2298    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} {BLACK}{COMMA16} राइड्स पर खर्च किया गया
+STR_2299    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} {BLACK}{COMMA16} भोजन की वस्तु पर खर्च किया गया
+STR_2300    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} {BLACK}{COMMA16} भोजन की वस्तुओं पर खर्च किया गया
+STR_2301    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} {BLACK}{COMMA16} पेय पर खर्च किया गया
+STR_2302    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} {BLACK}{COMMA16} पेयों पर खर्च किया गया
+STR_2303    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} {BLACK}{COMMA16} स्मृति चिन्ह पर खर्च किया गया
+STR_2304    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} {BLACK}{COMMA16} स्मृति चिन्हों पर खर्च किया गया
+STR_2305    :ट्रैक डिज़ाइन फ़ाइलें
+STR_2306    :ट्रैक डिज़ाइन सहेजें
+STR_2307    :{STRINGID} डिज़ाइन चुनें
+STR_2308    :{STRINGID} ट्रैक डिज़ाइन्स
+STR_2309    :नया ट्रैक डिज़ाइन इंस्टॉल करें
+STR_2310    :कस्टम डिज़ाइन बनाएँ
+STR_2311    :{WINDOW_COLOUR_2}रोमांच रेटिंग: {BLACK}{COMMA2DP32} (अनुमानित)
+STR_2312    :{WINDOW_COLOUR_2}तीव्रता रेटिंग: {BLACK}{COMMA2DP32} (अनुमानित)
+STR_2313    :{WINDOW_COLOUR_2}मतली रेटिंग: {BLACK}{COMMA2DP32} (अनुमानित)
+STR_2314    :{WINDOW_COLOUR_2}राइड लंबाई: {BLACK}{STRINGID}
+STR_2315    :{WINDOW_COLOUR_2}लागत: {BLACK}लगभग {CURRENCY}
+STR_2316    :{WINDOW_COLOUR_2}आवश्यक स्थान: {BLACK}{COMMA16} × {COMMA16} ब्लॉक्स
+STR_2321    :{WINDOW_COLOUR_2}राइड्स/आकर्षणों की संख्या: {BLACK}{COMMA16}
+STR_2322    :{WINDOW_COLOUR_2}स्टाफ: {BLACK}{COMMA32}
+STR_2323    :{WINDOW_COLOUR_2}पार्क आकार: {BLACK}{COMMA32}m²
+STR_2324    :{WINDOW_COLOUR_2}पार्क आकार: {BLACK}{COMMA32}sq.ft.
+STR_2325    :पार्क का विस्तार करने के लिए भूमि खरीदें
+STR_2326    :पार्क के बाहर जमीन के ऊपर या नीचे निर्माण की अनुमति के लिए निर्माण अधिकार खरीदें
 STR_2327    :विकल्प
-STR_2328    :{WINDOW_COLOUR_2}Currency:
-STR_2329    :{WINDOW_COLOUR_2}Distance and Speed:
-STR_2330    :{WINDOW_COLOUR_2}Temperature:
-STR_2331    :{WINDOW_COLOUR_2}Height Labels:
-STR_2332    :Units
-STR_2333    :Sound effects
-STR_2334    :Pounds (£)
-STR_2335    :Dollars ($)
-STR_2336    :Franc (F)
-STR_2337    :Deutsche mark (DM)
-STR_2338    :Yen (¥)
-STR_2339    :Peseta (Pts)
-STR_2340    :Lira (L)
-STR_2341    :Guilders (ƒ)
-STR_2342    :Krona (kr)
-STR_2343    :Euros (€)
-STR_2344    :Imperial
-STR_2345    :Metric
-STR_2347    :{RED}{STRINGID} has drowned!
-STR_2348    :Show statistics for this staff member
-STR_2349    :{WINDOW_COLOUR_2}Wages: {BLACK}{CURRENCY} per month
-STR_2350    :{WINDOW_COLOUR_2}Employed: {BLACK}{MONTHYEAR}
-STR_2351    :{WINDOW_COLOUR_2}Lawns mown: {BLACK}{COMMA32}
-STR_2352    :{WINDOW_COLOUR_2}Gardens watered: {BLACK}{COMMA32}
-STR_2353    :{WINDOW_COLOUR_2}Litter swept: {BLACK}{COMMA32}
-STR_2354    :{WINDOW_COLOUR_2}Bins emptied: {BLACK}{COMMA32}
-STR_2355    :{WINDOW_COLOUR_2}Rides fixed: {BLACK}{COMMA32}
-STR_2356    :{WINDOW_COLOUR_2}Rides inspected: {BLACK}{COMMA32}
-STR_2358    :Units
-STR_2359    :Real Values
-STR_2360    :Display Resolution:
-STR_2361    :Landscape Smoothing
-STR_2362    :Toggle landscape tile edge smoothing on/off
-STR_2363    :Gridlines on Landscape
-STR_2364    :Toggle gridlines on landscape on/off
-STR_2365    :The bank refuses to increase your loan!
-STR_2366    :Celsius (°C)
-STR_2367    :Fahrenheit (°F)
-STR_2368    :None
-STR_2369    :Low
-STR_2370    :Average
-STR_2371    :High
-STR_2372    :Low
-STR_2373    :Medium
-STR_2374    :High
-STR_2375    :Very high
-STR_2376    :Extreme
-STR_2377    :Ultra-Extreme
-STR_2378    :Adjust smaller area of land
-STR_2379    :Adjust larger area of land
-STR_2380    :Adjust smaller area of water
-STR_2381    :Adjust larger area of water
-STR_2382    :Land
-STR_2383    :Water
-STR_2384    :{WINDOW_COLOUR_2}Your objective:
-STR_2385    :{BLACK}None
-STR_2386    :{BLACK}To have at least {COMMA32} guests in your park at the end of {MONTHYEAR_SENTENCE}, with a park rating of at least 600
-STR_2387    :{BLACK}To achieve a park value of at least {POP16}{POP16}{CURRENCY} at the end of {PUSH16}{PUSH16}{PUSH16}{PUSH16}{PUSH16}{MONTHYEAR_SENTENCE}
-STR_2388    :{BLACK}Have Fun!
-STR_2389    :{BLACK}Build the best {STRINGID} you can!
-STR_2390    :{BLACK}To have 10 different types of roller coasters operating in your park, each with an excitement value of at least 6.00
-STR_2391    :{BLACK}To have at least {COMMA32} guests in your park. You must not let the park rating drop below 700 at any time!
-STR_2392    :{BLACK}To achieve a monthly income from ride tickets of at least {POP16}{POP16}{CURRENCY}
-STR_2393    :{BLACK}To have 10 different types of roller coasters operating in your park, each with a minimum length of {LENGTH}, and an excitement rating of at least 7.00
-STR_2394    :{BLACK}To finish building all 5 of the partially built roller coasters in this park, designing them to achieve excitement ratings of at least {POP16}{POP16}{COMMA2DP32} each
-STR_2395    :{BLACK}To repay your loan and achieve a park value of at least {POP16}{POP16}{CURRENCY}
-STR_2396    :{BLACK}To achieve a monthly profit from food, drink and merchandise sales of at least {POP16}{POP16}{CURRENCY}
-STR_2397    :None
-STR_2398    :Number of guests at a given date
-STR_2399    :Park value at a given date
-STR_2400    :Have fun
-STR_2401    :Build the best ride you can
-STR_2402    :Build 10 roller coasters
-STR_2403    :Number of guests in park
-STR_2404    :Monthly income from ride tickets
-STR_2405    :Build 10 roller coasters of a given length
-STR_2406    :Finish building 5 roller coasters
-STR_2407    :Repay loan and achieve a given park value
-STR_2408    :Monthly profit from food/merchandise
-STR_2409    :{WINDOW_COLOUR_2}Marketing campaigns in operation
-STR_2410    :{BLACK}None
-STR_2411    :{WINDOW_COLOUR_2}Marketing campaigns available
-STR_2412    :Start this marketing campaign
-STR_2413    :{BLACK}({CURRENCY2DP} per week)
-STR_2414    :(Not Selected)
-STR_2415    :{WINDOW_COLOUR_2}Ride:
-STR_2416    :{WINDOW_COLOUR_2}Item:
-STR_2417    :{WINDOW_COLOUR_2}Length of time:
-STR_2418    :Free entry to {STRINGID}
-STR_2419    :Free ride on {STRINGID}
-STR_2420    :Half-price entry to {STRINGID}
-STR_2421    :Free {STRINGID}
-STR_2424    :{WINDOW_COLOUR_2}Vouchers for free entry to the park
-STR_2425    :{WINDOW_COLOUR_2}Vouchers for free rides on a particular ride
-STR_2426    :{WINDOW_COLOUR_2}Vouchers for half-price entry to the park
-STR_2427    :{WINDOW_COLOUR_2}Vouchers for free food or drink
-STR_2428    :{WINDOW_COLOUR_2}Advertising campaign for the park
-STR_2429    :{WINDOW_COLOUR_2}Advertising campaign for a particular ride
-STR_2430    :{BLACK}Vouchers for free entry to {STRINGID}
-STR_2431    :{BLACK}Vouchers for free ride on {STRINGID}
-STR_2432    :{BLACK}Vouchers for half-price entry to {STRINGID}
-STR_2433    :{BLACK}Vouchers for free {STRINGID}
-STR_2434    :{BLACK}Advertising campaign for {STRINGID}
-STR_2435    :{BLACK}Advertising campaign for {STRINGID}
-STR_2436    :1 week
-STR_2443    :{WINDOW_COLOUR_2}Cost per week: {BLACK}{CURRENCY2DP}
-STR_2444    :{WINDOW_COLOUR_2}Total cost: {BLACK}{CURRENCY2DP}
-STR_2445    :Start this marketing campaign
-STR_2446    :{YELLOW}Your marketing campaign for free entry to the park has finished
-STR_2447    :{YELLOW}Your marketing campaign for free rides on {STRINGID} has finished
-STR_2448    :{YELLOW}Your marketing campaign for half-price entry to the park has finished
-STR_2449    :{YELLOW}Your marketing campaign for free {STRINGID} has finished
-STR_2450    :{YELLOW}Your advertising campaign for the park has finished
-STR_2451    :{YELLOW}Your advertising campaign for {STRINGID} has finished
-STR_2452    :{WINDOW_COLOUR_2}Cash (less loan): {BLACK}{CURRENCY2DP}
-STR_2453    :{WINDOW_COLOUR_2}Cash (less loan): {RED}{CURRENCY2DP}
-STR_2457    :Show financial accounts
-STR_2458    :Show graph of cash (less loan) over time
-STR_2459    :Show graph of park value over time
-STR_2460    :Show graph of weekly profit
-STR_2461    :Show marketing campaigns
-STR_2462    :Show view of park entrance
-STR_2463    :Show graph of park ratings over time
-STR_2464    :Show graph of guest numbers over time
-STR_2465    :Show park entrance price and information
-STR_2466    :Show park statistics
-STR_2467    :Show objectives for this game
-STR_2468    :Show recent awards this park has received
-STR_2469    :Select level of research & development
-STR_2470    :Research new transport rides
-STR_2471    :Research new gentle rides
-STR_2472    :Research new roller coasters
-STR_2473    :Research new thrill rides
-STR_2474    :Research new water rides
-STR_2475    :Research new shops and stalls
-STR_2476    :Research new scenery and theming
-STR_2477    :Select operating mode for this ride/attraction
-STR_2478    :Show graph of velocity against time
-STR_2479    :Show graph of altitude against time
-STR_2480    :Show graph of vertical acceleration against time
-STR_2481    :Show graph of lateral acceleration against time
-STR_2482    :Profit: {CURRENCY} per week,  Park Value: {CURRENCY}
-STR_2483    :{WINDOW_COLOUR_2}Weekly profit: {BLACK}+{CURRENCY2DP}
-STR_2484    :{WINDOW_COLOUR_2}Weekly profit: {RED}{CURRENCY2DP}
-STR_2487    :Show ‘real’ names of guests
-STR_2488    :Toggle between showing ‘real’ names of guests and guest numbers
-STR_2489    :Shortcut keys…
-STR_2490    :Keyboard shortcuts
-STR_2491    :Reset keys
-STR_2492    :Set all keyboard shortcuts back to default settings
-STR_2493    :Close top-most window
-STR_2494    :Close all floating windows
-STR_2495    :Cancel construction mode
+STR_2328    :{WINDOW_COLOUR_2}मुद्रा:
+STR_2329    :{WINDOW_COLOUR_2}दूरी और गति:
+STR_2330    :{WINDOW_COLOUR_2}तापमान:
+STR_2331    :{WINDOW_COLOUR_2}ऊँचाई लेबल:
+STR_2332    :इकाइयाँ
+STR_2333    :साउंड इफेक्ट्स
+STR_2334    :पाउंड (£)
+STR_2335    :डॉलर ($)
+STR_2336    :फ्रैंक (F)
+STR_2337    :डॉयचे मार्क (DM)
+STR_2338    :येन (¥)
+STR_2339    :पसेटा (Pts)
+STR_2340    :लीरा (L)
+STR_2341    :गिल्डर (ƒ)
+STR_2342    :क्रोना (kr)
+STR_2343    :यूरो (€)
+STR_2344    :इंपीरियल
+STR_2345    :मेट्रिक
+STR_2347    :{RED}{STRINGID} डूब गया है!
+STR_2348    :इस स्टाफ सदस्य के आँकड़े दिखाएँ
+STR_2349    :{WINDOW_COLOUR_2}वेतन: {BLACK}{CURRENCY} प्रति माह
+STR_2350    :{WINDOW_COLOUR_2}नियुक्ति तिथि: {BLACK}{MONTHYEAR}
+STR_2351    :{WINDOW_COLOUR_2}काटे गए लॉन: {BLACK}{COMMA32}
+STR_2352    :{WINDOW_COLOUR_2}पानी दिए गए गार्डन: {BLACK}{COMMA32}
+STR_2353    :{WINDOW_COLOUR_2}झाड़ा गया कूड़ा: {BLACK}{COMMA32}
+STR_2354    :{WINDOW_COLOUR_2}खाली किए गए डिब्बे: {BLACK}{COMMA32}
+STR_2355    :{WINDOW_COLOUR_2}ठीक की गई राइड्स: {BLACK}{COMMA32}
+STR_2356    :{WINDOW_COLOUR_2}निरीक्षण की गई राइड्स: {BLACK}{COMMA32}
+STR_2358    :इकाइयाँ
+STR_2359    :वास्तविक मान
+STR_2360    :डिस्प्ले रेज़ोल्यूशन:
+STR_2361    :लैंडस्केप स्मूदिंग
+STR_2362    :लैंडस्केप टाइल किनारों की स्मूदिंग ऑन/ऑफ करें
+STR_2363    :लैंडस्केप पर ग्रिडलाइन
+STR_2364    :लैंडस्केप पर ग्रिडलाइन ऑन/ऑफ करें
+STR_2365    :बैंक आपका लोन बढ़ाने से इनकार कर रहा है!
+STR_2366    :सेल्सियस (°C)
+STR_2367    :फ़ारेनहाइट (°F)
+STR_2368    :कोई नहीं
+STR_2369    :कम
+STR_2370    :औसत
+STR_2371    :ज़्यादा
+STR_2372    :कम
+STR_2373    :मध्यम
+STR_2374    :ज़्यादा
+STR_2375    :बहुत ज़्यादा
+STR_2376    :अत्यधिक
+STR_2377    :अल्ट्रा-अत्यधिक
+STR_2378    :छोटे क्षेत्र की भूमि समायोजित करें
+STR_2379    :बड़े क्षेत्र की भूमि समायोजित करें
+STR_2380    :छोटे क्षेत्र के पानी को समायोजित करें
+STR_2381    :बड़े क्षेत्र के पानी को समायोजित करें
+STR_2382    :भूमि
+STR_2383    :पानी
+STR_2384    :{WINDOW_COLOUR_2}आपका उद्देश्य:
+STR_2385    :{BLACK}कोई नहीं
+STR_2386    :{BLACK}{MONTHYEAR_SENTENCE} के अंत में आपके पार्क में कम से कम {COMMA32} मेहमान हों, और पार्क रेटिंग कम से कम 600 हो
+STR_2387    :{BLACK}{PUSH16}{PUSH16}{PUSH16}{PUSH16}{PUSH16}{MONTHYEAR_SENTENCE} के अंत में कम से कम {POP16}{POP16}{CURRENCY} का पार्क मूल्य हासिल करें
+STR_2388    :{BLACK}मज़े करें!
+STR_2389    :{BLACK}सबसे अच्छा {STRINGID} बनाइए जो आप बना सकते हैं!
+STR_2390    :{BLACK}आपके पार्क में 10 अलग-अलग प्रकार के रोलर कोस्टर ऑपरेटिंग हों, प्रत्येक की रोमांच वैल्यू कम से कम 6.00 हो
+STR_2391    :{BLACK}आपके पार्क में कम से कम {COMMA32} मेहमान हों। पार्क रेटिंग को किसी भी समय 700 से नीचे नहीं जाने देना है!
+STR_2392    :{BLACK}राइड टिकटों से मासिक आय कम से कम {POP16}{POP16}{CURRENCY} हो
+STR_2393    :{BLACK}आपके पार्क में 10 अलग-अलग प्रकार के रोलर कोस्टर ऑपरेटिंग हों, प्रत्येक की न्यूनतम लंबाई {LENGTH} हो, और रोमांच रेटिंग कम से कम 7.00 हो
+STR_2394    :{BLACK}इस पार्क में आधे बने 5ों रोलर कोस्टर की बिल्डिंग पूरी करें, और उन्हें इस तरह डिज़ाइन करें कि प्रत्येक की रोमांच रेटिंग कम से कम {POP16}{POP16}{COMMA2DP32} हो
+STR_2395    :{BLACK}अपना लोन चुकाएँ और कम से कम {POP16}{POP16}{CURRENCY} का पार्क मूल्य हासिल करें
+STR_2396    :{BLACK}भोजन, पेय और मर्चेंडाइज़ बिक्री से मासिक लाभ कम से कम {POP16}{POP16}{CURRENCY} हो
+STR_2397    :कोई नहीं
+STR_2398    :किसी निर्धारित तिथि पर मेहमानों की संख्या
+STR_2399    :किसी निर्धारित तिथि पर पार्क मूल्य
+STR_2400    :मज़े करें
+STR_2401    :सबसे अच्छी राइड बनाएँ जो आप बना सकते हैं
+STR_2402    :10 रोलर कोस्टर बनाइए
+STR_2403    :पार्क में मेहमानों की संख्या
+STR_2404    :राइड टिकटों से मासिक आय
+STR_2405    :निर्धारित लंबाई के 10 रोलर कोस्टर बनाइए
+STR_2406    :5 रोलर कोस्टर की बिल्डिंग पूरी करें
+STR_2407    :लोन चुकाएँ और निर्धारित पार्क मूल्य हासिल करें
+STR_2408    :भोजन/मर्चेंडाइज़ से मासिक लाभ
+STR_2409    :{WINDOW_COLOUR_2}चालू मार्केटिंग कैंपेन
+STR_2410    :{BLACK}कोई नहीं
+STR_2411    :{WINDOW_COLOUR_2}उपलब्ध मार्केटिंग कैंपेन
+STR_2412    :यह मार्केटिंग कैंपेन शुरू करें
+STR_2413    :{BLACK}({CURRENCY2DP} प्रति सप्ताह)
+STR_2414    :(चयनित नहीं)
+STR_2415    :{WINDOW_COLOUR_2}राइड:
+STR_2416    :{WINDOW_COLOUR_2}आइटम:
+STR_2417    :{WINDOW_COLOUR_2}समय अवधि:
+STR_2418    :{STRINGID} में मुफ्त एंट्री
+STR_2419    :{STRINGID} पर मुफ्त राइड
+STR_2420    :{STRINGID} में आधी कीमत पर एंट्री
+STR_2421    :मुफ्त {STRINGID}
+STR_2424    :{WINDOW_COLOUR_2}पार्क में मुफ्त एंट्री के लिए वाउचर
+STR_2425    :{WINDOW_COLOUR_2}किसी विशेष राइड पर मुफ्त राइड के लिए वाउचर
+STR_2426    :{WINDOW_COLOUR_2}पार्क में आधी कीमत पर एंट्री के लिए वाउचर
+STR_2427    :{WINDOW_COLOUR_2}मुफ्त भोजन या पेय के लिए वाउचर
+STR_2428    :{WINDOW_COLOUR_2}पार्क के लिए विज्ञापन कैंपेन
+STR_2429    :{WINDOW_COLOUR_2}किसी विशेष राइड के लिए विज्ञापन कैंपेन
+STR_2430    :{BLACK}{STRINGID} में मुफ्त एंट्री के लिए वाउचर
+STR_2431    :{BLACK}{STRINGID} पर मुफ्त राइड के लिए वाउचर
+STR_2432    :{BLACK}{STRINGID} में आधी कीमत पर एंट्री के लिए वाउचर
+STR_2433    :{BLACK}मुफ्त {STRINGID} के लिए वाउचर
+STR_2434    :{BLACK}{STRINGID} के लिए विज्ञापन कैंपेन
+STR_2435    :{BLACK}{STRINGID} के लिए विज्ञापन कैंपेन
+STR_2436    :1 सप्ताह
+STR_2443    :{WINDOW_COLOUR_2}प्रति सप्ताह लागत: {BLACK}{CURRENCY2DP}
+STR_2444    :{WINDOW_COLOUR_2}कुल लागत: {BLACK}{CURRENCY2DP}
+STR_2445    :यह मार्केटिंग कैंपेन शुरू करें
+STR_2446    :{YELLOW}पार्क में मुफ्त एंट्री के लिए आपका मार्केटिंग कैंपेन समाप्त हो गया है
+STR_2447    :{YELLOW}{STRINGID} पर मुफ्त राइड के लिए आपका मार्केटिंग कैंपेन समाप्त हो गया है
+STR_2448    :{YELLOW}पार्क में आधी कीमत पर एंट्री के लिए आपका मार्केटिंग कैंपेन समाप्त हो गया है
+STR_2449    :{YELLOW}मुफ्त {STRINGID} के लिए आपका मार्केटिंग कैंपेन समाप्त हो गया है
+STR_2450    :{YELLOW}पार्क के लिए आपका विज्ञापन कैंपेन समाप्त हो गया है
+STR_2451    :{YELLOW}{STRINGID} के लिए आपका विज्ञापन कैंपेन समाप्त हो गया है
+STR_2452    :{WINDOW_COLOUR_2}नकद (लोन घटाकर): {BLACK}{CURRENCY2DP}
+STR_2453    :{WINDOW_COLOUR_2}नकद (लोन घटाकर): {RED}{CURRENCY2DP}
+STR_2457    :वित्तीय खाते दिखाएँ
+STR_2458    :समय के साथ नकद (लोन घटाकर) का ग्राफ़ दिखाएँ
+STR_2459    :समय के साथ पार्क मूल्य का ग्राफ़ दिखाएँ
+STR_2460    :साप्ताहिक लाभ का ग्राफ़ दिखाएँ
+STR_2461    :मार्केटिंग कैंपेन दिखाएँ
+STR_2462    :पार्क प्रवेश दृश्य दिखाएँ
+STR_2463    :समय के साथ पार्क रेटिंग का ग्राफ़ दिखाएँ
+STR_2464    :समय के साथ मेहमानों की संख्या का ग्राफ़ दिखाएँ
+STR_2465    :पार्क प्रवेश मूल्य और जानकारी दिखाएँ
+STR_2466    :पार्क के आँकड़े दिखाएँ
+STR_2467    :इस गेम के उद्देश्य दिखाएँ
+STR_2468    :इस पार्क को हाल में मिले पुरस्कार दिखाएँ
+STR_2469    :अनुसंधान और विकास का स्तर चुनें
+STR_2470    :नई परिवहन राइड्स पर अनुसंधान करें
+STR_2471    :नई सॉफ्ट राइड्स पर अनुसंधान करें
+STR_2472    :नए रोलर कोस्टर पर अनुसंधान करें
+STR_2473    :नई थ्रिल राइड्स पर अनुसंधान करें
+STR_2474    :नई वाटर राइड्स पर अनुसंधान करें
+STR_2475    :नई दुकानें और स्टॉल पर अनुसंधान करें
+STR_2476    :नए दृश्य और थीमिंग पर अनुसंधान करें
+STR_2477    :इस राइड/आकर्षण के लिए ऑपरेटिंग मोड चुनें
+STR_2478    :समय के साथ वेग का ग्राफ़ दिखाएँ
+STR_2479    :समय के साथ ऊँचाई का ग्राफ़ दिखाएँ
+STR_2480    :समय के साथ ऊर्ध्वाधर त्वरण का ग्राफ़ दिखाएँ
+STR_2481    :समय के साथ क्षैतिज त्वरण का ग्राफ़ दिखाएँ
+STR_2482    :लाभ: {CURRENCY} प्रति सप्ताह, पार्क मूल्य: {CURRENCY}
+STR_2483    :{WINDOW_COLOUR_2}साप्ताहिक लाभ: {BLACK}+{CURRENCY2DP}
+STR_2484    :{WINDOW_COLOUR_2}साप्ताहिक लाभ: {RED}{CURRENCY2DP}
+STR_2487    :मेहमानों के ‘वास्तविक’ नाम दिखाएँ
+STR_2488    :मेहमानों के ‘वास्तविक’ नाम और मेहमान नंबर के बीच टॉगल करें
+STR_2489    :शॉर्टकट keys…
+STR_2490    :कीबोर्ड शॉर्टकट
+STR_2491    :keys रीसेट करें
+STR_2492    :सभी कीबोर्ड शॉर्टकट को डिफ़ॉल्ट सेटिंग पर वापस सेट करें
+STR_2493    :सबसे ऊपर की विंडो बंद करें
+STR_2494    :सभी फ्लोटिंग विंडो बंद करें
+STR_2495    :कंस्ट्रक्शन मोड रद्द करें
 STR_2496    :गेम रोकें
 STR_2497    :दृश्य ज़ूम आउट करें
 STR_2498    :दृश्य ज़ूम इन करें
-STR_2499    :Rotate view clockwise
-STR_2500    :Rotate construction object
-STR_2501    :Underground view toggle
-STR_2502    :Hide base land toggle
-STR_2503    :Hide vertical land toggle
-STR_2504    :See-through rides toggle
-STR_2505    :See-through scenery toggle
-STR_2506    :Invisible supports toggle
-STR_2507    :Invisible people toggle
-STR_2508    :Height marks on land toggle
-STR_2509    :Height marks on ride tracks toggle
-STR_2510    :Height marks on paths toggle
-STR_2511    :Adjust land
-STR_2512    :Adjust water
-STR_2513    :Build scenery
-STR_2514    :Build paths
-STR_2515    :Build new ride
-STR_2516    :Show financial information
-STR_2517    :Show research information
-STR_2518    :Show rides list
-STR_2519    :Show park information
-STR_2520    :Show guest list
-STR_2521    :Show staff list
-STR_2522    :Show recent messages
-STR_2523    :Show map
+STR_2499    :दृश्य को दक्षिणावर्त घुमाएँ
+STR_2500    :निर्माण वस्तु घुमाएँ
+STR_2501    :अंडरग्राउंड दृश्य टॉगल
+STR_2502    :मूल भूमि छिपाएँ टॉगल
+STR_2503    :ऊर्ध्वाधर भूमि छिपाएँ टॉगल
+STR_2504    :राइड्स पारदर्शी टॉगल
+STR_2505    :दृश्य पारदर्शी टॉगल
+STR_2506    :अदृश्य सपोर्ट्स टॉगल
+STR_2507    :अदृश्य लोग टॉगल
+STR_2508    :भूमि पर ऊँचाई चिह्न टॉगल
+STR_2509    :राइड ट्रैक्स पर ऊँचाई चिह्न टॉगल
+STR_2510    :पथों पर ऊँचाई चिह्न टॉगल
+STR_2511    :भूमि समायोजित करें
+STR_2512    :पानी समायोजित करें
+STR_2513    :दृश्य बनाएँ
+STR_2514    :पथ बनाएँ
+STR_2515    :नई राइड बनाएँ
+STR_2516    :वित्तीय जानकारी दिखाएँ
+STR_2517    :अनुसंधान जानकारी दिखाएँ
+STR_2518    :राइड्स सूची दिखाएँ
+STR_2519    :पार्क जानकारी दिखाएँ
+STR_2520    :मेहमान सूची दिखाएँ
+STR_2521    :स्टाफ सूची दिखाएँ
+STR_2522    :हाल के संदेश दिखाएँ
+STR_2523    :मानचित्र दिखाएँ
 STR_2524    :स्क्रीनशॉट
-STR_2533    :Backspace
-STR_2534    :Tab
-STR_2537    :Clear
-STR_2538    :Return
-STR_2543    :Alt/Menu
-STR_2544    :Pause
-STR_2545    :Caps
-STR_2552    :Escape
-STR_2557    :Spacebar
+STR_2533    :बैकस्पेस
+STR_2534    :टैब
+STR_2537    :क्लियर
+STR_2538    :रिटर्न
+STR_2543    :Alt/मेनू
+STR_2544    :पॉज़
+STR_2545    :कैप्स
+STR_2552    :एस्केप
+STR_2557    :स्पेसबार
 STR_2558    :PgUp
 STR_2559    :PgDn
-STR_2560    :End
-STR_2561    :Home
-STR_2562    :Left
-STR_2563    :Up
+STR_2560    :समाप्त
+STR_2561    :होम
+STR_2562    :बाएँ
+STR_2563    :ऊपर
 STR_2564    :Right
 STR_2565    :Down
 STR_2566    :Select
