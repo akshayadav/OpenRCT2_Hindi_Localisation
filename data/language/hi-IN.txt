@@ -96,7 +96,7 @@ STR_0512    :एक स्पाइरल लिफ्ट हिल और च�
 STR_0513    :एक लूपिंग रोलर कोस्टर जिसमें सवार खड़े होकर सफर करते हैं
 STR_0514    :रोलर कोस्टर ट्रैक के नीचे लटकी ट्रेनें मोड़ पर बगल की ओर झूलती हैं
 STR_0515    :एक स्टील रोलर कोस्टर जिसमें ट्रेनें ट्रैक के नीचे रहती हैं, जटिल और घुमावदार ट्रैक के साथ
-STR_0516    :A gentle roller coaster for people who haven’t yet got the courage to face the larger rides
+STR_0516    :A gentle roller coaster for people who haven't yet got the courage to face the larger rides
 STR_0517    :यात्री संकरी पटरी रेलवे ट्रैक पर लघु ट्रेनों में सवारी करते हैं
 STR_0518    :यात्री मोनोरेल ट्रैक पर इलेक्ट्रिक ट्रेनों में यात्रा करते हैं
 STR_0519    :यात्री एकल-रेल ट्रैक के नीचे लटकी छोटी कारों में सवारी करते हैं, मोड़ पर स्वतंत्र रूप से झूलते हुए
@@ -140,8 +140,8 @@ STR_0559    :डरावने गलियारों और भूतिय�
 STR_0560    :बीमार मेहमानों के लिए जल्दी ठीक होने की जगह
 STR_0561    :बड़े तम्बू के अंदर सर्कस पशु प्रदर्शन
 STR_0562    :चालित कारें बहु-स्तरीय ट्रैक पर भूतिया दृश्यों और विशेष प्रभावों के पास से गुज़रती हैं
-STR_0563    :Sitting in comfortable trains with only simple lap restraints riders enjoy giant smooth drops and twisting track as well as plenty of ‘air time’ over the hills
-STR_0564    :Running on wooden track, this coaster is fast, rough, noisy, and gives an ‘out of control’ riding experience with plenty of ‘air time’
+STR_0563    :आरामदायक ट्रेनों में बैठकर केवल सरल लैप रेस्ट्रेंट के साथ, सवार विशाल चिकनी गिरावटों और घुमावदार ट्रैक का आनंद लेते हैं, साथ ही पहाड़ियों पर पर्याप्त 'एयर टाइम' भी पाते हैं
+STR_0564    :लकड़ी के ट्रैक पर चलने वाला यह कोस्टर तेज़, उबड़-खाबड़, शोरगुल वाला है, और 'नियंत्रण से बाहर' सवारी का अनुभव देता है जिसमें पर्याप्त 'एयर टाइम' होता है
 STR_0565    :एक साधारण लकड़ी का रोलर कोस्टर जो केवल हल्की ढलानों और मोड़ों में सक्षम है, जहाँ कारें केवल साइड फ्रिक्शन पहियों और गुरुत्वाकर्षण से ट्रैक पर रहती हैं
 STR_0566    :अलग-अलग रोलर कोस्टर कारें तीखे कोनों और छोटी तीखी ढलानों के साथ तंग ज़िग-ज़ैग ट्रैक पर दौड़ती हैं
 STR_0567    :ट्रैक के दोनों ओर लटकी सीटों में बैठकर, सवार खड़ी ढलानों पर गिरते और विभिन्न इनवर्जन से गुज़रते समय सिर के बल उलट जाते हैं
@@ -174,7 +174,7 @@ STR_0602    :रोलर कोस्टर ट्रेनों को स्
 STR_0603    :स्टील ट्रैक के साथ लकड़ी की शैली का रोलर कोस्टर, जो खड़ी ढलानों और इनवर्जन की अनुमति देता है
 STR_0604    :सवार एक संकरे मोनोरेल ट्रैक पर एकल पंक्ति में सवारी करते हैं, जैसे वे तंग इनवर्जन और दिशा परिवर्तनों से दौड़ते हैं
 STR_0605    :सवार बल खाते स्टील ट्रैक पर टोबोगन करते हैं, गति नियंत्रित करने के लिए ब्रेक लगाते हैं
-STR_0606    :An older-style wooden roller coaster with a fast and rough ride, with plenty of air-time, some lateral G’s, and designed to feel ‘out-of-control’
+STR_0606    :पुराने ज़माने का लकड़ी का रोलर कोस्टर जिसमें तेज़ और उबड़-खाबड़ सवारी होती है, पर्याप्त एयर-टाइम, कुछ पार्श्व G-बल, और 'नियंत्रण से बाहर' महसूस करने के लिए डिज़ाइन किया गया है
 STR_0607    :एक तीव्र, पुराने ज़माने का स्टील लूपिंग रोलर कोस्टर जिसमें सवार खड़े होकर सवारी करते हैं
 STR_0608    :रोलर कोस्टर ट्रेनों को लीनियर सिंक्रोनस मोटर्स द्वारा त्वरित किया जाता है, तंग ट्विस्ट और मोड़ों से तेज़ी से गुज़रती हैं
 STR_0609    :एक पुराने ज़माने का लकड़ी का रोलर कोस्टर जिसमें आर्टिकुलेटेड ट्रेनों, पर्याप्त एयर-टाइम और घुमावदार ट्रैक के साथ तेज़ और उबड़-खाबड़ सवारी है
@@ -245,13 +245,13 @@ STR_0839    :{UINT16} × {UINT16}
 STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} × {UINT16}
 STR_0847    :’OpenRCT2’ के बारे में
 STR_0850    :{WINDOW_COLOUR_2}Copyright © 2002 Chris Sawyer, all rights reserved
-STR_0851    :{WINDOW_COLOUR_2}Designed and programmed by Chris Sawyer
-STR_0852    :{WINDOW_COLOUR_2}Graphics by Simon Foster
-STR_0853    :{WINDOW_COLOUR_2}Sound and music by Allister Brimble
-STR_0854    :{WINDOW_COLOUR_2}Additional sounds recorded by David Ellis
-STR_0855    :{WINDOW_COLOUR_2}Representation by Jacqui Lyons at Marjacq Ltd.
-STR_0856    :{WINDOW_COLOUR_2}Thanks to:
-STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth, and John Wardley
+STR_0851    :{WINDOW_COLOUR_2}डिज़ाइन और प्रोग्रामिंग: Chris Sawyer
+STR_0852    :{WINDOW_COLOUR_2}ग्राफिक्स: Simon Foster
+STR_0853    :{WINDOW_COLOUR_2}ध्वनि और संगीत: Allister Brimble
+STR_0854    :{WINDOW_COLOUR_2}अतिरिक्त ध्वनियाँ: David Ellis
+STR_0855    :{WINDOW_COLOUR_2}प्रतिनिधित्व: Jacqui Lyons, Marjacq Ltd.
+STR_0856    :{WINDOW_COLOUR_2}आभार:
+STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth और John Wardley
 STR_0865    :{STRINGID}
 STR_0866    :{POP16}{STRINGID}
 STR_0867    :{POP16}{POP16}{STRINGID}
@@ -1181,8 +1181,8 @@ STR_1816    :मेहमान सूची में दिखाने के
 STR_1817    :({COMMA32})
 STR_1818    :{WINDOW_COLOUR_2}सभी मेहमान
 STR_1819    :{WINDOW_COLOUR_2}सभी मेहमान (संक्षिप्त)
-STR_1820    :{WINDOW_COLOUR_2}Guests {STRINGID}
-STR_1821    :{WINDOW_COLOUR_2}Guests thinking {SMALLFONT}{STRINGID}
+STR_1820    :{WINDOW_COLOUR_2}मेहमान {STRINGID}
+STR_1821    :{WINDOW_COLOUR_2}मेहमानों के विचार {SMALLFONT}{STRINGID}
 STR_1822    :{WINDOW_COLOUR_2}मेहमान {POP16}{STRINGID} के बारे में सोच रहे हैं
 STR_1823    :इस सवारी/आकर्षण के बारे में मेहमानों के विचार दिखाएं
 STR_1824    :इस सवारी/आकर्षण पर मेहमान दिखाएं
@@ -1273,7 +1273,7 @@ STR_1912    :{MONTH}
 STR_1913    :{BLACK}+{CURRENCY2DP}
 STR_1914    :{BLACK}{CURRENCY2DP}
 STR_1915    :{RED}{CURRENCY2DP}
-STR_1916    :{WINDOW_COLOUR_2}Loan:
+STR_1916    :{WINDOW_COLOUR_2}ऋण:
 STR_1917    :{POP16}{POP16}{POP16}{CURRENCY}
 STR_1918    :और पैसे उधार नहीं ले सकते!
 STR_1919    :पर्याप्त नगद उपलब्ध नहीं!
@@ -1923,13 +1923,13 @@ STR_2728    :{UINT16} घंटा:{UINT16} मि
 STR_2729    :{UINT16} घंटा:{UINT16} मि
 STR_2730    :{UINT16} घंटे:{UINT16} मि
 STR_2731    :{UINT16} घंटे:{UINT16} मि
-STR_2732    :{COMMA32} ft
+STR_2732    :{COMMA32} फुट
 STR_2733    :{COMMA32} m
-STR_2734    :{COMMA16} mph
-STR_2735    :{COMMA16} km/h
+STR_2734    :{COMMA16} मील/घंटा
+STR_2735    :{COMMA16} कि.मी./घंटा
 # Used only as part of label-value pair.
-STR_2736    :{MONTH}, Year {COMMA16}
-STR_2737    :{STRINGID} {MONTH}, Year {COMMA16}
+STR_2736    :{MONTH}, वर्ष {COMMA16}
+STR_2737    :{STRINGID} {MONTH}, वर्ष {COMMA16}
 STR_2738    :टाइटल स्क्रीन म्यूज़िक:
 STR_2739    :कोई नहीं
 STR_2740    :RollerCoaster Tycoon 1
@@ -1993,21 +1993,21 @@ STR_2812    :{RED}मेहमान भटक रहे हैं या फं
 STR_2813    :{RED}आपका पार्क प्रवेश शुल्क बहुत अधिक है!{NEWLINE}प्रवेश शुल्क कम करें या पार्क का मूल्य बढ़ाकर अधिक मेहमान आकर्षित करें
 STR_2814    :{WINDOW_COLOUR_2}सबसे गंदा पार्क पुरस्कार
 STR_2815    :{WINDOW_COLOUR_2}सबसे साफ-सुथरा पार्क पुरस्कार
-STR_2816    :{WINDOW_COLOUR_2}Award for the park with the best roller coasters
-STR_2817    :{WINDOW_COLOUR_2}Best value park award
-STR_2818    :{WINDOW_COLOUR_2}Most beautiful park award
-STR_2819    :{WINDOW_COLOUR_2}Worst value park award
-STR_2820    :{WINDOW_COLOUR_2}Safest park award
-STR_2821    :{WINDOW_COLOUR_2}Best staff award
-STR_2822    :{WINDOW_COLOUR_2}Best park food award
-STR_2823    :{WINDOW_COLOUR_2}Worst park food award
-STR_2824    :{WINDOW_COLOUR_2}Best park toilets award
-STR_2825    :{WINDOW_COLOUR_2}Most disappointing park award
-STR_2826    :{WINDOW_COLOUR_2}Best water rides award
-STR_2827    :{WINDOW_COLOUR_2}Best custom-designed rides award
-STR_2828    :{WINDOW_COLOUR_2}Most dazzling ride colour schemes award
-STR_2829    :{WINDOW_COLOUR_2}Most confusing park layout award
-STR_2830    :{WINDOW_COLOUR_2}Best gentle ride award
+STR_2816    :{WINDOW_COLOUR_2}सर्वश्रेष्ठ रोलर कोस्टर वाले पार्क का पुरस्कार
+STR_2817    :{WINDOW_COLOUR_2}सर्वश्रेष्ठ मूल्य पार्क पुरस्कार
+STR_2818    :{WINDOW_COLOUR_2}सबसे सुंदर पार्क पुरस्कार
+STR_2819    :{WINDOW_COLOUR_2}सबसे खराब मूल्य पार्क पुरस्कार
+STR_2820    :{WINDOW_COLOUR_2}सबसे सुरक्षित पार्क पुरस्कार
+STR_2821    :{WINDOW_COLOUR_2}सर्वश्रेष्ठ स्टाफ पुरस्कार
+STR_2822    :{WINDOW_COLOUR_2}सर्वश्रेष्ठ पार्क भोजन पुरस्कार
+STR_2823    :{WINDOW_COLOUR_2}सबसे खराब पार्क भोजन पुरस्कार
+STR_2824    :{WINDOW_COLOUR_2}सर्वश्रेष्ठ पार्क शौचालय पुरस्कार
+STR_2825    :{WINDOW_COLOUR_2}सबसे निराशाजनक पार्क पुरस्कार
+STR_2826    :{WINDOW_COLOUR_2}सर्वश्रेष्ठ वॉटर राइड पुरस्कार
+STR_2827    :{WINDOW_COLOUR_2}सर्वश्रेष्ठ कस्टम-डिज़ाइन राइड पुरस्कार
+STR_2828    :{WINDOW_COLOUR_2}सबसे आकर्षक राइड रंग योजना पुरस्कार
+STR_2829    :{WINDOW_COLOUR_2}सबसे भ्रामक पार्क लेआउट पुरस्कार
+STR_2830    :{WINDOW_COLOUR_2}सर्वश्रेष्ठ सौम्य राइड पुरस्कार
 STR_2831    :{TOPAZ}Your park has received an award for being ‘The most untidy park in the country’!
 STR_2832    :{TOPAZ}Your park has received an award for being ‘The tidiest park in the country’!
 STR_2833    :{TOPAZ}Your park has received an award for being ‘The park with the best roller coasters’!
@@ -2025,41 +2025,41 @@ STR_2844    :{TOPAZ}Your park has received an award for being ‘The park with t
 STR_2845    :{TOPAZ}Your park has received an award for being ‘The park with the most dazzling choice of colour schemes’!
 STR_2846    :{TOPAZ}Your park has received an award for being ‘The park with the most confusing layout’!
 STR_2847    :{TOPAZ}Your park has received an award for being ‘The park with the best gentle rides’!
-STR_2848    :{WINDOW_COLOUR_2}No recent awards
-STR_2849    :New scenario installed successfully
-STR_2850    :New track design installed successfully
-STR_2851    :Scenario already installed
-STR_2852    :Track design already installed
-STR_2853    :Forbidden by the local authority!
+STR_2848    :{WINDOW_COLOUR_2}हाल के कोई पुरस्कार नहीं
+STR_2849    :नया परिदृश्य सफलतापूर्वक स्थापित हुआ
+STR_2850    :नया ट्रैक डिज़ाइन सफलतापूर्वक स्थापित हुआ
+STR_2851    :परिदृश्य पहले से स्थापित है
+STR_2852    :ट्रैक डिज़ाइन पहले से स्थापित है
+STR_2853    :स्थानीय प्राधिकरण द्वारा प्रतिबंधित!
 STR_2854    :{RED}Guests can’t get to the entrance of {STRINGID}!{NEWLINE}Construct a path to the entrance
-STR_2855    :{RED}{STRINGID} has no path leading from its exit!{NEWLINE}Construct a path from the ride exit
+STR_2855    :{RED}{STRINGID} के निकास से कोई रास्ता नहीं निकलता!{NEWLINE}राइड निकास से रास्ता बनाएं
 STR_2858    :Can’t start marketing campaign…
-STR_2861    :{WINDOW_COLOUR_2}Licensed to Infogrames Interactive Inc.
-STR_2971    :Main colour scheme
-STR_2972    :Alternative colour scheme 1
-STR_2973    :Alternative colour scheme 2
-STR_2974    :Alternative colour scheme 3
-STR_2975    :Select which colour scheme to change, or paint ride with
-STR_2976    :Paint an individual area of this ride using the selected colour scheme
-STR_2977    :Staff member name
-STR_2978    :Enter new name for this member of staff:
-STR_2979    :Can’t name staff member…
-STR_2980    :Too many banners in game
-STR_2981    :{RED}No entry
-STR_2982    :Banner text
-STR_2983    :Enter new text for this banner:
-STR_2984    :Can’t set new text for banner…
-STR_2985    :Banner
-STR_2986    :Change text on banner
-STR_2987    :Set this banner as a ‘no-entry’ sign for guests
-STR_2988    :Demolish this banner
+STR_2861    :{WINDOW_COLOUR_2}Infogrames Interactive Inc. को लाइसेंस प्राप्त
+STR_2971    :मुख्य रंग योजना
+STR_2972    :वैकल्पिक रंग योजना 1
+STR_2973    :वैकल्पिक रंग योजना 2
+STR_2974    :वैकल्पिक रंग योजना 3
+STR_2975    :बदलने के लिए रंग योजना चुनें, या राइड रंगें
+STR_2976    :चुनी गई रंग योजना से इस राइड का एक विशेष क्षेत्र रंगें
+STR_2977    :कर्मचारी का नाम
+STR_2978    :इस कर्मचारी के लिए नया नाम दर्ज करें:
+STR_2979    :कर्मचारी का नाम नहीं रख सकते…
+STR_2980    :गेम में बहुत अधिक बैनर हैं
+STR_2981    :{RED}कोई प्रवेश नहीं
+STR_2982    :बैनर पाठ
+STR_2983    :इस बैनर के लिए नया पाठ दर्ज करें:
+STR_2984    :बैनर के लिए नया पाठ नहीं सेट कर सकते…
+STR_2985    :बैनर
+STR_2986    :बैनर पर पाठ बदलें
+STR_2987    :इस बैनर को मेहमानों के लिए 'कोई प्रवेश नहीं' चिह्न के रूप में सेट करें
+STR_2988    :यह बैनर तोड़ें
 STR_2989    :मुख्य रंग चुनें
-STR_2990    :Select text colour
+STR_2990    :पाठ का रंग चुनें
 STR_2991    :साइन
-STR_2992    :Sign text
-STR_2993    :Enter new text for this sign:
-STR_2994    :Change text on sign
-STR_2995    :Demolish this sign
+STR_2992    :साइन पाठ
+STR_2993    :इस साइन के लिए नया पाठ दर्ज करें:
+STR_2994    :साइन पर पाठ बदलें
+STR_2995    :यह साइन तोड़ें
 STR_2996    :{BLACK}ABC
 STR_2997    :{GREY}ABC
 STR_2998    :{WHITE}ABC
@@ -2074,168 +2074,168 @@ STR_3006    :{PALEGOLD}ABC
 STR_3007    :{LIGHTPINK}ABC
 STR_3008    :{PEARLAQUA}ABC
 STR_3009    :{PALESILVER}ABC
-STR_3010    :Unable to load file…
-STR_3011    :File contains invalid data
-STR_3045    :Select style of music to play
-STR_3047    :Local authority forbids demolition or modifications to this ride
-STR_3048    :Marketing campaigns forbidden by local authority
-STR_3049    :Golf hole A
-STR_3050    :Golf hole B
-STR_3051    :Golf hole C
-STR_3052    :Golf hole D
-STR_3053    :Golf hole E
+STR_3010    :फाइल लोड नहीं हो सकी…
+STR_3011    :फाइल में अमान्य डेटा है
+STR_3045    :बजाने के लिए संगीत शैली चुनें
+STR_3047    :स्थानीय प्राधिकरण इस राइड के विध्वंस या संशोधन को मना करता है
+STR_3048    :स्थानीय प्राधिकरण द्वारा विपणन अभियान प्रतिबंधित
+STR_3049    :गोल्फ होल A
+STR_3050    :गोल्फ होल B
+STR_3051    :गोल्फ होल C
+STR_3052    :गोल्फ होल D
+STR_3053    :गोल्फ होल E
 STR_3054    :Loading…
-STR_3058    :Brick walls
-STR_3059    :Hedges
-STR_3060    :Ice blocks
-STR_3061    :Wooden fences
-STR_3062    :Standard roller coaster track
-STR_3063    :Water channel (track submerged)
-STR_3064    :Beginner Parks
-STR_3065    :Challenging Parks
-STR_3066    :Expert Parks
+STR_3058    :ईंट की दीवारें
+STR_3059    :हेज
+STR_3060    :बर्फ के ब्लॉक
+STR_3061    :लकड़ी की बाड़
+STR_3062    :मानक रोलर कोस्टर ट्रैक
+STR_3063    :जल चैनल (ट्रैक डूबा हुआ)
+STR_3064    :शुरुआती पार्क
+STR_3065    :चुनौतीपूर्ण पार्क
+STR_3066    :विशेषज्ञ पार्क
 STR_3067    :“Real” Parks
-STR_3068    :Other Parks
-STR_3069    :Top Section
-STR_3070    :Slope to Level
-STR_3071    :{WINDOW_COLOUR_2}Same price throughout park
-STR_3072    :Select whether this price is used throughout the entire park
+STR_3068    :अन्य पार्क
+STR_3069    :शीर्ष खंड
+STR_3070    :ढलान से समतल
+STR_3071    :{WINDOW_COLOUR_2}पूरे पार्क में एक ही कीमत
+STR_3072    :चुनें कि यह कीमत पूरे पार्क में उपयोग हो या नहीं
 STR_3073    :{RED}WARNING: Your park rating has dropped below 700!{NEWLINE}If you haven’t raised the park rating in 4 weeks, your park will be closed down
-STR_3074    :{RED}WARNING: Your park rating is still below 700!{NEWLINE}You have 3 weeks to raise the park rating
-STR_3075    :{RED}WARNING: Your park rating is still below 700!{NEWLINE}You have only 2 weeks to raise the park rating, or your park will be closed down
-STR_3076    :{RED}FINAL WARNING: Your park rating is still below 700!{NEWLINE}In just 7 days your park will be closed down unless you can raise the rating
-STR_3077    :{RED}CLOSURE NOTICE: Your park has been closed down!
-STR_3090    :Select style of entrance, exit, and station
-STR_3091    :You are not allowed to remove this section!
-STR_3092    :You are not allowed to move or modify the station for this ride!
-STR_3093    :{WINDOW_COLOUR_2}Favourite: {BLACK}{STRINGID}
+STR_3074    :{RED}चेतावनी: आपकी पार्क रेटिंग अभी भी 700 से नीचे है!{NEWLINE}पार्क रेटिंग बढ़ाने के लिए आपके पास 3 सप्ताह हैं
+STR_3075    :{RED}चेतावनी: आपकी पार्क रेटिंग अभी भी 700 से नीचे है!{NEWLINE}पार्क रेटिंग बढ़ाने के लिए केवल 2 सप्ताह बचे हैं, अन्यथा आपका पार्क बंद कर दिया जाएगा
+STR_3076    :{RED}अंतिम चेतावनी: आपकी पार्क रेटिंग अभी भी 700 से नीचे है!{NEWLINE}केवल 7 दिनों में आपका पार्क बंद कर दिया जाएगा जब तक रेटिंग नहीं बढ़ाते
+STR_3077    :{RED}बंद नोटिस: आपका पार्क बंद कर दिया गया है!
+STR_3090    :प्रवेश, निकास और स्टेशन की शैली चुनें
+STR_3091    :आप इस खंड को नहीं हटा सकते!
+STR_3092    :आप इस राइड के स्टेशन को स्थानांतरित या संशोधित नहीं कर सकते!
+STR_3093    :{WINDOW_COLOUR_2}पसंदीदा: {BLACK}{STRINGID}
 STR_3094    :N/A
-STR_3095    :{WINDOW_COLOUR_2}Lift hill chain speed:
+STR_3095    :{WINDOW_COLOUR_2}लिफ्ट हिल चेन गति:
 STR_3096    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
-STR_3097    :Select lift hill chain speed
-STR_3099    :Select colour
-STR_3100    :Select second colour
-STR_3101    :Select third colour
-STR_3102    :Re-paint coloured scenery on landscape
+STR_3097    :लिफ्ट हिल चेन गति चुनें
+STR_3099    :रंग चुनें
+STR_3100    :दूसरा रंग चुनें
+STR_3101    :तीसरा रंग चुनें
+STR_3102    :परिदृश्य पर रंगीन दृश्यावली फिर से रंगें
 STR_3103    :Can’t re-paint this…
-STR_3104    :List rides
-STR_3105    :List shops and stalls
-STR_3106    :List information kiosks and other guest facilities
-STR_3107    :Close
-STR_3108    :Test
+STR_3104    :राइड सूची
+STR_3105    :दुकानें और स्टॉल सूची
+STR_3106    :सूचना कियोस्क और अन्य मेहमान सुविधाओं की सूची
+STR_3107    :बंद करें
+STR_3108    :परीक्षण
 STR_3109    :खुला
-STR_3110    :{WINDOW_COLOUR_2}Block Sections: {BLACK}{COMMA16}
+STR_3110    :{WINDOW_COLOUR_2}ब्लॉक सेक्शन: {BLACK}{COMMA16}
 STR_3111    :Click on design to build it
-STR_3112    :Click on design to rename or delete it
-STR_3113    :Select a different design
-STR_3114    :Go back to design selection window
-STR_3115    :Save track design
-STR_3116    :Save track design (Not possible until ride has been tested and statistics have been generated)
-STR_3117    :{BLACK}Calling mechanic…
-STR_3118    :{BLACK}{STRINGID} is heading for the ride
-STR_3119    :{BLACK}{STRINGID} is fixing the ride
-STR_3120    :Locate nearest available mechanic, or mechanic fixing ride
-STR_3121    :Unable to locate mechanic, or all nearby mechanics are busy
-STR_3122    :{WINDOW_COLOUR_2}Favourite ride of: {BLACK}{COMMA32} guest
-STR_3123    :{WINDOW_COLOUR_2}Favourite ride of: {BLACK}{COMMA32} guests
-STR_3124    :Broken {STRINGID}
-STR_3125    :{WINDOW_COLOUR_2}Excitement Factor: {BLACK}+{COMMA16}%
-STR_3126    :{WINDOW_COLOUR_2}Intensity Factor: {BLACK}+{COMMA16}%
-STR_3127    :{WINDOW_COLOUR_2}Nausea Factor: {BLACK}+{COMMA16}%
-STR_3128    :Save Track Design
-STR_3129    :Save Track Design with Scenery
+STR_3112    :बनाने के लिए डिज़ाइन पर क्लिक करें
+STR_3113    :नाम बदलने या हटाने के लिए डिज़ाइन पर क्लिक करें
+STR_3114    :अलग डिज़ाइन चुनें
+STR_3115    :डिज़ाइन चयन विंडो पर वापस जाएं
+STR_3116    :ट्रैक डिज़ाइन सहेजें
+STR_3117    :ट्रैक डिज़ाइन सहेजें (राइड का परीक्षण होने और सांख्यिकी उत्पन्न होने तक संभव नहीं)
+STR_3118    :{BLACK}{STRINGID} राइड की ओर जा रहा है
+STR_3119    :{BLACK}{STRINGID} राइड ठीक कर रहा है
+STR_3120    :निकटतम उपलब्ध मैकेनिक खोजें, या राइड ठीक करने वाला मैकेनिक
+STR_3121    :मैकेनिक नहीं मिला, या सभी पास के मैकेनिक व्यस्त हैं
+STR_3122    :{WINDOW_COLOUR_2}पसंदीदा राइड: {BLACK}{COMMA32} मेहमान का
+STR_3123    :{WINDOW_COLOUR_2}पसंदीदा राइड: {BLACK}{COMMA32} मेहमानों का
+STR_3124    :खराब {STRINGID}
+STR_3125    :{WINDOW_COLOUR_2}उत्साह कारक: {BLACK}+{COMMA16}%
+STR_3126    :{WINDOW_COLOUR_2}तीव्रता कारक: {BLACK}+{COMMA16}%
+STR_3127    :{WINDOW_COLOUR_2}मतली कारक: {BLACK}+{COMMA16}%
+STR_3128    :ट्रैक डिज़ाइन सहेजें
+STR_3129    :दृश्यावली सहित ट्रैक डिज़ाइन सहेजें
 STR_3130    :सहेजें
 STR_3131    :रद्द करें
 STR_3132    :{BLACK}Click items of scenery to select them to be saved with track design…
-STR_3133    :Unable to build this on a slope
-STR_3134    :{RED}(Design includes scenery which is unavailable)
-STR_3135    :{RED}(Vehicle design unavailable. Ride performance may be affected.)
-STR_3136    :Warning: This design will be built with an alternative vehicle type and may not perform as expected
-STR_3137    :Select Nearby Scenery
-STR_3138    :Reset Selection
-STR_3139    :Cable lift unable to work in this operating mode
-STR_3141    :Multi-circuit per ride not possible with cable lift hill
-STR_3142    :{WINDOW_COLOUR_2}Capacity: {BLACK}{STRINGID}
-STR_3143    :Show people on map
-STR_3144    :Show rides and stalls on map
-STR_3160    :Select the number of circuits per ride
-STR_3162    :Unable to allocate enough memory
-STR_3163    :Installing new data: 
-STR_3164    :{BLACK}{COMMA16} selected (maximum {COMMA16})
-STR_3167    :{WINDOW_COLOUR_2}Includes: {BLACK}{COMMA16} objects
-STR_3169    :Data for the following object not found: 
-STR_3170    :Not enough space for graphics
-STR_3171    :Too many objects of this type selected
-STR_3172    :The following object must be selected first: {STRING}
-STR_3173    :This object is currently in use
-STR_3174    :This object is required by another object
-STR_3175    :This object is always required
-STR_3176    :Unable to select this object
-STR_3177    :Unable to de-select this object
-STR_3179    :At least one ride vehicle/attraction object must be selected
-STR_3180    :Invalid selection of objects
-STR_3181    :Object Selection - {STRINGID}
-STR_3182    :Park entrance type must be selected
-STR_3183    :Water type must be selected
-STR_3184    :Ride Vehicles/Attractions
-STR_3185    :Small Scenery
-STR_3186    :Large Scenery
-STR_3187    :Walls/Fences
-STR_3188    :Path Signs
-STR_3189    :Legacy footpaths
-STR_3190    :Path Extras
-STR_3191    :Scenery Groups
-STR_3192    :Park Entrances
-STR_3193    :Water
-STR_3195    :Invention List
-STR_3196    :{WINDOW_COLOUR_2}Research Group: {BLACK}{STRINGID}
-STR_3197    :{WINDOW_COLOUR_2}Items pre-invented at start of game:
-STR_3198    :{WINDOW_COLOUR_2}Items to invent during game:
-STR_3199    :Random Shuffle
-STR_3200    :Randomly shuffle the list of items to invent during the game
-STR_3201    :Object Selection
-STR_3202    :Landscape Editor
-STR_3203    :Invention List Set Up
-STR_3204    :Options Selection
-STR_3205    :Objective Selection
+STR_3133    :ढलान पर यह नहीं बना सकते
+STR_3134    :{RED}(डिज़ाइन में ऐसी दृश्यावली शामिल है जो उपलब्ध नहीं है)
+STR_3135    :{RED}(वाहन डिज़ाइन उपलब्ध नहीं। राइड प्रदर्शन प्रभावित हो सकता है।)
+STR_3136    :चेतावनी: यह डिज़ाइन वैकल्पिक वाहन प्रकार के साथ बनाया जाएगा और अपेक्षा के अनुसार प्रदर्शन नहीं कर सकता
+STR_3137    :पास की दृश्यावली चुनें
+STR_3138    :चयन रीसेट करें
+STR_3139    :इस ऑपरेटिंग मोड में केबल लिफ्ट काम नहीं कर सकती
+STR_3141    :केबल लिफ्ट हिल के साथ प्रति राइड मल्टी-सर्किट संभव नहीं
+STR_3142    :{WINDOW_COLOUR_2}क्षमता: {BLACK}{STRINGID}
+STR_3143    :नक्शे पर लोग दिखाएं
+STR_3144    :नक्शे पर राइड और स्टॉल दिखाएं
+STR_3160    :प्रति राइड सर्किट की संख्या चुनें
+STR_3162    :पर्याप्त मेमोरी आवंटित करने में असमर्थ
+STR_3163    :नया डेटा स्थापित हो रहा है:
+STR_3164    :{BLACK}{COMMA16} चुना गया (अधिकतम {COMMA16})
+STR_3167    :{WINDOW_COLOUR_2}शामिल: {BLACK}{COMMA16} वस्तुएं
+STR_3169    :निम्नलिखित वस्तु का डेटा नहीं मिला:
+STR_3170    :ग्राफिक्स के लिए पर्याप्त स्थान नहीं
+STR_3171    :इस प्रकार की बहुत अधिक वस्तुएं चुनी गई हैं
+STR_3172    :निम्नलिखित वस्तु पहले चुनी जानी चाहिए: {STRING}
+STR_3173    :यह वस्तु वर्तमान में उपयोग में है
+STR_3174    :यह वस्तु दूसरी वस्तु के लिए आवश्यक है
+STR_3175    :यह वस्तु हमेशा आवश्यक है
+STR_3176    :यह वस्तु नहीं चुन सकते
+STR_3177    :यह वस्तु हटा नहीं सकते
+STR_3179    :कम से कम एक राइड वाहन/आकर्षण वस्तु चुनी जानी चाहिए
+STR_3180    :वस्तुओं का अमान्य चयन
+STR_3181    :वस्तु चयन - {STRINGID}
+STR_3182    :पार्क प्रवेश प्रकार चुना जाना चाहिए
+STR_3183    :पानी का प्रकार चुना जाना चाहिए
+STR_3184    :राइड वाहन/आकर्षण
+STR_3185    :छोटी दृश्यावली
+STR_3186    :बड़ी दृश्यावली
+STR_3187    :दीवारें/बाड़
+STR_3188    :रास्ते के संकेत
+STR_3189    :पुराने पैदल रास्ते
+STR_3190    :रास्ते की अतिरिक्त चीजें
+STR_3191    :दृश्यावली समूह
+STR_3192    :पार्क प्रवेश
+STR_3193    :पानी
+STR_3195    :आविष्कार सूची
+STR_3196    :{WINDOW_COLOUR_2}अनुसंधान समूह: {BLACK}{STRINGID}
+STR_3197    :{WINDOW_COLOUR_2}गेम की शुरुआत में पहले से आविष्कृत आइटम:
+STR_3198    :{WINDOW_COLOUR_2}गेम के दौरान आविष्कार होने वाले आइटम:
+STR_3199    :यादृच्छिक फेरबदल
+STR_3200    :गेम के दौरान आविष्कार होने वाले आइटमों की सूची यादृच्छिक रूप से फेरबदल करें
+STR_3201    :वस्तु चयन
+STR_3202    :लैंडस्केप संपादक
+STR_3203    :आविष्कार सूची सेटअप
+STR_3204    :विकल्प चयन
+STR_3205    :लक्ष्य चयन
 STR_3206    :परिदृश्य सहेजें
-STR_3207    :Track Designer
-STR_3208    :Track Designs Manager
-STR_3209    :Back to Previous Step:
-STR_3210    :Forward to Next Step:
-STR_3211    :Map size:
+STR_3207    :ट्रैक डिज़ाइनर
+STR_3208    :ट्रैक डिज़ाइन मैनेजर
+STR_3209    :पिछले चरण पर वापस:
+STR_3210    :अगले चरण पर आगे:
+STR_3211    :नक्शा आकार:
 STR_3212    :{POP16}{COMMA16}
 STR_3213    :Can’t decrease map size any further
 STR_3214    :Can’t increase map size any further
-STR_3215    :Too close to edge of map
-STR_3216    :Select park-owned land etc.
-STR_3217    :Land Owned
-STR_3218    :Construction Rights Owned
-STR_3219    :Land For Sale
-STR_3220    :Construction Rights For Sale
-STR_3221    :Set land to be owned by the park
-STR_3222    :Set construction rights only to be owned by the park
-STR_3223    :Set land to be available to purchase by the park
-STR_3224    :Set construction rights to be available to purchase by the park
-STR_3225    :Toggle on/off building a random cluster of objects around the selected position
-STR_3226    :Build park entrance
-STR_3227    :Too many park entrances!
-STR_3228    :Set starting positions for people
-STR_3229    :Block Brakes cannot be used directly after station
-STR_3230    :Block Brakes cannot be used directly after each other
-STR_3231    :Block Brakes cannot be used directly after the top of this lift hill
-STR_3232    :Scenario options - Financial
-STR_3233    :Scenario options - Guests
-STR_3235    :Show financial options
-STR_3236    :Show guest options
-STR_3238    :No Money
+STR_3215    :नक्शे के किनारे के बहुत पास
+STR_3216    :पार्क-स्वामित्व वाली ज़मीन आदि चुनें
+STR_3217    :पार्क की ज़मीन
+STR_3218    :निर्माण अधिकार प्राप्त
+STR_3219    :बिक्री के लिए ज़मीन
+STR_3220    :बिक्री के लिए निर्माण अधिकार
+STR_3221    :ज़मीन को पार्क की संपत्ति सेट करें
+STR_3222    :केवल निर्माण अधिकार को पार्क की संपत्ति सेट करें
+STR_3223    :ज़मीन को पार्क द्वारा खरीदने के लिए उपलब्ध सेट करें
+STR_3224    :निर्माण अधिकार को पार्क द्वारा खरीदने के लिए उपलब्ध सेट करें
+STR_3225    :चुनी गई स्थिति के चारों ओर वस्तुओं का यादृच्छिक समूह बनाना चालू/बंद करें
+STR_3226    :पार्क प्रवेश द्वार बनाएं
+STR_3227    :बहुत अधिक पार्क प्रवेश द्वार!
+STR_3228    :लोगों के लिए शुरुआती स्थान सेट करें
+STR_3229    :ब्लॉक ब्रेक स्टेशन के तुरंत बाद उपयोग नहीं किए जा सकते
+STR_3230    :ब्लॉक ब्रेक एक-दूसरे के तुरंत बाद उपयोग नहीं किए जा सकते
+STR_3231    :ब्लॉक ब्रेक इस लिफ्ट हिल के शीर्ष के तुरंत बाद उपयोग नहीं किए जा सकते
+STR_3232    :परिदृश्य विकल्प - वित्तीय
+STR_3233    :परिदृश्य विकल्प - मेहमान
+STR_3235    :वित्तीय विकल्प दिखाएं
+STR_3236    :मेहमान विकल्प दिखाएं
+STR_3238    :कोई पैसा नहीं
 STR_3239    :Make this park a ‘no money’ park with no financial restrictions
-STR_3240    :Initial cash:
-STR_3241    :Initial loan:
-STR_3242    :Maximum loan size:
-STR_3243    :Annual interest rate:
-STR_3244    :Forbid marketing campaigns
-STR_3245    :Forbid advertising, promotional schemes, and other marketing campaigns
+STR_3240    :प्रारंभिक नगद:
+STR_3241    :प्रारंभिक ऋण:
+STR_3242    :अधिकतम ऋण आकार:
+STR_3243    :वार्षिक ब्याज दर:
+STR_3244    :विपणन अभियान प्रतिबंधित करें
+STR_3245    :विज्ञापन, प्रचार योजनाएं और अन्य विपणन अभियान प्रतिबंधित करें
 STR_3246    :{CURRENCY}
 STR_3247    :{COMMA16}%
 STR_3248    :Can’t increase initial cash any further!
@@ -2246,505 +2246,505 @@ STR_3252    :Can’t increase maximum loan size any further!
 STR_3253    :Can’t reduce maximum loan size any further!
 STR_3254    :Can’t increase interest rate any further!
 STR_3255    :Can’t reduce interest rate any further!
-STR_3260    :Cash per guest (average):
+STR_3260    :प्रति मेहमान नगद (औसत):
 STR_3261    :Guests’ initial happiness:
 STR_3262    :Guests’ initial hunger:
 STR_3263    :Guests’ initial thirst:
 STR_3264    :Can’t increase this any further!
 STR_3265    :Can’t reduce this any further!
-STR_3266    :Select how this park charges for entrance and rides
-STR_3267    :Forbid tree removal
-STR_3268    :Forbid tall trees being removed
-STR_3269    :Forbid landscape changes
-STR_3270    :Forbid any changes to the landscape
-STR_3271    :Forbid high construction
-STR_3272    :Forbid any tall construction
-STR_3273    :Park rating is harder to increase and maintain
-STR_3274    :Make the park rating value more challenging
-STR_3275    :Guests are more difficult to attract
-STR_3276    :Make it more difficult to attract guests to the park
-STR_3277    :Cost to buy land:
-STR_3278    :Cost to buy construction rights:
-STR_3279    :Free park entry / Pay per ride
-STR_3280    :Pay to enter park / Free rides
-STR_3281    :Entry price:
-STR_3283    :Select rides to be preserved
-STR_3285    :Scenario options - Preserved Rides
-STR_3286    :Select objective for this scenario
-STR_3287    :{WINDOW_COLOUR_2}Objective:
+STR_3266    :चुनें कि यह पार्क प्रवेश और राइड के लिए कैसे शुल्क लेता है
+STR_3267    :पेड़ हटाने पर प्रतिबंध
+STR_3268    :ऊँचे पेड़ हटाने पर प्रतिबंध
+STR_3269    :परिदृश्य परिवर्तन प्रतिबंधित करें
+STR_3270    :परिदृश्य में कोई भी परिवर्तन प्रतिबंधित करें
+STR_3271    :ऊँचे निर्माण पर प्रतिबंध
+STR_3272    :कोई भी ऊँचा निर्माण प्रतिबंधित करें
+STR_3273    :पार्क रेटिंग बढ़ाना और बनाए रखना अधिक कठिन है
+STR_3274    :पार्क रेटिंग मूल्य को अधिक चुनौतीपूर्ण बनाएं
+STR_3275    :मेहमानों को आकर्षित करना अधिक कठिन है
+STR_3276    :पार्क में मेहमानों को आकर्षित करना अधिक कठिन बनाएं
+STR_3277    :ज़मीन खरीदने की लागत:
+STR_3278    :निर्माण अधिकार खरीदने की लागत:
+STR_3279    :मुफ्त पार्क प्रवेश / प्रति राइड भुगतान
+STR_3280    :पार्क प्रवेश के लिए भुगतान / मुफ्त राइड
+STR_3281    :प्रवेश मूल्य:
+STR_3283    :संरक्षित की जाने वाली राइड चुनें
+STR_3285    :परिदृश्य विकल्प - संरक्षित राइड
+STR_3286    :इस परिदृश्य का लक्ष्य चुनें
+STR_3287    :{WINDOW_COLOUR_2}लक्ष्य:
 STR_3294    :Change…
-STR_3295    :Change name of park
-STR_3296    :Change name of scenario
-STR_3297    :Change detail notes about park / scenario
-STR_3298    :{WINDOW_COLOUR_2}Park Name: {BLACK}{STRINGID}
-STR_3299    :{WINDOW_COLOUR_2}Park/Scenario Details:
-STR_3300    :{WINDOW_COLOUR_2}Scenario Name: {BLACK}{STRINGID}
-STR_3301    :{WINDOW_COLOUR_2}Objective Date:
+STR_3295    :पार्क का नाम बदलें
+STR_3296    :परिदृश्य का नाम बदलें
+STR_3297    :पार्क/परिदृश्य के विवरण नोट बदलें
+STR_3298    :{WINDOW_COLOUR_2}पार्क नाम: {BLACK}{STRINGID}
+STR_3299    :{WINDOW_COLOUR_2}पार्क/परिदृश्य विवरण:
+STR_3300    :{WINDOW_COLOUR_2}परिदृश्य नाम: {BLACK}{STRINGID}
+STR_3301    :{WINDOW_COLOUR_2}लक्ष्य तिथि:
 STR_3302    :{WINDOW_COLOUR_2}{MONTHYEAR}
-STR_3303    :{WINDOW_COLOUR_2}Number of guests:
-STR_3304    :{WINDOW_COLOUR_2}Park value:
-STR_3305    :{WINDOW_COLOUR_2}Monthly income:
-STR_3306    :{WINDOW_COLOUR_2}Monthly profit:
-STR_3307    :{WINDOW_COLOUR_2}Minimum length:
-STR_3308    :{WINDOW_COLOUR_2}Excitement rating:
+STR_3303    :{WINDOW_COLOUR_2}मेहमानों की संख्या:
+STR_3304    :{WINDOW_COLOUR_2}पार्क मूल्य:
+STR_3305    :{WINDOW_COLOUR_2}मासिक आय:
+STR_3306    :{WINDOW_COLOUR_2}मासिक लाभ:
+STR_3307    :{WINDOW_COLOUR_2}न्यूनतम लंबाई:
+STR_3308    :{WINDOW_COLOUR_2}उत्साह रेटिंग:
 STR_3309    :{WINDOW_COLOUR_2}{COMMA32}
 STR_3310    :{WINDOW_COLOUR_2}{LENGTH}
 STR_3311    :{WINDOW_COLOUR_2}{COMMA2DP32}
-STR_3312    :{WINDOW_COLOUR_2}Rides/attractions under a preservation order:
-STR_3313    :Scenario Name
-STR_3314    :Enter name for scenario:
-STR_3315    :Park/Scenario Details
-STR_3316    :Enter description of this scenario:
-STR_3317    :No details yet
-STR_3318    :Select which group this scenario appears in
-STR_3319    :{WINDOW_COLOUR_2}Scenario Group:
+STR_3312    :{WINDOW_COLOUR_2}संरक्षण आदेश के तहत राइड/आकर्षण:
+STR_3313    :परिदृश्य नाम
+STR_3314    :परिदृश्य के लिए नाम दर्ज करें:
+STR_3315    :पार्क/परिदृश्य विवरण
+STR_3316    :इस परिदृश्य का विवरण दर्ज करें:
+STR_3317    :अभी तक कोई विवरण नहीं
+STR_3318    :चुनें कि यह परिदृश्य किस समूह में दिखे
+STR_3319    :{WINDOW_COLOUR_2}परिदृश्य समूह:
 STR_3320    :Unable to save scenario file…
-STR_3321    :New objects installed successfully
-STR_3322    :{WINDOW_COLOUR_2}Objective: {BLACK}{STRINGID}
-STR_3326    :{WINDOW_COLOUR_2}(no image)
-STR_3327    :Starting positions for people not set
+STR_3321    :नई वस्तुएं सफलतापूर्वक स्थापित हुईं
+STR_3322    :{WINDOW_COLOUR_2}लक्ष्य: {BLACK}{STRINGID}
+STR_3326    :{WINDOW_COLOUR_2}(कोई छवि नहीं)
+STR_3327    :लोगों के लिए शुरुआती स्थान सेट नहीं किए गए
 STR_3328    :Can’t advance to next editor stage…
-STR_3329    :Park entrance not yet built
-STR_3330    :Park must own some land
-STR_3331    :Path from park entrance to map edge either not complete or too complex. Path must be single-width with as few junctions and corners as possible.
-STR_3332    :Park entrance is the wrong way round or has no path leading to the map edge
-STR_3333    :Export custom objects with saved games
+STR_3329    :पार्क प्रवेश द्वार अभी तक नहीं बना
+STR_3330    :पार्क के पास कुछ ज़मीन होनी चाहिए
+STR_3331    :पार्क प्रवेश से नक्शे के किनारे तक रास्ता या तो पूरा नहीं है या बहुत जटिल है। रास्ता एकल-चौड़ाई वाला होना चाहिए जिसमें जितने हो सके कम जंक्शन और कोने हों।
+STR_3332    :पार्क प्रवेश द्वार गलत दिशा में है या नक्शे के किनारे तक जाने वाला कोई रास्ता नहीं है
+STR_3333    :सहेजे गए गेम के साथ कस्टम वस्तुएं निर्यात करें
 STR_3334    :Select whether to save any additional custom object data required (add-in data not supplied with the main product) in saved game or scenario files, allowing them to be loaded by someone who doesn’t have the additional object data
-STR_3335    :Track Designer - Select Ride Types & Vehicles
-STR_3336    :Track Designs Manager - Select Ride Type
-STR_3338    :{BLACK}Custom-designed layout
-STR_3339    :{BLACK}{COMMA16} design available, or custom-designed layout
-STR_3340    :{BLACK}{COMMA16} designs available, or custom-designed layout
-STR_3341    :Game tools
-STR_3342    :Scenario Editor
+STR_3335    :ट्रैक डिज़ाइनर - राइड प्रकार और वाहन चुनें
+STR_3336    :ट्रैक डिज़ाइन मैनेजर - राइड प्रकार चुनें
+STR_3338    :{BLACK}कस्टम-डिज़ाइन लेआउट
+STR_3339    :{BLACK}{COMMA16} डिज़ाइन उपलब्ध, या कस्टम-डिज़ाइन लेआउट
+STR_3340    :{BLACK}{COMMA16} डिज़ाइन उपलब्ध, या कस्टम-डिज़ाइन लेआउट
+STR_3341    :गेम टूल
+STR_3342    :परिदृश्य संपादक
 STR_3343    :सहेजे गए गेम को परिदृश्य में बदलें
-STR_3344    :Track Designer
-STR_3345    :Track Designs Manager
+STR_3344    :ट्रैक डिज़ाइनर
+STR_3345    :ट्रैक डिज़ाइन मैनेजर
 STR_3346    :Can’t save track design…
-STR_3347    :Ride is too large, contains too many elements, or scenery is too spread out
-STR_3348    :Rename
-STR_3349    :Delete
-STR_3350    :Track design name
-STR_3351    :Enter new name for this track design:
+STR_3347    :राइड बहुत बड़ी है, बहुत अधिक तत्व हैं, या दृश्यावली बहुत फैली हुई है
+STR_3348    :नाम बदलें
+STR_3349    :हटाएं
+STR_3350    :ट्रैक डिज़ाइन नाम
+STR_3351    :इस ट्रैक डिज़ाइन के लिए नया नाम दर्ज करें:
 STR_3352    :Can’t rename track design…
-STR_3353    :New name contains invalid characters
-STR_3354    :Another file exists with this name, or file is write-protected
-STR_3355    :File is write-protected or locked
-STR_3356    :Delete File
-STR_3357    :{WINDOW_COLOUR_2}Are you sure you want to permanently delete {STRING}?
+STR_3353    :नए नाम में अमान्य अक्षर हैं
+STR_3354    :इस नाम से दूसरी फाइल पहले से मौजूद है, या फाइल राइट-प्रोटेक्टेड है
+STR_3355    :फाइल राइट-प्रोटेक्टेड या लॉक है
+STR_3356    :फाइल हटाएं
+STR_3357    :{WINDOW_COLOUR_2}क्या आप वाकई {STRING} को स्थायी रूप से हटाना चाहते हैं?
 STR_3358    :Can’t delete track design…
-STR_3359    :{BLACK}No track designs of this type
-STR_3360    :Warning!
-STR_3361    :Too many track designs of this type. Some will not be listed.
-STR_3364    :Advanced
-STR_3365    :Allow selection of individual items of scenery in addition to scenery groups
-STR_3366    :{BLACK}= Ride
-STR_3367    :{BLACK}= Food Stall
-STR_3368    :{BLACK}= Drink Stall
-STR_3369    :{BLACK}= Souvenir Stall
-STR_3370    :{BLACK}= Info. Kiosk
-STR_3371    :{BLACK}= First Aid
-STR_3372    :{BLACK}= Cash Machine
-STR_3373    :{BLACK}= Toilet
-STR_3374    :Warning: Too many objects selected!
-STR_3375    :Not all objects in this scenery group could be selected
-STR_3376    :Install new
-STR_3377    :Install a new track design file
-STR_3378    :Install
+STR_3359    :{BLACK}इस प्रकार का कोई ट्रैक डिज़ाइन नहीं
+STR_3360    :चेतावनी!
+STR_3361    :इस प्रकार के बहुत अधिक ट्रैक डिज़ाइन। कुछ सूचीबद्ध नहीं होंगे।
+STR_3364    :उन्नत
+STR_3365    :दृश्यावली समूहों के अलावा दृश्यावली के व्यक्तिगत आइटम भी चुनने की अनुमति दें
+STR_3366    :{BLACK}= राइड
+STR_3367    :{BLACK}= खाना स्टॉल
+STR_3368    :{BLACK}= पेय स्टॉल
+STR_3369    :{BLACK}= स्मृति चिह्न स्टॉल
+STR_3370    :{BLACK}= सूचना कियोस्क
+STR_3371    :{BLACK}= प्राथमिक चिकित्सा
+STR_3372    :{BLACK}= एटीएम
+STR_3373    :{BLACK}= शौचालय
+STR_3374    :चेतावनी: बहुत अधिक वस्तुएं चुनी गई हैं!
+STR_3375    :इस दृश्यावली समूह की सभी वस्तुएं नहीं चुनी जा सकीं
+STR_3376    :नया स्थापित करें
+STR_3377    :नया ट्रैक डिज़ाइन फाइल स्थापित करें
+STR_3378    :स्थापित करें
 STR_3379    :रद्द करें
 STR_3380    :Unable to install this track design…
-STR_3381    :File is not compatible or contains invalid data
-STR_3382    :File copy failed
-STR_3383    :Select new name for track design
-STR_3384    :An existing track design already has this name. Please select a new name for this design:
+STR_3381    :फाइल संगत नहीं है या अमान्य डेटा है
+STR_3382    :फाइल कॉपी विफल
+STR_3383    :ट्रैक डिज़ाइन के लिए नया नाम चुनें
+STR_3384    :इस नाम का ट्रैक डिज़ाइन पहले से मौजूद है। कृपया इस डिज़ाइन के लिए नया नाम चुनें:
 STR_3389    :Unable to select additional item of scenery…
-STR_3390    :Too many items selected
-STR_3437    :Clear large areas of scenery from landscape
+STR_3390    :बहुत अधिक आइटम चुने गए
+STR_3437    :परिदृश्य से दृश्यावली के बड़े क्षेत्र साफ करें
 STR_3438    :Unable to remove all scenery from here…
-STR_3439    :Clear Scenery
-STR_3445    :Set Patrol Area
-STR_3446    :Cancel Patrol Area
+STR_3439    :दृश्यावली साफ करें
+STR_3445    :गश्त क्षेत्र सेट करें
+STR_3446    :गश्त क्षेत्र रद्द करें
 
 # New strings, cleaner
-STR_5120    :Finances
-STR_5121    :Research
-STR_5122    :Select rides by track type (like in RCT1)
-STR_5123    :Renew rides
-STR_5125    :All destructible
-STR_5126    :Random title music
-STR_5127    :While dragging, paint landscape instead of changing elevation
-STR_5128    :Selection size
-STR_5129    :Enter selection size between {COMMA16} and {COMMA16}
-STR_5130    :Map size
-STR_5131    :Enter map size between {COMMA16} and {COMMA16}
-STR_5132    :Fix all rides
-STR_5133    :Adjust smaller area of land rights
-STR_5134    :Adjust larger area of land rights
-STR_5135    :Buy land rights and construction rights
-STR_5136    :Land rights
-STR_5137    :Unlock operating limits
+STR_5120    :वित्त
+STR_5121    :अनुसंधान
+STR_5122    :ट्रैक प्रकार से राइड चुनें (RCT1 जैसा)
+STR_5123    :राइड नवीनीकृत करें
+STR_5125    :सब नष्ट करने योग्य
+STR_5126    :यादृच्छिक शीर्षक संगीत
+STR_5127    :खींचते समय, ऊँचाई बदलने के बजाय परिदृश्य रंगें
+STR_5128    :चयन आकार
+STR_5129    :{COMMA16} और {COMMA16} के बीच चयन आकार दर्ज करें
+STR_5130    :नक्शा आकार
+STR_5131    :{COMMA16} और {COMMA16} के बीच नक्शा आकार दर्ज करें
+STR_5132    :सभी राइड ठीक करें
+STR_5133    :ज़मीन अधिकारों का छोटा क्षेत्र समायोजित करें
+STR_5134    :ज़मीन अधिकारों का बड़ा क्षेत्र समायोजित करें
+STR_5135    :ज़मीन अधिकार और निर्माण अधिकार खरीदें
+STR_5136    :ज़मीन अधिकार
+STR_5137    :ऑपरेटिंग सीमाएं अनलॉक करें
 STR_5138    :{WINDOW_COLOUR_2}{STRINGID}
 STR_5139    :{WHITE}{STRINGID}
-STR_5140    :Disable brakes failure
-STR_5141    :Disable all breakdowns
-STR_5142    :Normal Speed
-STR_5143    :Quick Speed
-STR_5144    :Fast Speed
-STR_5145    :Turbo Speed
-STR_5146    :Hyper Speed
-STR_5147    :Cheats
-STR_5148    :Change the game speed
-STR_5149    :Show cheat options
-STR_5150    :Enable debugging tools
+STR_5140    :ब्रेक खराबी बंद करें
+STR_5141    :सभी खराबियाँ बंद करें
+STR_5142    :सामान्य गति
+STR_5143    :तेज़ गति
+STR_5144    :तीव्र गति
+STR_5145    :टर्बो गति
+STR_5146    :हाइपर गति
+STR_5147    :चीट
+STR_5148    :गेम गति बदलें
+STR_5149    :चीट विकल्प दिखाएं
+STR_5150    :डीबगिंग टूल सक्षम करें
 STR_5151    :,
 STR_5152    :.
 STR_5153    :Edit Themes…
-STR_5154    :Hardware display
-STR_5155    :Allow testing of unfinished tracks
-STR_5156    :Allows testing of most ride types even when the track is unfinished, does not apply to block sectioned modes
-STR_5158    :Quit to menu
-STR_5159    :Exit OpenRCT2
-STR_5160    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID}, Year {POP16}{COMMA16}
-STR_5161    :Date Format:
-STR_5162    :Day/Month/Year
-STR_5163    :Month/Day/Year
-STR_5177    :Screen mode:
-STR_5178    :Show financial cheats
-STR_5179    :Show guest cheats
-STR_5180    :Show park cheats
-STR_5181    :Show ride cheats
+STR_5154    :हार्डवेयर डिस्प्ले
+STR_5155    :अधूरे ट्रैक का परीक्षण करने की अनुमति दें
+STR_5156    :अधिकांश राइड प्रकारों का परीक्षण तब भी करने की अनुमति देता है जब ट्रैक अधूरा हो, ब्लॉक सेक्शन मोड पर लागू नहीं होता
+STR_5158    :मेनू पर वापस जाएं
+STR_5159    :OpenRCT2 से बाहर निकलें
+STR_5160    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID}, वर्ष {POP16}{COMMA16}
+STR_5161    :तिथि प्रारूप:
+STR_5162    :दिन/माह/वर्ष
+STR_5163    :माह/दिन/वर्ष
+STR_5177    :स्क्रीन मोड:
+STR_5178    :वित्तीय चीट दिखाएं
+STR_5179    :मेहमान चीट दिखाएं
+STR_5180    :पार्क चीट दिखाएं
+STR_5181    :राइड चीट दिखाएं
 STR_5182    :{INT32}
-STR_5183    :Base height
-STR_5184    :Enter base height between {COMMA16} and {COMMA16}
-STR_5185    :Water level
-STR_5186    :Enter water level between {COMMA16} and {COMMA16} 
-STR_5187    :Finances
-STR_5188    :New Campaign
-STR_5189    :Research
-STR_5190    :Map
-STR_5191    :Viewport
-STR_5192    :Recent News
-STR_5193    :Land
-STR_5194    :Water
-STR_5195    :Clear Scenery
-STR_5196    :Land Rights
-STR_5197    :Scenery
-STR_5198    :Footpath
-STR_5199    :Ride Construction
-STR_5200    :Track Design Place
-STR_5201    :New Ride
-STR_5202    :Track Design Selection
-STR_5203    :Ride
-STR_5204    :Ride List
-STR_5205    :Guest
-STR_5206    :Guest List
+STR_5183    :आधार ऊँचाई
+STR_5184    :{COMMA16} और {COMMA16} के बीच आधार ऊँचाई दर्ज करें
+STR_5185    :जल स्तर
+STR_5186    :{COMMA16} और {COMMA16} के बीच जल स्तर दर्ज करें
+STR_5187    :वित्त
+STR_5188    :नया अभियान
+STR_5189    :अनुसंधान
+STR_5190    :नक्शा
+STR_5191    :व्यूपोर्ट
+STR_5192    :हाल की खबरें
+STR_5193    :ज़मीन
+STR_5194    :पानी
+STR_5195    :दृश्यावली साफ करें
+STR_5196    :ज़मीन अधिकार
+STR_5197    :दृश्यावली
+STR_5198    :पैदल रास्ता
+STR_5199    :राइड निर्माण
+STR_5200    :ट्रैक डिज़ाइन स्थान
+STR_5201    :नई राइड
+STR_5202    :ट्रैक डिज़ाइन चयन
+STR_5203    :राइड
+STR_5204    :राइड सूची
+STR_5205    :मेहमान
+STR_5206    :मेहमान सूची
 STR_5207    :कर्मचारी
-STR_5208    :Staff List
-STR_5209    :Banner
-STR_5210    :Object Selection
-STR_5211    :Invention List
-STR_5212    :Scenario Options
-STR_5213    :Objective Options
-STR_5214    :Map Generation
-STR_5215    :Track Design Manager
-STR_5216    :Track Design Manager List
-STR_5217    :Cheats
-STR_5218    :Themes
+STR_5208    :कर्मचारी सूची
+STR_5209    :बैनर
+STR_5210    :वस्तु चयन
+STR_5211    :आविष्कार सूची
+STR_5212    :परिदृश्य विकल्प
+STR_5213    :लक्ष्य विकल्प
+STR_5214    :नक्शा जनरेशन
+STR_5215    :ट्रैक डिज़ाइन मैनेजर
+STR_5216    :ट्रैक डिज़ाइन मैनेजर सूची
+STR_5217    :चीट
+STR_5218    :थीम
 STR_5219    :विकल्प
-STR_5220    :Keyboard Shortcuts
-STR_5221    :Change Keyboard Shortcut
-STR_5222    :Load/Save
-STR_5223    :Save Prompt
-STR_5224    :Demolish Ride Prompt
-STR_5225    :Fire Staff Prompt
-STR_5226    :Track Delete Prompt
-STR_5227    :Save Overwrite Prompt
-STR_5228    :Main UI
-STR_5229    :Park
-STR_5230    :Tools
-STR_5231    :Rides and Guests
-STR_5232    :Editors
-STR_5233    :Miscellaneous
-STR_5234    :Prompts
-STR_5235    :Settings
-STR_5236    :Window
-STR_5237    :Palette
-STR_5238    :Current Theme:
-STR_5239    :Duplicate
-STR_5240    :Enter a name for the theme
+STR_5220    :कीबोर्ड शॉर्टकट
+STR_5221    :कीबोर्ड शॉर्टकट बदलें
+STR_5222    :लोड/सहेजें
+STR_5223    :सहेजें संकेत
+STR_5224    :राइड तोड़ें संकेत
+STR_5225    :कर्मचारी निकालें संकेत
+STR_5226    :ट्रैक हटाएं संकेत
+STR_5227    :ओवरराइट सहेजें संकेत
+STR_5228    :मुख्य UI
+STR_5229    :पार्क
+STR_5230    :टूल
+STR_5231    :राइड और मेहमान
+STR_5232    :संपादक
+STR_5233    :विविध
+STR_5234    :संकेत
+STR_5235    :सेटिंग
+STR_5236    :विंडो
+STR_5237    :पैलेट
+STR_5238    :वर्तमान थीम:
+STR_5239    :डुप्लीकेट
+STR_5240    :थीम के लिए नाम दर्ज करें
 STR_5241    :Can’t change this theme
-STR_5242    :Theme name already exists
-STR_5243    :Invalid characters used
-STR_5244    :Themes
-STR_5245    :Top Toolbar
-STR_5246    :Bottom Toolbar
-STR_5247    :Track Editor Bottom Toolbar
-STR_5248    :Scenario Editor Bottom Toolbar
-STR_5249    :Title Menu Buttons
-STR_5250    :Title Exit Button
-STR_5251    :Title Options Button
-STR_5252    :Title Scenario Selection
-STR_5253    :Park Information
-STR_5256    :Create a new theme to make changes to
-STR_5257    :Create a new theme based on the current one
-STR_5258    :Delete the current theme
-STR_5259    :Rename the current theme
-STR_5260    :Giant Screenshot
-STR_5261    :Filter
+STR_5242    :थीम नाम पहले से मौजूद है
+STR_5243    :अमान्य अक्षर उपयोग किए गए
+STR_5244    :थीम
+STR_5245    :शीर्ष टूलबार
+STR_5246    :नीचे टूलबार
+STR_5247    :ट्रैक संपादक नीचे टूलबार
+STR_5248    :परिदृश्य संपादक नीचे टूलबार
+STR_5249    :शीर्षक मेनू बटन
+STR_5250    :शीर्षक बाहर निकलें बटन
+STR_5251    :शीर्षक विकल्प बटन
+STR_5252    :शीर्षक परिदृश्य चयन
+STR_5253    :पार्क जानकारी
+STR_5256    :बदलाव के लिए नई थीम बनाएं
+STR_5257    :वर्तमान पर आधारित नई थीम बनाएं
+STR_5258    :वर्तमान थीम हटाएं
+STR_5259    :वर्तमान थीम का नाम बदलें
+STR_5260    :विशाल स्क्रीनशॉट
+STR_5261    :फ़िल्टर
 STR_5262    :Wacky Worlds
 STR_5263    :Time Twister
-STR_5264    :Custom
-STR_5265    :Select which content sources are visible
-STR_5266    :Display
-STR_5267    :Culture and Units
-STR_5268    :Audio
-STR_5269    :Controls
-STR_5270    :Miscellaneous
-STR_5272    :Small Scenery
-STR_5273    :Large Scenery
-STR_5274    :Footpath
-STR_5275    :Search for Objects
-STR_5276    :Enter the name of an object to search for
-STR_5277    :Clear
-STR_5278    :Sandbox mode
-STR_5279    :Sandbox mode off
-STR_5280    :Allow editing land ownership settings through the Map window and other options that are normally restricted to the Scenario Editor
-STR_5281    :Features
-STR_5282    :RCT1 Ride Open/Close Lights
-STR_5283    :RCT1 Park Open/Close Lights
-STR_5284    :RCT1 Scenario Selection Font
-STR_5287    :Ride is already broken down
-STR_5288    :Ride is closed
-STR_5289    :No breakdowns available for this ride
-STR_5290    :Fix ride
+STR_5264    :कस्टम
+STR_5265    :चुनें कि कौन से कंटेंट स्रोत दिखें
+STR_5266    :डिस्प्ले
+STR_5267    :संस्कृति और इकाइयाँ
+STR_5268    :ऑडियो
+STR_5269    :नियंत्रण
+STR_5270    :विविध
+STR_5272    :छोटी दृश्यावली
+STR_5273    :बड़ी दृश्यावली
+STR_5274    :पैदल रास्ता
+STR_5275    :वस्तुएं खोजें
+STR_5276    :खोजने के लिए वस्तु का नाम दर्ज करें
+STR_5277    :साफ करें
+STR_5278    :सैंडबॉक्स मोड
+STR_5279    :सैंडबॉक्स मोड बंद
+STR_5280    :नक्शा विंडो के माध्यम से ज़मीन स्वामित्व सेटिंग संपादित करने की अनुमति दें और अन्य विकल्प जो सामान्यतः परिदृश्य संपादक तक सीमित हैं
+STR_5281    :विशेषताएं
+STR_5282    :RCT1 राइड खोलें/बंद करें लाइट
+STR_5283    :RCT1 पार्क खोलें/बंद करें लाइट
+STR_5284    :RCT1 परिदृश्य चयन फॉन्ट
+STR_5287    :राइड पहले से खराब है
+STR_5288    :राइड बंद है
+STR_5289    :इस राइड के लिए कोई खराबी उपलब्ध नहीं
+STR_5290    :राइड ठीक करें
 STR_5291    :Can’t force breakdown
-STR_5292    :Force a breakdown
-STR_5293    :Close ride/attraction
-STR_5294    :Test ride/attraction
-STR_5295    :Open ride/attraction
+STR_5292    :खराबी मजबूर करें
+STR_5293    :राइड/आकर्षण बंद करें
+STR_5294    :राइड/आकर्षण परीक्षण करें
+STR_5295    :राइड/आकर्षण खोलें
 STR_5296    :पार्क बंद करें
 STR_5297    :पार्क खोलें
 STR_5298    :{RED}{STRINGID}
 STR_5299    :{LIGHTPINK}{STRINGID}
-STR_5300    :Quick fire staff
-STR_5301    :Clear your loan
-STR_5302    :Clear loan
-STR_5303    :Allow building in pause mode
-STR_5304    :Title Sequence:
+STR_5300    :कर्मचारी को जल्दी निकालें
+STR_5301    :अपना ऋण चुकाएं
+STR_5302    :ऋण चुकाएं
+STR_5303    :पॉज़ मोड में निर्माण की अनुमति दें
+STR_5304    :शीर्षक अनुक्रम:
 STR_5305    :RollerCoaster Tycoon 1
 STR_5306    :RollerCoaster Tycoon 1 (AA)
 STR_5307    :RollerCoaster Tycoon 1 (AA + LL)
 STR_5308    :RollerCoaster Tycoon 2
 STR_5309    :OpenRCT2
-STR_5310    :Random
-STR_5311    :Debug tools
-STR_5312    :Show console
-STR_5313    :Show tile inspector
-STR_5314    :Tile inspector
-STR_5335    :Ride entrance
-STR_5336    :Ride exit
-STR_5337    :Park entrance
-STR_5338    :Element type
-STR_5339    :Base height
-STR_5340    :Clearance height
-STR_5343    :Automatically place staff
-STR_5344    :Changelog
-STR_5345    :Financial cheats
-STR_5346    :Guest cheats
-STR_5347    :Park cheats
-STR_5348    :Ride cheats
-STR_5349    :All Rides
-STR_5350    :Max
-STR_5351    :Min
-STR_5352    :{BLACK}Happiness:
-STR_5353    :{BLACK}Energy:
-STR_5354    :{BLACK}Hunger:
-STR_5355    :{BLACK}Thirst:
-STR_5356    :{BLACK}Nausea:
-STR_5357    :{BLACK}Nausea tolerance:
-STR_5358    :{BLACK}Toilet:
-STR_5359    :Remove guests
-STR_5360    :Removes all guests from the map
-STR_5361    :Add to guest inventory
-STR_5362    :{BLACK}Preferred ride intensity:
-STR_5363    :More than 1
-STR_5364    :Less than 15
-STR_5365    :{BLACK}Staff speed:
-STR_5366    :Normal
-STR_5367    :Fast
-STR_5368    :Reset crash status
-STR_5371    :Object selection
-STR_5372    :Invert right mouse dragging
-STR_5373    :Name {STRINGID}
-STR_5374    :Date modified {STRINGID}
+STR_5310    :यादृच्छिक
+STR_5311    :डीबग टूल
+STR_5312    :कंसोल दिखाएं
+STR_5313    :टाइल इंस्पेक्टर दिखाएं
+STR_5314    :टाइल इंस्पेक्टर
+STR_5335    :राइड प्रवेश
+STR_5336    :राइड निकास
+STR_5337    :पार्क प्रवेश
+STR_5338    :तत्व प्रकार
+STR_5339    :आधार ऊँचाई
+STR_5340    :निकासी ऊँचाई
+STR_5343    :स्वचालित रूप से कर्मचारी रखें
+STR_5344    :परिवर्तन लॉग
+STR_5345    :वित्तीय चीट
+STR_5346    :मेहमान चीट
+STR_5347    :पार्क चीट
+STR_5348    :राइड चीट
+STR_5349    :सभी राइड
+STR_5350    :अधिकतम
+STR_5351    :न्यूनतम
+STR_5352    :{BLACK}खुशी:
+STR_5353    :{BLACK}ऊर्जा:
+STR_5354    :{BLACK}भूख:
+STR_5355    :{BLACK}प्यास:
+STR_5356    :{BLACK}मतली:
+STR_5357    :{BLACK}मतली सहनशीलता:
+STR_5358    :{BLACK}शौचालय:
+STR_5359    :मेहमान हटाएं
+STR_5360    :नक्शे से सभी मेहमान हटाएं
+STR_5361    :मेहमान सामान में जोड़ें
+STR_5362    :{BLACK}पसंदीदा राइड तीव्रता:
+STR_5363    :1 से अधिक
+STR_5364    :15 से कम
+STR_5365    :{BLACK}कर्मचारी गति:
+STR_5366    :सामान्य
+STR_5367    :तेज़
+STR_5368    :क्रैश स्थिति रीसेट करें
+STR_5371    :वस्तु चयन
+STR_5372    :दायाँ माउस खींचना उलटें
+STR_5373    :नाम {STRINGID}
+STR_5374    :संशोधन तिथि {STRINGID}
 STR_5375    :▲
 STR_5376    :▼
-STR_5404    :Name already exists
-STR_5440    :Minimise fullscreen on focus loss
-STR_5442    :Force park rating:
-STR_5447    :Type {STRINGID}
-STR_5448    :Ride / Vehicle {STRINGID}
-STR_5449    :Reduce game speed
-STR_5450    :Increase game speed
-STR_5451    :Open cheats window
-STR_5452    :Toggle visibility of toolbars
-STR_5453    :Select another ride
-STR_5454    :Uncap FPS
-STR_5455    :Enable sandbox mode
-STR_5456    :Disable clearance checks
-STR_5457    :Disable support limits
-STR_5458    :Rotate clockwise
-STR_5459    :Rotate anti-clockwise
-STR_5460    :Rotate view anti-clockwise
-STR_5461    :Set parameters for all guests
+STR_5404    :नाम पहले से मौजूद है
+STR_5440    :फ़ोकस खो जाने पर फ़ुलस्क्रीन न्यूनतम करें
+STR_5442    :पार्क रेटिंग मजबूर करें:
+STR_5447    :प्रकार {STRINGID}
+STR_5448    :राइड/वाहन {STRINGID}
+STR_5449    :गेम गति कम करें
+STR_5450    :गेम गति बढ़ाएं
+STR_5451    :चीट विंडो खोलें
+STR_5452    :टूलबार दृश्यता टॉगल करें
+STR_5453    :दूसरी राइड चुनें
+STR_5454    :FPS सीमा हटाएं
+STR_5455    :सैंडबॉक्स मोड सक्षम करें
+STR_5456    :क्लियरेंस जाँच बंद करें
+STR_5457    :सहायक सीमाएं बंद करें
+STR_5458    :दक्षिणावर्त घुमाएं
+STR_5459    :वामावर्त घुमाएं
+STR_5460    :दृश्य वामावर्त घुमाएं
+STR_5461    :सभी मेहमानों के लिए पैरामीटर सेट करें
 STR_5462    :{CURRENCY}
-STR_5463    :Goal: Have fun!
-STR_5464    :General
-STR_5465    :Weather
+STR_5463    :लक्ष्य: मज़े करें!
+STR_5464    :सामान्य
+STR_5465    :मौसम
 STR_5466    :कर्मचारी
-STR_5467    :ALT + 
-STR_5468    :Recent messages
-STR_5469    :Scroll map up
-STR_5470    :Scroll map left
-STR_5471    :Scroll map down
-STR_5472    :Scroll map right
-STR_5473    :Cycle day / night
-STR_5474    :Display text on banners in uppercase
-STR_5475    :{COMMA16} weeks
-STR_5476    :Hardware
-STR_5477    :Map rendering
-STR_5478    :Controls
-STR_5479    :Toolbar
-STR_5480    :Show toolbar buttons for:
-STR_5481    :Themes
-STR_5482    :{WINDOW_COLOUR_2}Time since last inspection: {BLACK}1 minute
-STR_5483    :{BLACK}({COMMA16} weeks remaining)
-STR_5484    :{BLACK}({COMMA16} week remaining)
+STR_5467    :ALT +
+STR_5468    :हाल के संदेश
+STR_5469    :नक्शा ऊपर स्क्रॉल करें
+STR_5470    :नक्शा बाईं ओर स्क्रॉल करें
+STR_5471    :नक्शा नीचे स्क्रॉल करें
+STR_5472    :नक्शा दाईं ओर स्क्रॉल करें
+STR_5473    :दिन/रात बदलें
+STR_5474    :बैनर पर पाठ बड़े अक्षरों में दिखाएं
+STR_5475    :{COMMA16} सप्ताह
+STR_5476    :हार्डवेयर
+STR_5477    :नक्शा रेंडरिंग
+STR_5478    :नियंत्रण
+STR_5479    :टूलबार
+STR_5480    :इनके लिए टूलबार बटन दिखाएं:
+STR_5481    :थीम
+STR_5482    :{WINDOW_COLOUR_2}अंतिम निरीक्षण के बाद से समय: {BLACK}1 मिनट
+STR_5483    :{BLACK}({COMMA16} सप्ताह शेष)
+STR_5484    :{BLACK}({COMMA16} सप्ताह शेष)
 STR_5485    :{STRING}
 STR_5486    :{BLACK}{COMMA16}
-STR_5487    :Show recent messages
-STR_5489    :Show only tracked guests
-STR_5490    :Disable audio on focus loss
-STR_5491    :Inventions list
-STR_5492    :Scenario options
-STR_5493    :Send Message
-STR_5495    :Player List
+STR_5487    :हाल के संदेश दिखाएं
+STR_5489    :केवल ट्रैक किए गए मेहमान दिखाएं
+STR_5490    :फ़ोकस खो जाने पर ऑडियो बंद करें
+STR_5491    :आविष्कार सूची
+STR_5492    :परिदृश्य विकल्प
+STR_5493    :संदेश भेजें
+STR_5495    :खिलाड़ी सूची
 STR_5496    :खिलाड़ी
-STR_5497    :Ping
-STR_5498    :Server List
-STR_5499    :Player Name:
-STR_5500    :Add Server
-STR_5501    :Start Server
-STR_5502    :Multiplayer
-STR_5503    :Enter hostname or IP address:
-STR_5504    :Show multiplayer status
-STR_5505    :Unable to connect to server.
-STR_5506    :Guests ignore intensities
-STR_5510    :Default sound device
-STR_5511    :(UNKNOWN)
-STR_5512    :Save Game As
-STR_5513    :(Quick) save game
-STR_5514    :Disable vandalism
+STR_5497    :पिंग
+STR_5498    :सर्वर सूची
+STR_5499    :खिलाड़ी नाम:
+STR_5500    :सर्वर जोड़ें
+STR_5501    :सर्वर शुरू करें
+STR_5502    :मल्टीप्लेयर
+STR_5503    :होस्टनेम या IP पता दर्ज करें:
+STR_5504    :मल्टीप्लेयर स्थिति दिखाएं
+STR_5505    :सर्वर से कनेक्ट नहीं हो सका।
+STR_5506    :मेहमान तीव्रता अनदेखा करते हैं
+STR_5510    :डिफ़ॉल्ट साउंड डिवाइस
+STR_5511    :(अज्ञात)
+STR_5512    :गेम इस रूप में सहेजें
+STR_5513    :(त्वरित) गेम सहेजें
+STR_5514    :तोड़फोड़ बंद करें
 STR_5515    :Stops guests from vandalising your park when they’re angry
-STR_5516    :Black
-STR_5517    :Grey
-STR_5518    :White
-STR_5519    :Dark purple
-STR_5520    :Light purple
-STR_5521    :Bright purple
-STR_5522    :Dark blue
-STR_5523    :Light blue
-STR_5524    :Icy blue
-STR_5525    :Dark water
-STR_5526    :Light water
-STR_5527    :Saturated green
-STR_5528    :Dark green
-STR_5529    :Moss green
-STR_5530    :Bright green
-STR_5531    :Olive green
-STR_5532    :Dark olive green
-STR_5533    :Bright yellow
-STR_5534    :Yellow
-STR_5535    :Dark yellow
-STR_5536    :Light orange
-STR_5537    :Dark orange
-STR_5538    :Light brown
-STR_5539    :Saturated brown
-STR_5540    :Dark brown
-STR_5541    :Salmon pink
-STR_5542    :Bordeaux red
-STR_5543    :Saturated red
-STR_5544    :Bright red
-STR_5545    :Dark pink
-STR_5546    :Bright pink
-STR_5547    :Light pink
-STR_5548    :Show all operating modes
-STR_5549    :Year/Month/Day
-STR_5550    :{POP16}{POP16}Year {COMMA16}, {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
-STR_5551    :Year/Day/Month
-STR_5552    :{POP16}{POP16}Year {COMMA16}, {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
-STR_5554    :Enable mountain tool
-STR_5555    :Show vehicles from other track types
-STR_5556    :Kick player
-STR_5557    :Stay connected after desynchronisation (Multiplayer)
-STR_5558    :This setting will only take effect after you have restarted OpenRCT2
-STR_5559    :10 min. inspections
+STR_5516    :काला
+STR_5517    :धूसर
+STR_5518    :सफेद
+STR_5519    :गहरा बैंगनी
+STR_5520    :हल्का बैंगनी
+STR_5521    :चमकीला बैंगनी
+STR_5522    :गहरा नीला
+STR_5523    :हल्का नीला
+STR_5524    :बर्फीला नीला
+STR_5525    :गहरा पानी
+STR_5526    :हल्का पानी
+STR_5527    :गहरा हरा
+STR_5528    :सांद्र हरा
+STR_5529    :काई हरा
+STR_5530    :चमकीला हरा
+STR_5531    :जैतूनी हरा
+STR_5532    :गहरा जैतूनी हरा
+STR_5533    :चमकीला पीला
+STR_5534    :पीला
+STR_5535    :गहरा पीला
+STR_5536    :हल्का नारंगी
+STR_5537    :गहरा नारंगी
+STR_5538    :हल्का भूरा
+STR_5539    :सांद्र भूरा
+STR_5540    :गहरा भूरा
+STR_5541    :सैल्मन गुलाबी
+STR_5542    :बोर्डो लाल
+STR_5543    :सांद्र लाल
+STR_5544    :चमकीला लाल
+STR_5545    :गहरा गुलाबी
+STR_5546    :चमकीला गुलाबी
+STR_5547    :हल्का गुलाबी
+STR_5548    :सभी ऑपरेटिंग मोड दिखाएं
+STR_5549    :वर्ष/माह/दिन
+STR_5550    :{POP16}{POP16}वर्ष {COMMA16}, {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
+STR_5551    :वर्ष/दिन/माह
+STR_5552    :{POP16}{POP16}वर्ष {COMMA16}, {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
+STR_5554    :पहाड़ टूल सक्षम करें
+STR_5555    :अन्य ट्रैक प्रकारों के वाहन दिखाएं
+STR_5556    :खिलाड़ी को किक करें
+STR_5557    :डीसिंक के बाद भी कनेक्टेड रहें (मल्टीप्लेयर)
+STR_5558    :यह सेटिंग OpenRCT2 पुनः शुरू करने के बाद लागू होगी
+STR_5559    :10 मिनट निरीक्षण
 STR_5560    :Sets the inspection time to ‘Every 10 minutes’ on all rides
-STR_5561    :Failed to load language
-STR_5562    :WARNING!
-STR_5563    :This feature is currently unstable, take extra caution.
-STR_5566    :Password:
-STR_5567    :Advertise
-STR_5568    :Password Required
-STR_5569    :This server requires a password
-STR_5570    :Fetch Servers
-STR_5571    :Join Game
-STR_5572    :Add To Favourites
-STR_5573    :Remove From Favourites
-STR_5574    :Server Name:
-STR_5575    :Max Players:
-STR_5576    :Port:
-STR_5577    :South Korean Won (W)
+STR_5561    :भाषा लोड करने में विफल
+STR_5562    :चेतावनी!
+STR_5563    :यह सुविधा वर्तमान में अस्थिर है, अतिरिक्त सावधानी बरतें।
+STR_5566    :पासवर्ड:
+STR_5567    :विज्ञापन दें
+STR_5568    :पासवर्ड आवश्यक
+STR_5569    :इस सर्वर के लिए पासवर्ड चाहिए
+STR_5570    :सर्वर खोजें
+STR_5571    :गेम में शामिल हों
+STR_5572    :पसंदीदा में जोड़ें
+STR_5573    :पसंदीदा से हटाएं
+STR_5574    :सर्वर नाम:
+STR_5575    :अधिकतम खिलाड़ी:
+STR_5576    :पोर्ट:
+STR_5577    :दक्षिण कोरियाई वॉन (W)
 STR_5578    :Russian Rouble (₽)
-STR_5579    :Window scale factor:
+STR_5579    :विंडो स्केल कारक:
 STR_5580    :Czech koruna (Kč)
-STR_5581    :Show FPS
-STR_5582    :Trap mouse cursor in window
+STR_5581    :FPS दिखाएं
+STR_5582    :माउस कर्सर विंडो में रखें
 STR_5583    :{COMMA1DP16} m/s
 STR_5584    :SI
-STR_5585    :Unlocks ride operation limits, allowing for things like {VELOCITY} lift hills
-STR_5586    :Automatically open shops and stalls
-STR_5587    :Shops and stalls will be automatically opened after building them
-STR_5588    :Play with other players
-STR_5589    :Notification Settings
-STR_5590    :Park awards
-STR_5591    :Marketing campaign has finished
-STR_5592    :Park warnings
-STR_5593    :Park rating warnings
-STR_5594    :Ride has broken down
-STR_5595    :Ride has crashed
-STR_5596    :Ride warnings
-STR_5597    :Ride / scenery researched
-STR_5598    :Guest warnings
-STR_5600    :Guest has left the park
-STR_5601    :Guest is queuing for ride
-STR_5602    :Guest is on ride
-STR_5603    :Guest has left ride
-STR_5604    :Guest has bought item
-STR_5605    :Guest has used facility
-STR_5606    :Guest has died
-STR_5607    :Forcefully remove selected map element.
+STR_5585    :राइड ऑपरेशन सीमाएं अनलॉक करता है, जिससे {VELOCITY} जैसी लिफ्ट हिल संभव हो जाती है
+STR_5586    :दुकानें और स्टॉल स्वचालित खोलें
+STR_5587    :दुकानें और स्टॉल बनाने के बाद स्वचालित रूप से खोले जाएंगे
+STR_5588    :अन्य खिलाड़ियों के साथ खेलें
+STR_5589    :सूचना सेटिंग
+STR_5590    :पार्क पुरस्कार
+STR_5591    :विपणन अभियान समाप्त हुआ
+STR_5592    :पार्क चेतावनियाँ
+STR_5593    :पार्क रेटिंग चेतावनियाँ
+STR_5594    :राइड खराब हो गई
+STR_5595    :राइड क्रैश हुई
+STR_5596    :राइड चेतावनियाँ
+STR_5597    :राइड/दृश्यावली खोजी गई
+STR_5598    :मेहमान चेतावनियाँ
+STR_5600    :मेहमान ने पार्क छोड़ा
+STR_5601    :मेहमान राइड के लिए कतार में है
+STR_5602    :मेहमान राइड पर है
+STR_5603    :मेहमान ने राइड छोड़ी
+STR_5604    :मेहमान ने आइटम खरीदा
+STR_5605    :मेहमान ने सुविधा उपयोग की
+STR_5606    :मेहमान की मृत्यु हुई
+STR_5607    :चुने गए नक्शा तत्व को ज़बरदस्ती हटाएं।
 STR_5608    :BH
 STR_5609    :CH
-STR_5610    :Remove the currently selected map element. This will forcefully remove it, so no cash will be used/gained. Use with caution.
+STR_5610    :वर्तमान में चुने गए नक्शा तत्व को हटाएं। यह इसे ज़बरदस्ती हटा देगा, इसलिए कोई नगद उपयोग/प्राप्त नहीं होगा। सावधानी से उपयोग करें।
 STR_5611    :G
-STR_5612    :Ghost flag
+STR_5612    :घोस्ट फ्लैग
 STR_5613    :B
-STR_5614    :Broken flag
+STR_5614    :टूटा हुआ फ्लैग
 STR_5615    :L
-STR_5616    :Last element for tile flag
-STR_5617    :Move selected element up.
-STR_5618    :Move selected element down.
+STR_5616    :टाइल का अंतिम तत्व फ्लैग
+STR_5617    :चुने गए तत्व को ऊपर ले जाएं।
+STR_5618    :चुने गए तत्व को नीचे ले जाएं।
 STR_5619    :RollerCoaster Tycoon
 STR_5620    :Added Attractions
 STR_5621    :Loopy Landscapes
@@ -2752,400 +2752,400 @@ STR_5622    :RollerCoaster Tycoon 2
 STR_5623    :Wacky Worlds
 STR_5624    :Time Twister
 STR_5625    :“Real” Parks
-STR_5626    :Other Parks
-STR_5630    :Enable progressive unlocking
-STR_5631    :Original DLC Parks
+STR_5626    :अन्य पार्क
+STR_5630    :प्रगतिशील अनलॉकिंग सक्षम करें
+STR_5631    :मूल DLC पार्क
 STR_5632    :Build your own…
-STR_5633    :CMD + 
-STR_5634    :OPTION + 
-STR_5635    :{WINDOW_COLOUR_2}Money spent: {BLACK}{CURRENCY2DP}
-STR_5636    :{WINDOW_COLOUR_2}Commands ran: {BLACK}{COMMA16}
+STR_5633    :CMD +
+STR_5634    :OPTION +
+STR_5635    :{WINDOW_COLOUR_2}खर्च किया गया पैसा: {BLACK}{CURRENCY2DP}
+STR_5636    :{WINDOW_COLOUR_2}चलाए गए कमांड: {BLACK}{COMMA16}
 STR_5637    :Can’t do this…
-STR_5638    :Permission denied
-STR_5639    :Show list of players
-STR_5640    :Manage groups
-STR_5641    :Default Group:
-STR_5642    :Group
-STR_5643    :Add Group
-STR_5644    :Remove Group
-STR_5645    :Chat
-STR_5646    :Terraform
-STR_5647    :Toggle Pause
-STR_5648    :Set Water Level
-STR_5649    :Create Ride
-STR_5650    :Remove Ride
-STR_5651    :Build Ride
-STR_5652    :Ride Properties
-STR_5653    :Scenery
-STR_5654    :Path
-STR_5655    :Guest
+STR_5638    :अनुमति अस्वीकृत
+STR_5639    :खिलाड़ियों की सूची दिखाएं
+STR_5640    :समूह प्रबंधित करें
+STR_5641    :डिफ़ॉल्ट समूह:
+STR_5642    :समूह
+STR_5643    :समूह जोड़ें
+STR_5644    :समूह हटाएं
+STR_5645    :चैट
+STR_5646    :टेरफॉर्म
+STR_5647    :पॉज़ टॉगल करें
+STR_5648    :जल स्तर सेट करें
+STR_5649    :राइड बनाएं
+STR_5650    :राइड हटाएं
+STR_5651    :राइड बनाएं
+STR_5652    :राइड गुण
+STR_5653    :दृश्यावली
+STR_5654    :रास्ता
+STR_5655    :मेहमान
 STR_5656    :कर्मचारी
-STR_5657    :Park Properties
-STR_5658    :Park Funding
-STR_5659    :Kick Player
-STR_5660    :Modify Groups
-STR_5661    :Set Player Group
+STR_5657    :पार्क गुण
+STR_5658    :पार्क फंडिंग
+STR_5659    :खिलाड़ी को किक करें
+STR_5660    :समूह संशोधित करें
+STR_5661    :खिलाड़ी समूह सेट करें
 STR_5662    :N/A
-STR_5663    :Clear Landscape
-STR_5664    :Cheat
-STR_5665    :Toggle Scenery Cluster
-STR_5666    :Passwordless Login
-STR_5701    :{WINDOW_COLOUR_2}Last action: {BLACK}{STRINGID}
+STR_5663    :परिदृश्य साफ करें
+STR_5664    :चीट
+STR_5665    :दृश्यावली क्लस्टर टॉगल करें
+STR_5666    :पासवर्डलेस लॉगिन
+STR_5701    :{WINDOW_COLOUR_2}अंतिम क्रिया: {BLACK}{STRINGID}
 STR_5702    :Locate player’s most recent action
 STR_5703    :Can’t kick the host
-STR_5704    :Last Action
+STR_5704    :अंतिम क्रिया
 STR_5705    :Can’t set to this group
 STR_5706    :Can’t remove group that players belong to
-STR_5707    :This group cannot be modified
+STR_5707    :इस समूह को संशोधित नहीं किया जा सकता
 STR_5708    :Can’t change the group that the host belongs to
-STR_5709    :Rename Group
-STR_5710    :Group name
-STR_5711    :Enter new name for this group:
+STR_5709    :समूह का नाम बदलें
+STR_5710    :समूह नाम
+STR_5711    :इस समूह के लिए नया नाम दर्ज करें:
 STR_5712    :Can’t modify permission that you do not have yourself
-STR_5713    :Kick Player
-STR_5714    :Show options window
-STR_5715    :New Game
-STR_5716    :Not allowed in multiplayer mode
+STR_5713    :खिलाड़ी को किक करें
+STR_5714    :विकल्प विंडो दिखाएं
+STR_5715    :नया गेम
+STR_5716    :मल्टीप्लेयर मोड में अनुमति नहीं
 # For identifying client network version in server list window
-STR_5717    :Network version: {STRING}
-STR_5718    :Network version: {STRING}
-STR_5719    :Sunny
-STR_5720    :Partially Cloudy
-STR_5721    :Cloudy
-STR_5722    :Rain
-STR_5723    :Heavy Rain
-STR_5724    :Thunderstorm
-STR_5725    :{BLACK}Change weather to:
-STR_5726    :Sets the current weather in the park
+STR_5717    :नेटवर्क संस्करण: {STRING}
+STR_5718    :नेटवर्क संस्करण: {STRING}
+STR_5719    :धूप
+STR_5720    :आंशिक रूप से बादल
+STR_5721    :बादल
+STR_5722    :बारिश
+STR_5723    :तेज़ बारिश
+STR_5724    :आंधी-तूफान
+STR_5725    :{BLACK}मौसम बदलें:
+STR_5726    :पार्क में वर्तमान मौसम सेट करता है
 # tooltip for tab in options window
-STR_5734    :Rendering
-STR_5735    :Network Status
+STR_5734    :रेंडरिंग
+STR_5735    :नेटवर्क स्थिति
 STR_5736    :खिलाड़ी
-STR_5737    :Closed, {COMMA16} person still on ride
-STR_5738    :Closed, {COMMA16} people still on ride
-STR_5739    :{WINDOW_COLOUR_2}Customers on ride: {BLACK}{COMMA16}
-STR_5740    :Never-ending marketing campaigns
-STR_5741    :Marketing campaigns never end
+STR_5737    :बंद, {COMMA16} व्यक्ति अभी भी राइड पर
+STR_5738    :बंद, {COMMA16} लोग अभी भी राइड पर
+STR_5739    :{WINDOW_COLOUR_2}राइड पर ग्राहक: {BLACK}{COMMA16}
+STR_5740    :कभी न खत्म होने वाले विपणन अभियान
+STR_5741    :विपणन अभियान कभी समाप्त नहीं होते
 STR_5742    :Authenticating …
 STR_5743    :Connecting …
 STR_5744    :Resolving …
-STR_5745    :Network desync detected
-STR_5746    :Disconnected
-STR_5747    :Disconnected: {STRING}
-STR_5748    :Kicked
-STR_5749    :Get out of the server!
-STR_5750    :Connection Closed
-STR_5751    :No Data
-STR_5752    :{OUTLINE}{RED}{STRING} has disconnected
-STR_5753    :{OUTLINE}{RED}{STRING} has disconnected ({STRING})
-STR_5754    :Bad Player Name
-STR_5755    :Incorrect Software Version (Server is using {STRING})
-STR_5756    :Bad Password
-STR_5757    :Server Full
-STR_5758    :{OUTLINE}{GREEN}{STRING} has joined the game
+STR_5745    :नेटवर्क डीसिंक पता चला
+STR_5746    :डिस्कनेक्ट हो गया
+STR_5747    :डिस्कनेक्ट: {STRING}
+STR_5748    :किक किया गया
+STR_5749    :सर्वर से बाहर जाएं!
+STR_5750    :कनेक्शन बंद
+STR_5751    :कोई डेटा नहीं
+STR_5752    :{OUTLINE}{RED}{STRING} डिस्कनेक्ट हो गया
+STR_5753    :{OUTLINE}{RED}{STRING} डिस्कनेक्ट हो गया ({STRING})
+STR_5754    :खराब खिलाड़ी नाम
+STR_5755    :गलत सॉफ्टवेयर संस्करण (सर्वर {STRING} उपयोग कर रहा है)
+STR_5756    :गलत पासवर्ड
+STR_5757    :सर्वर भरा हुआ
+STR_5758    :{OUTLINE}{GREEN}{STRING} गेम में शामिल हुआ
 STR_5759    :Downloading map …
-STR_5760    :Hong Kong Dollars (HK$)
-STR_5761    :New Taiwan Dollar (NT$)
+STR_5760    :हॉन्गकॉन्ग डॉलर (HK$)
+STR_5761    :नया ताइवान डॉलर (NT$)
 STR_5762    :Chinese Yuan (CN¥)
-STR_5763    :All files
-STR_5764    :Invalid ride type
-STR_5765    :Cannot edit rides of invalid type
-STR_5766    :Hungarian Forint (Ft)
-STR_5767    :Income
-STR_5768    :Total customers
-STR_5769    :Total profit
-STR_5770    :Customers per hour
-STR_5771    :Running cost
-STR_5772    :Age
-STR_5773    :Total customers: {COMMA32}
-STR_5774    :Total profit: {CURRENCY2DP}
-STR_5775    :Customers: {COMMA32} per hour
-STR_5776    :Built: This Year
-STR_5777    :Built: Last Year
-STR_5778    :Built: {COMMA16} Years Ago
-STR_5779    :Income: {CURRENCY2DP} per hour
-STR_5780    :Running cost: {CURRENCY2DP} per hour
-STR_5781    :Running cost: Unknown
+STR_5763    :सभी फाइलें
+STR_5764    :अमान्य राइड प्रकार
+STR_5765    :अमान्य प्रकार की राइड संपादित नहीं कर सकते
+STR_5766    :हंगेरियन फोरिंट (Ft)
+STR_5767    :आय
+STR_5768    :कुल ग्राहक
+STR_5769    :कुल लाभ
+STR_5770    :प्रति घंटा ग्राहक
+STR_5771    :चलाने की लागत
+STR_5772    :आयु
+STR_5773    :कुल ग्राहक: {COMMA32}
+STR_5774    :कुल लाभ: {CURRENCY2DP}
+STR_5775    :ग्राहक: {COMMA32} प्रति घंटा
+STR_5776    :बना: इस वर्ष
+STR_5777    :बना: पिछले वर्ष
+STR_5778    :बना: {COMMA16} वर्ष पहले
+STR_5779    :आय: {CURRENCY2DP} प्रति घंटा
+STR_5780    :चलाने की लागत: {CURRENCY2DP} प्रति घंटा
+STR_5781    :चलाने की लागत: अज्ञात
 STR_5782    :You are now connected. Press ‘{STRING}’ to chat.
-STR_5783    :{WINDOW_COLOUR_2}Scenario Locked
-STR_5784    :{BLACK}Complete earlier scenarios to unlock this scenario.
+STR_5783    :{WINDOW_COLOUR_2}परिदृश्य लॉक
+STR_5784    :{BLACK}इस परिदृश्य को अनलॉक करने के लिए पहले के परिदृश्य पूरे करें।
 STR_5785    :Can’t rename group…
-STR_5786    :Invalid group name
-STR_5787    :{COMMA32} players online
-STR_5788    :Default inspection interval:
-STR_5789    :Disable lightning effect
-STR_5790    :Toggles RCT1-style pricing{NEWLINE}(e.g. both ride price and entrance price)
+STR_5786    :अमान्य समूह नाम
+STR_5787    :{COMMA32} खिलाड़ी ऑनलाइन
+STR_5788    :डिफ़ॉल्ट निरीक्षण अंतराल:
+STR_5789    :बिजली का प्रभाव बंद करें
+STR_5790    :RCT1-शैली मूल्य निर्धारण टॉगल करता है{NEWLINE}(जैसे राइड मूल्य और प्रवेश मूल्य दोनों)
 STR_5791    :Sets the reliability of all rides to 100%{NEWLINE}and resets their built date to “this year”
-STR_5792    :Fixes all broken down rides
-STR_5793    :Resets the crash history of a ride,{NEWLINE}so guests will not complain that its unsafe
-STR_5794    :Some scenarios disable editing of some{NEWLINE}of the rides already in the park.{NEWLINE}This cheat lifts the restriction
-STR_5795    :Guests ride every attraction in the park{NEWLINE}even if the intensity is extremely high
-STR_5796    :Forces the park to close or open
-STR_5797    :Disables weather changes and{NEWLINE}freezes the selected weather
-STR_5798    :Allows building actions in pause mode
-STR_5799    :Disables ride breakdowns and crashes due to brake failure
-STR_5800    :Prevents rides from breaking down
-STR_5801    :Disable littering
-STR_5802    :Stops guests from littering and vomiting
-STR_5803    :Rotate selected map element
-STR_5804    :Mute sound
-STR_5805    :If checked, your server will be added to the{NEWLINE}public server list so everyone can find it
-STR_5806    :Toggle windowed mode
-STR_5807    :{WINDOW_COLOUR_2}Number of rides: {BLACK}{COMMA16}
-STR_5808    :{WINDOW_COLOUR_2}Number of shops and stalls: {BLACK}{COMMA16}
-STR_5809    :{WINDOW_COLOUR_2}Number of information kiosks and other facilities: {BLACK}{COMMA16}
-STR_5810    :Disable vehicle limits
-STR_5811    :If checked, you can have up to{NEWLINE}255 cars per train and 31{NEWLINE}trains per ride
-STR_5812    :Show multiplayer window
+STR_5792    :सभी खराब राइड ठीक करता है
+STR_5793    :राइड का क्रैश इतिहास रीसेट करता है,{NEWLINE}ताकि मेहमान उसे असुरक्षित न कहें
+STR_5794    :कुछ परिदृश्य पार्क में पहले से मौजूद कुछ राइड के संपादन को बंद कर देते हैं।{NEWLINE}यह चीट प्रतिबंध हटा देता है
+STR_5795    :मेहमान पार्क के हर आकर्षण पर जाते हैं{NEWLINE}चाहे तीव्रता कितनी भी अधिक हो
+STR_5796    :पार्क को बंद या खोलने के लिए मजबूर करता है
+STR_5797    :मौसम परिवर्तन बंद करता है और{NEWLINE}चुने हुए मौसम को स्थिर रखता है
+STR_5798    :पॉज़ मोड में निर्माण क्रियाओं की अनुमति देता है
+STR_5799    :ब्रेक खराबी के कारण राइड खराबी और क्रैश बंद करता है
+STR_5800    :राइड को खराब होने से रोकता है
+STR_5801    :कचरा फैलाना बंद करें
+STR_5802    :मेहमानों को कचरा फैलाने और उल्टी करने से रोकता है
+STR_5803    :चुने गए नक्शा तत्व को घुमाएं
+STR_5804    :ध्वनि म्यूट करें
+STR_5805    :यदि चेक किया गया, तो आपका सर्वर सार्वजनिक सर्वर सूची में जोड़ा जाएगा{NEWLINE}ताकि सभी इसे खोज सकें
+STR_5806    :विंडोड मोड टॉगल करें
+STR_5807    :{WINDOW_COLOUR_2}राइड की संख्या: {BLACK}{COMMA16}
+STR_5808    :{WINDOW_COLOUR_2}दुकानों और स्टॉल की संख्या: {BLACK}{COMMA16}
+STR_5809    :{WINDOW_COLOUR_2}सूचना कियोस्क और अन्य सुविधाओं की संख्या: {BLACK}{COMMA16}
+STR_5810    :वाहन सीमाएं बंद करें
+STR_5811    :यदि चेक किया गया, तो आप{NEWLINE}प्रति ट्रेन 255 कारें और{NEWLINE}प्रति राइड 31 ट्रेनें रख सकते हैं
+STR_5812    :मल्टीप्लेयर विंडो दिखाएं
 STR_5813    :“{STRING}”
 STR_5814    :{WINDOW_COLOUR_1}“{STRING}”
 
 #tooltips
-STR_5815    :Display FPS counter in-game
-STR_5816    :Sets ratio to scale the game by.{NEWLINE}Most useful when playing in{NEWLINE}high resolutions
-STR_5820    :Minimise the game if focus is{NEWLINE}lost while in fullscreen mode
-STR_5822    :Cycle between day and night.{NEWLINE}Full cycle takes one in-game month
-STR_5823    :Display banners in uppercase (RCT1 behaviour)
-STR_5824    :Disables lightning effect{NEWLINE}during a thunderstorm
-STR_5825    :Keep the mouse cursor in the window
-STR_5826    :Invert right mouse dragging of the viewport
-STR_5827    :Sets the colour scheme used for the GUI
-STR_5828    :Changes what measurement format is used for distances, speed, etc.
-STR_5829    :Changes what currency format is used. Purely visual, there is no exact exchange rate implementation
-STR_5830    :Changes what language is used
-STR_5831    :Changes what format the{NEWLINE}temperature is displayed in
+STR_5815    :इन-गेम FPS काउंटर प्रदर्शित करें
+STR_5816    :गेम को स्केल करने का अनुपात सेट करता है।{NEWLINE}उच्च रिज़ॉल्यूशन में खेलते समय सबसे उपयोगी
+STR_5820    :फ़ुलस्क्रीन में फ़ोकस खो जाने पर गेम न्यूनतम करें
+STR_5822    :दिन और रात के बीच बदलाव।{NEWLINE}पूरा चक्र एक इन-गेम माह लेता है
+STR_5823    :बैनर बड़े अक्षरों में दिखाएं (RCT1 व्यवहार)
+STR_5824    :आंधी के दौरान बिजली का प्रभाव बंद करता है
+STR_5825    :माउस कर्सर को विंडो में रखें
+STR_5826    :व्यूपोर्ट का दायाँ माउस खींचना उलटें
+STR_5827    :GUI के लिए रंग योजना सेट करता है
+STR_5828    :दूरी, गति आदि के लिए माप प्रारूप बदलता है
+STR_5829    :मुद्रा प्रारूप बदलता है। केवल दृश्य, कोई सटीक विनिमय दर नहीं
+STR_5830    :भाषा बदलता है
+STR_5831    :तापमान प्रदर्शन प्रारूप बदलता है
 STR_5832    :Show height as generic units instead of measurement format set under “Distance and Speed”
-STR_5833    :Changes what date format is used
-STR_5834    :Select which audio device OpenRCT2 will use
-STR_5835    :Mute the game if the window loses focus
-STR_5836    :Select music to use on the main menu.{NEWLINE}Selecting the RCT1 theme requires that you set the path to RCT1 in the Advanced tab.
-STR_5837    :Create and manage custom UI themes
-STR_5838    :Show a separate button for the finance window in the toolbar
-STR_5839    :Show a separate button for the research and development window in the toolbar
-STR_5840    :Show a separate button for the cheats window in the toolbar
-STR_5841    :Show a separate button for the recent news window in the toolbar
-STR_5842    :Sort scenarios into tabs by their difficulty (RCT2 behaviour) or their source game (RCT1 behaviour)
-STR_5843    :Enables progressive unlocking of scenarios (RCT1 behaviour)
-STR_5844    :Stay connected to a multiplayer server{NEWLINE}even if a desync or error occurs
-STR_5845    :Adds a button for{NEWLINE}debugging tools to the toolbar.{NEWLINE}Enables keyboard shortcut for developer console
-STR_5846    :Set how often OpenRCT2 automatically saves
-STR_5847    :Select park sequence used on the title screen.{NEWLINE}Title sequences from RCT1/2 require imported scenarios to function
-STR_5849    :Automatically place{NEWLINE}newly hired staff members
-STR_5851    :Sets the default inspection interval{NEWLINE}on newly built rides
-STR_5853    :Toggle sound effects on/off
-STR_5854    :Toggle ride music on/off
-STR_5855    :Set regular fullscreen, borderless fullscreen{NEWLINE}or windowed display
-STR_5856    :Set game resolution when in fullscreen mode
-STR_5857    :Game options
-STR_5858    :Use GPU for displaying instead of CPU. Improves compatibility with screen capture software. May slightly decrease performance.
-STR_5859    :Enables frame tweening for visually{NEWLINE}smoother gameplay. When disabled,{NEWLINE}the game will run at 40 FPS.
-STR_5860    :Toggle original/decompiled track drawing
-STR_5861    :Key verification failure.
-STR_5862    :Block unknown players
-STR_5863    :Only allow players with known keys to join.
-STR_5864    :This server only allows whitelisted players to connect.
-STR_5865    :Log chat history
-STR_5866    :Logs all chat history to files in your user directory.
-STR_5867    :{WINDOW_COLOUR_2}Provider Name: {BLACK}{STRING}
-STR_5868    :{WINDOW_COLOUR_2}Provider E-mail: {BLACK}{STRING}
-STR_5869    :{WINDOW_COLOUR_2}Provider Website: {BLACK}{STRING}
-STR_5870    :Show server information
-STR_5871    :Disable plants withering
+STR_5833    :तिथि प्रारूप बदलता है
+STR_5834    :OpenRCT2 का ऑडियो डिवाइस चुनें
+STR_5835    :विंडो फ़ोकस खो जाने पर गेम म्यूट करें
+STR_5836    :मुख्य मेनू पर संगीत चुनें।{NEWLINE}RCT1 थीम के लिए उन्नत टैब में RCT1 पथ सेट करना आवश्यक है।
+STR_5837    :कस्टम UI थीम बनाएं और प्रबंधित करें
+STR_5838    :टूलबार में वित्त विंडो के लिए अलग बटन दिखाएं
+STR_5839    :टूलबार में अनुसंधान और विकास विंडो के लिए अलग बटन दिखाएं
+STR_5840    :टूलबार में चीट विंडो के लिए अलग बटन दिखाएं
+STR_5841    :टूलबार में हाल की खबरें विंडो के लिए अलग बटन दिखाएं
+STR_5842    :परिदृश्यों को कठिनाई (RCT2 व्यवहार) या स्रोत गेम (RCT1 व्यवहार) के आधार पर टैब में क्रमबद्ध करें
+STR_5843    :परिदृश्यों की प्रगतिशील अनलॉकिंग सक्षम करें (RCT1 व्यवहार)
+STR_5844    :मल्टीप्लेयर सर्वर से कनेक्टेड रहें{NEWLINE}भले ही डीसिंक या त्रुटि हो
+STR_5845    :टूलबार पर{NEWLINE}डीबगिंग टूल बटन जोड़ता है।{NEWLINE}डेवलपर कंसोल के लिए कीबोर्ड शॉर्टकट सक्षम करता है
+STR_5846    :OpenRCT2 स्वचालित रूप से कितनी बार सहेजे, यह सेट करें
+STR_5847    :शीर्षक स्क्रीन पर उपयोग किया जाने वाला पार्क अनुक्रम चुनें।{NEWLINE}RCT1/2 शीर्षक अनुक्रमों के लिए आयातित परिदृश्य चाहिए
+STR_5849    :नए नियुक्त कर्मचारियों को{NEWLINE}स्वचालित रूप से रखें
+STR_5851    :नई बनी राइड पर डिफ़ॉल्ट निरीक्षण अंतराल सेट करता है
+STR_5853    :ध्वनि प्रभाव चालू/बंद करें
+STR_5854    :राइड संगीत चालू/बंद करें
+STR_5855    :नियमित फ़ुलस्क्रीन, बॉर्डरलेस फ़ुलस्क्रीन{NEWLINE}या विंडोड डिस्प्ले सेट करें
+STR_5856    :फ़ुलस्क्रीन मोड में गेम रिज़ॉल्यूशन सेट करें
+STR_5857    :गेम विकल्प
+STR_5858    :CPU के बजाय GPU उपयोग करके प्रदर्शित करें। स्क्रीन कैप्चर सॉफ्टवेयर के साथ संगतता सुधारता है। प्रदर्शन थोड़ा कम हो सकता है।
+STR_5859    :फ्रेम ट्वीनिंग सक्षम करता है जिससे गेमप्ले{NEWLINE}दृश्यात्मक रूप से चिकना लगता है। बंद होने पर,{NEWLINE}गेम 40 FPS पर चलेगा।
+STR_5860    :मूल/डीकंपाइल्ड ट्रैक ड्राइंग टॉगल करें
+STR_5861    :कुंजी सत्यापन विफल।
+STR_5862    :अज्ञात खिलाड़ियों को ब्लॉक करें
+STR_5863    :केवल ज्ञात कुंजियों वाले खिलाड़ियों को शामिल होने दें।
+STR_5864    :यह सर्वर केवल व्हाइटलिस्टेड खिलाड़ियों को कनेक्ट होने देता है।
+STR_5865    :चैट इतिहास लॉग करें
+STR_5866    :सभी चैट इतिहास को आपके उपयोगकर्ता निर्देशिका में फाइलों में लॉग करता है।
+STR_5867    :{WINDOW_COLOUR_2}प्रदाता नाम: {BLACK}{STRING}
+STR_5868    :{WINDOW_COLOUR_2}प्रदाता ई-मेल: {BLACK}{STRING}
+STR_5869    :{WINDOW_COLOUR_2}प्रदाता वेबसाइट: {BLACK}{STRING}
+STR_5870    :सर्वर जानकारी दिखाएं
+STR_5871    :पौधों का मुरझाना बंद करें
 STR_5872    :Disable plant ageing such that they don’t wilt.
-STR_5873    :Allow chain lifts on all track pieces
-STR_5874    :Allows any piece of track to be made into a chain lift
-STR_5875    :Drawing Engine:
-STR_5876    :The engine to use for drawing the game.
-STR_5877    :Software
-STR_5878    :Software (hardware display)
-STR_5879    :OpenGL (experimental)
-STR_5880    :Selected only
-STR_5881    :Non-selected only
-STR_5882    :Custom currency
-STR_5883    :Custom currency configuration
-STR_5884    :{WINDOW_COLOUR_2}Exchange rate: 
+STR_5873    :सभी ट्रैक टुकड़ों पर चेन लिफ्ट की अनुमति दें
+STR_5874    :किसी भी ट्रैक टुकड़े को चेन लिफ्ट बनाने की अनुमति देता है
+STR_5875    :ड्राइंग इंजन:
+STR_5876    :गेम ड्रा करने के लिए उपयोग किया जाने वाला इंजन।
+STR_5877    :सॉफ्टवेयर
+STR_5878    :सॉफ्टवेयर (हार्डवेयर डिस्प्ले)
+STR_5879    :OpenGL (प्रयोगात्मक)
+STR_5880    :केवल चुना हुआ
+STR_5881    :केवल गैर-चुना हुआ
+STR_5882    :कस्टम मुद्रा
+STR_5883    :कस्टम मुद्रा कॉन्फ़िगरेशन
+STR_5884    :{WINDOW_COLOUR_2}विनिमय दर:
 STR_5885    :{WINDOW_COLOUR_2}is equivalent to {COMMA32} GBP (£)
-STR_5886    :{WINDOW_COLOUR_2}Currency symbol:
-STR_5887    :Prefix
-STR_5888    :Suffix
-STR_5889    :Custom currency symbol
-STR_5890    :Enter the currency symbol to display
-STR_5892    :Go to the default directory
-STR_5893    :Exchange Rate
-STR_5894    :Enter the exchange rate
-STR_5895    :Save Track
-STR_5896    :Track save failed!
+STR_5886    :{WINDOW_COLOUR_2}मुद्रा प्रतीक:
+STR_5887    :उपसर्ग
+STR_5888    :प्रत्यय
+STR_5889    :कस्टम मुद्रा प्रतीक
+STR_5890    :प्रदर्शित करने के लिए मुद्रा प्रतीक दर्ज करें
+STR_5892    :डिफ़ॉल्ट निर्देशिका पर जाएं
+STR_5893    :विनिमय दर
+STR_5894    :विनिमय दर दर्ज करें
+STR_5895    :ट्रैक सहेजें
+STR_5896    :ट्रैक सहेजना विफल!
 STR_5898    :{BLACK}Can’t load the track, the file might be {newline}corrupted, broken or missing!
-STR_5899    :Toggle paint debug window
-STR_5900    :Use original drawing code
-STR_5901    :Show segment heights
-STR_5902    :Show bounding boxes
-STR_5903    :Show paint debug window
-STR_5904    :Reset date
-STR_5905    :A map generation tool that automatically creates a custom landscape
-STR_5906    :Zoom to cursor position
-STR_5907    :When enabled, zooming in will centre around the cursor, as opposed to the screen centre.
-STR_5908    :Allow arbitrary ride type changes
-STR_5909    :Allows changing ride type freely. May cause crashes.
-STR_5910    :Apply
-STR_5911    :See-Through Paths
-STR_5912    :See-through paths toggle
-STR_5913    :Chat
-STR_5914    :Unknown ride
+STR_5899    :पेंट डीबग विंडो टॉगल करें
+STR_5900    :मूल ड्राइंग कोड उपयोग करें
+STR_5901    :सेगमेंट ऊँचाई दिखाएं
+STR_5902    :बाउंडिंग बॉक्स दिखाएं
+STR_5903    :पेंट डीबग विंडो दिखाएं
+STR_5904    :तिथि रीसेट करें
+STR_5905    :एक नक्शा जनरेशन टूल जो स्वचालित रूप से कस्टम परिदृश्य बनाता है
+STR_5906    :कर्सर स्थान पर ज़ूम करें
+STR_5907    :सक्षम होने पर, ज़ूम इन स्क्रीन केंद्र के बजाय कर्सर के चारों ओर केंद्रित होगा।
+STR_5908    :मनमाने राइड प्रकार परिवर्तन की अनुमति दें
+STR_5909    :राइड प्रकार स्वतंत्र रूप से बदलने की अनुमति देता है। क्रैश हो सकता है।
+STR_5910    :लागू करें
+STR_5911    :पारदर्शी रास्ते
+STR_5912    :पारदर्शी रास्ते टॉगल
+STR_5913    :चैट
+STR_5914    :अज्ञात राइड
 STR_5915    :खिलाड़ी
-STR_5916    :{COMMA16} player
-STR_5917    :{COMMA16} players
+STR_5916    :{COMMA16} खिलाड़ी
+STR_5917    :{COMMA16} खिलाड़ी
 STR_5918    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_5919    :{COMMA16}
-STR_5920    :Render weather effects
-STR_5921    :If enabled, rain and gloomy colours will be rendered during storms.
-STR_5922    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}Max {STRINGID}
-STR_5923    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}Max {COMMA16} {STRINGID} per train
-STR_5924    :Surface details
-STR_5925    :Path details
-STR_5926    :Track details
-STR_5927    :Scenery details
-STR_5928    :Entrance details
-STR_5929    :Wall details
-STR_5930    :Large scenery details
-STR_5931    :Banner details
-STR_5932    :Corrupt element details
-STR_5933    :Properties
-STR_5934    :Terrain texture: {BLACK}{STRINGID}
-STR_5935    :Terrain edge: {BLACK}{STRINGID}
-STR_5936    :Land ownership: {BLACK}{STRINGID}
-STR_5937    :Not owned and not for sale
-STR_5938    :Water level: {BLACK}{COMMA16}
-STR_5939    :Remove park fences
-STR_5940    :Restore park fences
-STR_5941    :Base height:
-STR_5942    :Path name: {BLACK}{STRINGID}
-STR_5943    :Additions: {BLACK}{STRINGID}
-STR_5944    :Additions: {BLACK}None
-STR_5945    :Connected edges:
-STR_5946    :Ride type: {BLACK}{STRINGID}
-STR_5947    :Ride ID: {BLACK}{COMMA16}
-STR_5948    :Ride name: {BLACK}{STRINGID}
-STR_5949    :Chain lift
-STR_5950    :Apply changes to entire track piece
-STR_5951    :Track piece ID: {BLACK}{COMMA16}
-STR_5952    :Sequence number: {BLACK}{COMMA16}
-STR_5953    :Sort the map elements on the current tile based on their base height.
-STR_5954    :Scenery age: {BLACK}{COMMA16}
-STR_5955    :Quadrant placement: {BLACK}{STRINGID}
-STR_5956    :Southwest
-STR_5957    :Northwest
-STR_5958    :Northeast
-STR_5959    :Southeast
-STR_5960    :Quadrant placement:
-STR_5961    :Entry index: {BLACK}{COMMA16}
-STR_5962    :Collision detection:
-STR_5963    :Raised Corners:
-STR_5964    :Diagonal
-STR_5965    :Entrance type: {BLACK}{STRINGID}
-STR_5966    :Park entrance part: {BLACK}{STRINGID}
-STR_5967    :Middle
-STR_5968    :Left
-STR_5969    :Right
-STR_5970    :Entrance ID: {BLACK}{COMMA16}
-STR_5971    :Exit ID: {BLACK}{COMMA16}
-STR_5972    :Ride ID: {BLACK}{COMMA16}
-STR_5973    :Clamp to next
+STR_5920    :मौसम प्रभाव रेंडर करें
+STR_5921    :सक्षम होने पर, तूफान के दौरान बारिश और उदास रंग रेंडर होंगे।
+STR_5922    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}अधिकतम {STRINGID}
+STR_5923    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}अधिकतम {COMMA16} {STRINGID} प्रति ट्रेन
+STR_5924    :सतह विवरण
+STR_5925    :रास्ता विवरण
+STR_5926    :ट्रैक विवरण
+STR_5927    :दृश्यावली विवरण
+STR_5928    :प्रवेश विवरण
+STR_5929    :दीवार विवरण
+STR_5930    :बड़ी दृश्यावली विवरण
+STR_5931    :बैनर विवरण
+STR_5932    :दूषित तत्व विवरण
+STR_5933    :गुण
+STR_5934    :भूमि बनावट: {BLACK}{STRINGID}
+STR_5935    :भूमि किनारा: {BLACK}{STRINGID}
+STR_5936    :भूमि स्वामित्व: {BLACK}{STRINGID}
+STR_5937    :स्वामित्व नहीं और बिक्री के लिए नहीं
+STR_5938    :जल स्तर: {BLACK}{COMMA16}
+STR_5939    :पार्क बाड़ हटाएं
+STR_5940    :पार्क बाड़ पुनः स्थापित करें
+STR_5941    :आधार ऊँचाई:
+STR_5942    :रास्ता नाम: {BLACK}{STRINGID}
+STR_5943    :जोड़: {BLACK}{STRINGID}
+STR_5944    :जोड़: {BLACK}कोई नहीं
+STR_5945    :जुड़े किनारे:
+STR_5946    :राइड प्रकार: {BLACK}{STRINGID}
+STR_5947    :राइड ID: {BLACK}{COMMA16}
+STR_5948    :राइड नाम: {BLACK}{STRINGID}
+STR_5949    :चेन लिफ्ट
+STR_5950    :पूरे ट्रैक टुकड़े पर परिवर्तन लागू करें
+STR_5951    :ट्रैक टुकड़ा ID: {BLACK}{COMMA16}
+STR_5952    :अनुक्रम संख्या: {BLACK}{COMMA16}
+STR_5953    :वर्तमान टाइल पर नक्शा तत्वों को उनकी आधार ऊँचाई के आधार पर क्रमबद्ध करें।
+STR_5954    :दृश्यावली आयु: {BLACK}{COMMA16}
+STR_5955    :चतुर्थांश स्थान: {BLACK}{STRINGID}
+STR_5956    :दक्षिण-पश्चिम
+STR_5957    :उत्तर-पश्चिम
+STR_5958    :उत्तर-पूर्व
+STR_5959    :दक्षिण-पूर्व
+STR_5960    :चतुर्थांश स्थान:
+STR_5961    :प्रविष्टि सूचकांक: {BLACK}{COMMA16}
+STR_5962    :टक्कर पहचान:
+STR_5963    :उठे हुए कोने:
+STR_5964    :विकर्ण
+STR_5965    :प्रवेश प्रकार: {BLACK}{STRINGID}
+STR_5966    :पार्क प्रवेश भाग: {BLACK}{STRINGID}
+STR_5967    :मध्य
+STR_5968    :बाईं
+STR_5969    :दाईं
+STR_5970    :प्रवेश ID: {BLACK}{COMMA16}
+STR_5971    :निकास ID: {BLACK}{COMMA16}
+STR_5972    :राइड ID: {BLACK}{COMMA16}
+STR_5973    :अगले से जोड़ें
 STR_5974    :Changes the base- and clearance height so that it’s at the same as the next element on the current tile. Doing this makes it easier to build on this tile.
-STR_5975    :Slope:
-STR_5976    :Flat
-STR_5977    :Right side up
-STR_5978    :Left side up
-STR_5979    :Wall type: {BLACK}{COMMA16}
-STR_5980    :Banner text: {BLACK}{STRINGID}
-STR_5981    :Not a banner
-STR_5982    :Large scenery type: {BLACK}{COMMA16}
-STR_5983    :Large scenery piece ID: {BLACK}{COMMA16}
-STR_5984    :Blocked paths:
-STR_5985    :New folder
-STR_5986    :Type the name of the new folder.
-STR_5987    :Unable to create folder
-STR_5988    :No remaining land rights for sale
-STR_5989    :No remaining construction rights for sale
-STR_5990    :No remaining land rights or construction rights for sale
+STR_5975    :ढलान:
+STR_5976    :समतल
+STR_5977    :सीधा ऊपर
+STR_5978    :सीधा बाईं ओर
+STR_5979    :दीवार प्रकार: {BLACK}{COMMA16}
+STR_5980    :बैनर पाठ: {BLACK}{STRINGID}
+STR_5981    :बैनर नहीं
+STR_5982    :बड़ी दृश्यावली प्रकार: {BLACK}{COMMA16}
+STR_5983    :बड़ी दृश्यावली टुकड़ा ID: {BLACK}{COMMA16}
+STR_5984    :अवरुद्ध रास्ते:
+STR_5985    :नया फ़ोल्डर
+STR_5986    :नए फ़ोल्डर का नाम टाइप करें।
+STR_5987    :फ़ोल्डर बनाने में असमर्थ
+STR_5988    :बिक्री के लिए कोई ज़मीन अधिकार शेष नहीं
+STR_5989    :बिक्री के लिए कोई निर्माण अधिकार शेष नहीं
+STR_5990    :बिक्री के लिए कोई ज़मीन अधिकार या निर्माण अधिकार शेष नहीं
 STR_5991    :Can’t paste element…
-STR_5992    :The map elements limit has been reached
-STR_5993    :Copy selected element
-STR_5994    :Paste copied element
-STR_5995    :Booster
-STR_5996    :Booster speed
-STR_5997    :Add/set money
-STR_5998    :Add money
-STR_5999    :Set money
-STR_6000    :Enter new value
-STR_6001    :Enable lighting effects (experimental)
-STR_6002    :Lamps and rides will be lit up at night.{NEWLINE}Requires rendering engine to be set to hardware display.
-STR_6003    :Cut-away View
-STR_6004    :Cut-away View
-STR_6005    :Enable cut-away view
-STR_6006    :Cut-away view only displays map elements at or below the cut height (vertical clipping) and in the selected area (horizontal clipping).
-STR_6007    :Cut height
-STR_6008    :Click to toggle raw value<->value in measurement units
-STR_6009    :Select cut height
+STR_5992    :नक्शा तत्व सीमा पहुँच गई
+STR_5993    :चुना हुआ तत्व कॉपी करें
+STR_5994    :कॉपी किया हुआ तत्व पेस्ट करें
+STR_5995    :बूस्टर
+STR_5996    :बूस्टर गति
+STR_5997    :पैसे जोड़ें/सेट करें
+STR_5998    :पैसे जोड़ें
+STR_5999    :पैसे सेट करें
+STR_6000    :नया मूल्य दर्ज करें
+STR_6001    :प्रकाश प्रभाव सक्षम करें (प्रयोगात्मक)
+STR_6002    :रात में लैंप और राइड जलाए जाएंगे।{NEWLINE}रेंडरिंग इंजन को हार्डवेयर डिस्प्ले पर सेट करना आवश्यक है।
+STR_6003    :कट-अवे व्यू
+STR_6004    :कट-अवे व्यू
+STR_6005    :कट-अवे व्यू सक्षम करें
+STR_6006    :कट-अवे व्यू केवल कट ऊँचाई (वर्टिकल क्लिपिंग) पर या नीचे और चुने हुए क्षेत्र (हॉरिज़ॉन्टल क्लिपिंग) में नक्शा तत्व दिखाता है।
+STR_6007    :कट ऊँचाई
+STR_6008    :कच्चे मूल्य <-> माप इकाइयों में मूल्य टॉगल करने के लिए क्लिक करें
+STR_6009    :कट ऊँचाई चुनें
 STR_6010    :{COMMA2DP32}m
-STR_6011    :{COMMA1DP16}ft
+STR_6011    :{COMMA1DP16} फुट
 STR_6012    :{COMMA1DP16}
-STR_6013    :Guests will only pay the ticket to enter the park and services.{NEWLINE}Ride entry is free.
+STR_6013    :मेहमान केवल पार्क में प्रवेश का टिकट और सेवाओं के लिए भुगतान करेंगे।{NEWLINE}राइड प्रवेश मुफ्त है।
 STR_6014    :Guests will only pay entrance tickets for rides and services.{NEWLINE}They won’t pay anything to enter the park.
-STR_6015    :Sloped
-STR_6016    :Modify Tile
-STR_6017    :Please slow down
-STR_6018    :Construction - Turn left
-STR_6019    :Construction - Turn right
-STR_6020    :Construction - Use default track
-STR_6021    :Construction - Slope down
-STR_6022    :Construction - Slope up
-STR_6023    :Construction - Toggle chain lift
-STR_6024    :Construction - Bank left
-STR_6025    :Construction - Bank right
-STR_6026    :Construction - Previous track
-STR_6027    :Construction - Next track
-STR_6028    :Construction - Build current
-STR_6029    :Construction - Demolish current
-STR_6030    :Scenery picker. Click any scenery on the map to select the same piece for construction.
-STR_6031    :Server Description:
-STR_6032    :Server Greeting:
-STR_6033    :Path to RCT1 installation:
+STR_6015    :ढलानदार
+STR_6016    :टाइल संशोधित करें
+STR_6017    :धीमे हो जाएं
+STR_6018    :निर्माण - बाईं ओर मुड़ें
+STR_6019    :निर्माण - दाईं ओर मुड़ें
+STR_6020    :निर्माण - डिफ़ॉल्ट ट्रैक उपयोग करें
+STR_6021    :निर्माण - ढलान नीचे
+STR_6022    :निर्माण - ढलान ऊपर
+STR_6023    :निर्माण - चेन लिफ्ट टॉगल करें
+STR_6024    :निर्माण - बाईं ओर बैंक
+STR_6025    :निर्माण - दाईं ओर बैंक
+STR_6026    :निर्माण - पिछला ट्रैक
+STR_6027    :निर्माण - अगला ट्रैक
+STR_6028    :निर्माण - वर्तमान बनाएं
+STR_6029    :निर्माण - वर्तमान तोड़ें
+STR_6030    :दृश्यावली चुनने वाला। नक्शे पर किसी भी दृश्यावली पर क्लिक करें उसी टुकड़े को निर्माण के लिए चुनने के लिए।
+STR_6031    :सर्वर विवरण:
+STR_6032    :सर्वर अभिवादन:
+STR_6033    :RCT1 इंस्टॉलेशन का पथ:
 STR_6034    :{BLACK}{STRING}
-STR_6035    :Please select your RCT1 directory
-STR_6036    :Clear
-STR_6037    :The selected folder does not contain a valid RollerCoaster Tycoon 1 install.
-STR_6038    :If you have RCT1 installed, set this option to its directory to load scenarios, music, etc.
-STR_6039    :Quick demolish ride
-STR_6040    :Edit Scenario Options
-STR_6041    :{BLACK}No mechanics are hired!
-STR_6042    :Load height map
-STR_6043    :Select height map
-STR_6044    :Smooth height map
-STR_6045    :Strength:
-STR_6046    :Normalise height map
-STR_6047    :Smooth tile edges
-STR_6048    :Height map error
-STR_6049    :Error reading PNG
-STR_6050    :Error reading bitmap
-STR_6052    :The heightmap is too big, and will be cut off
-STR_6053    :The heightmap cannot be normalised
-STR_6054    :Only 24-bit bitmaps are supported
-STR_6055    :OpenRCT2 Heightmap File
-STR_6056    :Mute
-STR_6057    :Show a separate button for the Mute Option in the toolbar
-STR_6058    :Mute
+STR_6035    :अपनी RCT1 निर्देशिका चुनें
+STR_6036    :साफ करें
+STR_6037    :चुना हुआ फ़ोल्डर वैध RollerCoaster Tycoon 1 इंस्टॉल नहीं है।
+STR_6038    :यदि आपके पास RCT1 स्थापित है, तो परिदृश्य, संगीत आदि लोड करने के लिए इस विकल्प को उसकी निर्देशिका पर सेट करें।
+STR_6039    :राइड जल्दी तोड़ें
+STR_6040    :परिदृश्य विकल्प संपादित करें
+STR_6041    :{BLACK}कोई मैकेनिक नियुक्त नहीं!
+STR_6042    :ऊँचाई नक्शा लोड करें
+STR_6043    :ऊँचाई नक्शा चुनें
+STR_6044    :ऊँचाई नक्शा सुचारू करें
+STR_6045    :शक्ति:
+STR_6046    :ऊँचाई नक्शा सामान्य करें
+STR_6047    :टाइल किनारे सुचारू करें
+STR_6048    :ऊँचाई नक्शा त्रुटि
+STR_6049    :PNG पढ़ने में त्रुटि
+STR_6050    :बिटमैप पढ़ने में त्रुटि
+STR_6052    :ऊँचाई नक्शा बहुत बड़ा है, और काटा जाएगा
+STR_6053    :ऊँचाई नक्शा सामान्य नहीं किया जा सकता
+STR_6054    :केवल 24-बिट बिटमैप समर्थित हैं
+STR_6055    :OpenRCT2 ऊँचाई नक्शा फाइल
+STR_6056    :म्यूट
+STR_6057    :टूलबार में म्यूट विकल्प के लिए अलग बटन दिखाएं
+STR_6058    :म्यूट
 STR_6059    :»
-STR_6060    :Show guest purchases as animation
-STR_6061    :Show animated money effect{NEWLINE}when guests make purchases.
+STR_6060    :मेहमान खरीद को एनीमेशन के रूप में दिखाएं
+STR_6061    :जब मेहमान खरीदारी करते हैं तो{NEWLINE}एनिमेटेड पैसे का प्रभाव दिखाएं।
 STR_6062    :{OUTLINE}{GREEN}+ {CURRENCY2DP}
 STR_6063    :{OUTLINE}{RED}- {CURRENCY2DP}
-STR_6064    :Own all land
-STR_6065    :Log user actions
-STR_6066    :Logs all user actions to files in your user directory.
-STR_6067    :Server started.
-STR_6068    :Server shutdown.
-STR_6069    :{STRING} was kicked from the server by {STRING}.
+STR_6064    :सभी ज़मीन का स्वामित्व लें
+STR_6065    :उपयोगकर्ता क्रियाएं लॉग करें
+STR_6066    :सभी उपयोगकर्ता क्रियाएं आपकी उपयोगकर्ता निर्देशिका में फाइलों में लॉग करता है।
+STR_6067    :सर्वर शुरू हुआ।
+STR_6068    :सर्वर बंद।
+STR_6069    :{STRING} को {STRING} द्वारा सर्वर से किक किया गया।
 STR_6070    :{STRING} was set to group ‘{STRING}’ by {STRING}.
 STR_6071    :{STRING} created new player group ‘{STRING}’.
 STR_6072    :{STRING} deleted player group ‘{STRING}’.
@@ -3153,7 +3153,7 @@ STR_6073    :{STRING} edited permissions for player group ‘{STRING}’.
 STR_6074    :{STRING} changed player group name from ‘{STRING}’ to ‘{STRING}’.
 STR_6075    :{STRING} changed the default player group to ‘{STRING}’.
 STR_6076    :{STRING} used/toggled cheat ‘{STRING}’.
-STR_6077    :Add Money
+STR_6077    :पैसे जोड़ें
 STR_6078    :{STRING} created ride ‘{STRING}’.
 STR_6079    :{STRING} demolished ride ‘{STRING}’.
 STR_6080    :{STRING} changed the appearance of ride ‘{STRING}’.
@@ -3166,20 +3166,20 @@ STR_6086    :{STRING} renamed the ride ‘{STRING}’ to ‘{STRING}’.
 STR_6087    :{STRING} changed the price of ride ‘{STRING}’ to {STRING}
 STR_6088    :{STRING} changed the secondary price of ride ‘{STRING}’ to {STRING}
 STR_6089    :{STRING} renamed the park from ‘{STRING}’ to ‘{STRING}’.
-STR_6090    :{STRING} opened the park.
-STR_6091    :{STRING} closed the park.
-STR_6092    :{STRING} changed the park entrance fee to {STRING}
-STR_6093    :{STRING} placed new scenery.
-STR_6094    :{STRING} removed scenery.
-STR_6095    :{STRING} edited scenery.
+STR_6090    :{STRING} ने पार्क खोला।
+STR_6091    :{STRING} ने पार्क बंद किया।
+STR_6092    :{STRING} ने पार्क प्रवेश शुल्क {STRING} में बदला
+STR_6093    :{STRING} ने नई दृश्यावली रखी।
+STR_6094    :{STRING} ने दृश्यावली हटाई।
+STR_6095    :{STRING} ने दृश्यावली संपादित की।
 STR_6096    :{STRING} set sign name to ‘{STRING}’.
 STR_6097    :{STRING} placed a track of ride ‘{STRING}’.
-STR_6098    :{STRING} removed a track of ride.
-STR_6099    :You connected to the server.
-STR_6100    :You disconnected from the server.
+STR_6098    :{STRING} ने राइड का ट्रैक हटाया।
+STR_6099    :आप सर्वर से जुड़ गए।
+STR_6100    :आप सर्वर से डिस्कनेक्ट हो गए।
 STR_6101    :Rides don’t decrease in value over time
 STR_6102    :The value of a ride won’t decrease over time, so guests will not suddenly think that a ride is too expensive.
-STR_6103    :This option is disabled during network play.
+STR_6103    :नेटवर्क गेम के दौरान यह विकल्प बंद है।
 STR_6105    :हाइपरकोस्टर
 STR_6107    :मॉन्स्टर ट्रक
 STR_6109    :हाइपर-ट्विस्टर रोलर कोस्टर
@@ -3188,75 +3188,75 @@ STR_6113    :बड़ी ढलानों, उच्च गति और क�
 STR_6115    :चालित विशाल 4×4 ट्रक जो खड़ी ढलानों पर चढ़ सकते हैं
 STR_6116    :चौड़ी रोलर कोस्टर ट्रेनें चिकनी स्टील ट्रैक पर सरकती हैं, विभिन्न प्रकार के इनवर्जन से गुज़रती हैं
 STR_6119    :एक सस्ता और बनाने में आसान रोलर कोस्टर, लेकिन सीमित ऊँचाई के साथ
-STR_6120    :{BABYBLUE}New vehicle now available for {STRINGID}:{NEWLINE}{STRINGID}
+STR_6120    :{BABYBLUE}{STRINGID} के लिए नया वाहन अब उपलब्ध है:{NEWLINE}{STRINGID}
 STR_6121    :Extends the park’s land rights all the way to the edges of the map
-STR_6122    :There are not enough roller coasters in this scenario!
-STR_6123    :Error loading objects for park
-STR_6124    :Object name
-STR_6125    :Object type
-STR_6126    :Unknown type
-STR_6127    :File: {STRING}
-STR_6128    :The file could not be loaded as some of the objects referenced in it are missing or corrupt. A list of these objects is given below.
-STR_6129    :Copy
-STR_6130    :Copy all
-STR_6131    :Object source
-STR_6132    :Ignore research status
-STR_6133    :Access rides and scenery that have not yet been invented
-STR_6134    :Clear Scenery
-STR_6135    :Client sent invalid request
-STR_6136    :Server sent invalid request
-STR_6137    :OpenRCT2, a free and open source recreation of and expansion to Roller Coaster Tycoon 2.
+STR_6122    :इस परिदृश्य में पर्याप्त रोलर कोस्टर नहीं हैं!
+STR_6123    :पार्क के लिए वस्तुएं लोड करने में त्रुटि
+STR_6124    :वस्तु नाम
+STR_6125    :वस्तु प्रकार
+STR_6126    :अज्ञात प्रकार
+STR_6127    :फाइल: {STRING}
+STR_6128    :फाइल लोड नहीं हो सकी क्योंकि इसमें संदर्भित कुछ वस्तुएं गायब या दूषित हैं। इन वस्तुओं की सूची नीचे दी गई है।
+STR_6129    :कॉपी
+STR_6130    :सभी कॉपी करें
+STR_6131    :वस्तु स्रोत
+STR_6132    :अनुसंधान स्थिति अनदेखा करें
+STR_6133    :उन राइड और दृश्यावली तक पहुँचें जो अभी तक खोजी नहीं गई हैं
+STR_6134    :दृश्यावली साफ करें
+STR_6135    :क्लाइंट ने अमान्य अनुरोध भेजा
+STR_6136    :सर्वर ने अमान्य अनुरोध भेजा
+STR_6137    :OpenRCT2, Roller Coaster Tycoon 2 का एक मुफ्त और ओपन सोर्स पुनः निर्माण और विस्तार।
 STR_6138    :OpenRCT2 is the work of many authors, a full list can be found under the “Contributors” button. For more information, visit http://github.com/OpenRCT2/OpenRCT2
-STR_6139    :All product and company names belong to their respective holders. Use of them does not imply any affiliation with or endorsement by them.
+STR_6139    :सभी उत्पाद और कंपनी नाम उनके संबंधित धारकों के हैं। उनका उपयोग किसी भी संबद्धता या समर्थन का संकेत नहीं देता।
 STR_6140    :Changelog…
-STR_6141    :RCT1 Bottom Toolbar
-STR_6142    :{WINDOW_COLOUR_2}Track name: {BLACK}{STRING}
-STR_6143    :{WINDOW_COLOUR_2}Ride type: {BLACK}{STRINGID}
-STR_6144    :Show dirty visuals
-STR_6145    :Set speed limit for boosters
-STR_6146    :Enable all drawable track pieces
-STR_6147    :Enables all track pieces the ride type is capable of in the construction window, regardless of whether the vehicle supports them.
+STR_6141    :RCT1 नीचे टूलबार
+STR_6142    :{WINDOW_COLOUR_2}ट्रैक नाम: {BLACK}{STRING}
+STR_6143    :{WINDOW_COLOUR_2}राइड प्रकार: {BLACK}{STRINGID}
+STR_6144    :गंदे दृश्य दिखाएं
+STR_6145    :बूस्टर की गति सीमा सेट करें
+STR_6146    :सभी ड्रा करने योग्य ट्रैक टुकड़े सक्षम करें
+STR_6147    :निर्माण विंडो में राइड प्रकार के सभी ट्रैक टुकड़े सक्षम करता है, चाहे वाहन उन्हें सपोर्ट करे या नहीं।
 STR_6148    :Connecting to master server…
-STR_6149    :Unable to connect to master server
-STR_6150    :Invalid response from master server (no JSON number)
-STR_6151    :Master server failed to return servers
-STR_6152    :Invalid response from master server (no JSON array)
-STR_6153    :Pay to enter park / Pay per ride
-STR_6154    :For security reasons, it is not recommended to run OpenRCT2 with elevated permissions.
-STR_6155    :Neither KDialog nor Zenity are installed. Please install one, or configure from the command line.
-STR_6156    :Name is reserved
-STR_6157    :Console
-STR_6160    :{WINDOW_COLOUR_2}Available vehicles: {BLACK}{STRING}
-STR_6161    :Gridlines display toggle
+STR_6149    :मास्टर सर्वर से कनेक्ट नहीं हो सका
+STR_6150    :मास्टर सर्वर से अमान्य प्रतिक्रिया (कोई JSON नंबर नहीं)
+STR_6151    :मास्टर सर्वर सर्वर सूची नहीं दे सका
+STR_6152    :मास्टर सर्वर से अमान्य प्रतिक्रिया (कोई JSON एरे नहीं)
+STR_6153    :पार्क में प्रवेश के लिए भुगतान / प्रति राइड भुगतान
+STR_6154    :सुरक्षा कारणों से, OpenRCT2 को उन्नत अनुमतियों के साथ चलाने की अनुशंसा नहीं है।
+STR_6155    :न KDialog और न Zenity स्थापित है। कृपया एक स्थापित करें, या कमांड लाइन से कॉन्फ़िगर करें।
+STR_6156    :नाम आरक्षित है
+STR_6157    :कंसोल
+STR_6160    :{WINDOW_COLOUR_2}उपलब्ध वाहन: {BLACK}{STRING}
+STR_6161    :ग्रिड लाइन डिस्प्ले टॉगल
 STR_6162    :स्पिनिंग वाइल्ड माउस
 STR_6163    :चूहे के आकार की कारें तंग कोनों और छोटी ढलानों से तेज़ी से गुज़रती हैं, सवारों को भटकाने के लिए धीरे-धीरे घूमती हैं
 STR_6164    :{WHITE}❌
-STR_6165    :Use vertical sync
+STR_6165    :वर्टिकल सिंक उपयोग करें
 STR_6166    :Synchronises each frame displayed to the monitor’s refresh rate, preventing screen tearing.
-STR_6167    :Advanced
-STR_6168    :Title Sequence
-STR_6170    :Interface Tweaks
-STR_6171    :Search
-STR_6172    :Search
-STR_6173    :Please provide the name to search:
-STR_6188    :Vomit
-STR_6189    :Duck
-STR_6191    :Surface
-STR_6192    :Wall
-STR_6193    :{COMMA16} guest
-STR_6194    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16} guest
-STR_6195    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} guest
-STR_6196    :{BLACK}Year:
-STR_6197    :{BLACK}Month:
-STR_6198    :{BLACK}Day:
-STR_6199    :Set date
-STR_6200    :Reset date
+STR_6167    :उन्नत
+STR_6168    :शीर्षक अनुक्रम
+STR_6170    :इंटरफेस बदलाव
+STR_6171    :खोजें
+STR_6172    :खोजें
+STR_6173    :खोजने के लिए नाम दर्ज करें:
+STR_6188    :उल्टी
+STR_6189    :बत्तख
+STR_6191    :सतह
+STR_6192    :दीवार
+STR_6193    :{COMMA16} मेहमान
+STR_6194    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16} मेहमान
+STR_6195    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} मेहमान
+STR_6196    :{BLACK}वर्ष:
+STR_6197    :{BLACK}माह:
+STR_6198    :{BLACK}दिन:
+STR_6199    :तिथि सेट करें
+STR_6200    :तिथि रीसेट करें
 STR_6201    :{MONTH}
-STR_6202    :Virtual floor style:
-STR_6203    :When enabled, a virtual floor will be rendered when holding Ctrl or Shift to ease vertical placement of elements.
+STR_6202    :वर्चुअल फर्श शैली:
+STR_6203    :सक्षम होने पर, Ctrl या Shift दबाने पर एक वर्चुअल फर्श प्रदर्शित होगी जिससे तत्वों को ऊर्ध्वाधर रूप से रखना आसान हो।
 STR_6215    :निर्माण
-STR_6216    :Operation
-STR_6217    :Ride / track availability
+STR_6216    :ऑपरेशन
+STR_6217    :राइड/ट्रैक उपलब्धता
 STR_6218    :OpenRCT2 Official
 STR_6219    :Highlight path issues
 STR_6220    :Make Usable
