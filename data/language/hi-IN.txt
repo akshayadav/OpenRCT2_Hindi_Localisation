@@ -1860,69 +1860,69 @@ STR_2560    :समाप्त
 STR_2561    :होम
 STR_2562    :बाएँ
 STR_2563    :ऊपर
-STR_2564    :Right
-STR_2565    :Down
-STR_2566    :Select
-STR_2567    :Print
-STR_2568    :Execute
-STR_2569    :Snapshot
-STR_2570    :Insert
-STR_2571    :Delete
-STR_2572    :Help
-STR_2618    :Menu
-STR_2621    :NumPad 0
-STR_2622    :NumPad 1
-STR_2623    :NumPad 2
-STR_2624    :NumPad 3
-STR_2625    :NumPad 4
-STR_2626    :NumPad 5
-STR_2627    :NumPad 6
-STR_2628    :NumPad 7
-STR_2629    :NumPad 8
-STR_2630    :NumPad 9
-STR_2631    :NumPad *
-STR_2632    :NumPad +
-STR_2634    :NumPad -
-STR_2635    :NumPad .
-STR_2636    :NumPad /
-STR_2669    :NumLock
-STR_2670    :Scroll
-STR_2680    :All research complete
-STR_2684    :Large group of guests arrive
-STR_2685    :Simplex Noise Parameters
-STR_2686    :Min. land height:
-STR_2687    :Max. land height:
-STR_2688    :Base Frequency:
-STR_2689    :Octaves:
-STR_2690    :Map Generation
-STR_2691    :Base height:
-STR_2692    :Water level:
-STR_2693    :Terrain:
-STR_2694    :Generate
-STR_2695    :Random terrain
-STR_2696    :Place trees
-STR_2700    :Autosave frequency:
-STR_2701    :Every minute
-STR_2702    :Every 5 minutes
-STR_2703    :Every 15 minutes
-STR_2704    :Every 30 minutes
-STR_2705    :Every hour
-STR_2706    :Never
-STR_2707    :Use system file browser
-STR_2708    :{WINDOW_COLOUR_1}Are you sure you want to overwrite {STRINGID}?
-STR_2709    :Overwrite
-STR_2720    :{UINT16}sec
-STR_2721    :{UINT16}secs
-STR_2722    :{UINT16}min:{UINT16}sec
-STR_2723    :{UINT16}min:{UINT16}secs
-STR_2724    :{UINT16}mins:{UINT16}sec
-STR_2725    :{UINT16}mins:{UINT16}secs
-STR_2726    :{UINT16}min
-STR_2727    :{UINT16}mins
-STR_2728    :{UINT16}hour:{UINT16}min
-STR_2729    :{UINT16}hour:{UINT16}mins
-STR_2730    :{UINT16}hours:{UINT16}min
-STR_2731    :{UINT16}hours:{UINT16}mins
+STR_2564    :दाएँ
+STR_2565    :नीचे
+STR_2566    :चयन करें
+STR_2567    :प्रिंट
+STR_2568    :एक्ज़िक्यूट
+STR_2569    :स्नैपशॉट
+STR_2570    :इंसर्ट
+STR_2571    :डिलीट
+STR_2572    :हेल्प
+STR_2618    :मेनू
+STR_2621    :नंपैड 0
+STR_2622    :नंपैड 1
+STR_2623    :नंपैड 2
+STR_2624    :नंपैड 3
+STR_2625    :नंपैड 4
+STR_2626    :नंपैड 5
+STR_2627    :नंपैड 6
+STR_2628    :नंपैड 7
+STR_2629    :नंपैड 8
+STR_2630    :नंपैड 9
+STR_2631    :नंपैड *
+STR_2632    :नंपैड +
+STR_2634    :नंपैड -
+STR_2635    :नंपैड .
+STR_2636    :नंपैड /
+STR_2669    :नमलॉक
+STR_2670    :स्क्रोल
+STR_2680    :सारा अनुसंधान पूरा हो चुका है
+STR_2684    :मेहमानों का बड़ा समूह आ रहा है
+STR_2685    :सिंप्लेक्स नॉइज़ पैरामीटर
+STR_2686    :न्यूनतम भूमि ऊँचाई:
+STR_2687    :अधिकतम भूमि ऊँचाई:
+STR_2688    :बेस फ़्रीक्वेंसी:
+STR_2689    :ऑक्टेव्स:
+STR_2690    :मानचित्र जनरेशन
+STR_2691    :बेस ऊँचाई:
+STR_2692    :पानी का स्तर:
+STR_2693    :टेरेन:
+STR_2694    :जेनरेट करें
+STR_2695    :रैंडम टेरेन
+STR_2696    :पेड़ लगाएँ
+STR_2700    :ऑटोसेव फ़्रीक्वेंसी:
+STR_2701    :हर मिनट
+STR_2702    :हर 5 मिनट
+STR_2703    :हर 15 मिनट
+STR_2704    :हर 30 मिनट
+STR_2705    :हर घंटे
+STR_2706    :कभी नहीं
+STR_2707    :सिस्टम फ़ाइल ब्राउज़र उपयोग करें
+STR_2708    :{WINDOW_COLOUR_1}क्या आप वाकई {STRINGID} को ओवरराइट करना चाहते हैं?
+STR_2709    :ओवरराइट
+STR_2720    :{UINT16} सेक
+STR_2721    :{UINT16} सेक
+STR_2722    :{UINT16} मि:{UINT16} सेक
+STR_2723    :{UINT16} मि:{UINT16} सेक
+STR_2724    :{UINT16} मि:{UINT16} सेक
+STR_2725    :{UINT16} मि:{UINT16} सेक
+STR_2726    :{UINT16} मि
+STR_2727    :{UINT16} मि
+STR_2728    :{UINT16} घंटा:{UINT16} मि
+STR_2729    :{UINT16} घंटा:{UINT16} मि
+STR_2730    :{UINT16} घंटे:{UINT16} मि
+STR_2731    :{UINT16} घंटे:{UINT16} मि
 STR_2732    :{COMMA32} ft
 STR_2733    :{COMMA32} m
 STR_2734    :{COMMA16} mph
@@ -1930,69 +1930,69 @@ STR_2735    :{COMMA16} km/h
 # Used only as part of label-value pair.
 STR_2736    :{MONTH}, Year {COMMA16}
 STR_2737    :{STRINGID} {MONTH}, Year {COMMA16}
-STR_2738    :Title screen music:
-STR_2739    :None
+STR_2738    :टाइटल स्क्रीन म्यूज़िक:
+STR_2739    :कोई नहीं
 STR_2740    :RollerCoaster Tycoon 1
 STR_2741    :RollerCoaster Tycoon 2
-STR_2749    :My new scenario
+STR_2749    :मेरा नया परिदृश्य
 # New strings used in the cheats window previously these were ???
-STR_2750    :Move all items to top
-STR_2751    :Move all items to bottom
-STR_2752    :Clear grass
-STR_2753    :Mow grass
-STR_2754    :Water plants
-STR_2755    :Fix vandalism
-STR_2756    :Remove litter
+STR_2750    :सभी आइटम्स को सबसे ऊपर ले जाएँ
+STR_2751    :सभी आइटम्स को सबसे नीचे ले जाएँ
+STR_2752    :घास साफ करें
+STR_2753    :घास काटें
+STR_2754    :पौधों को पानी दें
+STR_2755    :वैंडलिज़्म ठीक करें
+STR_2756    :कूड़ा हटाएँ
 STR_2763    :???
-STR_2765    :Large tram
-STR_2766    :Win scenario
-STR_2767    :Disable weather changes
+STR_2765    :बड़ा ट्राम
+STR_2766    :परिदृश्य जीतें
+STR_2767    :मौसम में बदलाव डिसेबल करें
 STR_2769    :पार्क खोलें
 STR_2770    :पार्क बंद करें
-STR_2773    :Windowed
-STR_2774    :Fullscreen
-STR_2775    :Fullscreen (borderless window)
-STR_2776    :Language:
+STR_2773    :विंडो मोड
+STR_2774    :फुलस्क्रीन
+STR_2775    :फुलस्क्रीन (बिना बॉर्डर विंडो)
+STR_2776    :भाषा:
 STR_2777    :{MOVE_X}{10}{STRING}
 STR_2778    :»{MOVE_X}{10}{STRING}
-STR_2779    :Viewport #{COMMA16}
-STR_2780    :Extra viewport
+STR_2779    :व्यूपोर्ट #{COMMA16}
+STR_2780    :अतिरिक्त व्यूपोर्ट
 # End of new strings
 STR_2781    :{STRINGID}:
-STR_2782    :SHIFT + 
-STR_2783    :CTRL + 
-STR_2784    :Change keyboard shortcut
-STR_2785    :{WINDOW_COLOUR_2}Press new shortcut key for:{NEWLINE}“{STRINGID}”
-STR_2786    :Click on shortcut description to select new key
-STR_2787    :{WINDOW_COLOUR_2}Park value: {BLACK}{CURRENCY}
-STR_2788    :{WINDOW_COLOUR_2}Congratulations!{NEWLINE}{BLACK}You achieved your objective with a company value of {CURRENCY}!
-STR_2789    :{WINDOW_COLOUR_2}You have failed your objective!
-STR_2790    :Enter name into scenario chart
-STR_2791    :Enter name
-STR_2792    :Please enter your name for the scenario chart:
-STR_2793    :(Completed by {STRINGID})
-STR_2794    :{WINDOW_COLOUR_2}Completed by: {BLACK}{STRINGID}{NEWLINE}{WINDOW_COLOUR_2} with a company value of: {BLACK}{CURRENCY}
-STR_2795    :Sort
-STR_2796    :Sort the ride list into order using the information type displayed
-STR_2797    :Scroll view when pointer at screen edge
-STR_2798    :Scroll the view when the mouse pointer is at the screen edge
-STR_2799    :View or change control key assignments
-STR_2800    :{WINDOW_COLOUR_2}Total admissions: {BLACK}{COMMA32}
-STR_2801    :{WINDOW_COLOUR_2}Income from admissions: {BLACK}{CURRENCY2DP}
-STR_2802    :Map
-STR_2803    :Show these guests highlighted on map
-STR_2804    :Show these staff members highlighted on map
-STR_2805    :Show map of park
-STR_2806    :{RED}Guests are complaining about the disgusting state of the paths in your park{NEWLINE}Check where your handymen are and consider organising them better
-STR_2807    :{RED}Guests are complaining about the amount of litter in your park{NEWLINE}Check where your handymen are and consider organising them better
-STR_2808    :{RED}Guests are complaining about the vandalism in your park{NEWLINE}Check where your security guards are and consider organising them better
-STR_2809    :{RED}Guests are hungry and can’t find anywhere to buy food
-STR_2810    :{RED}Guests are thirsty and can’t find anywhere to buy drinks
-STR_2811    :{RED}Guests are complaining because they can’t find the toilets in your park
-STR_2812    :{RED}Guests are getting lost or stuck{NEWLINE}Check whether the layout of your footpaths needs improving to help the guests find their way around
-STR_2813    :{RED}Your park entrance fee is too high!{NEWLINE}Reduce your entrance fee or improve the value of the park to attract more guests
-STR_2814    :{WINDOW_COLOUR_2}Most untidy park award
-STR_2815    :{WINDOW_COLOUR_2}Tidiest park award
+STR_2782    :SHIFT +
+STR_2783    :CTRL +
+STR_2784    :कीबोर्ड शॉर्टकट बदलें
+STR_2785    :{WINDOW_COLOUR_2}नया शॉर्टकट कुंजी दबाएँ:{NEWLINE}“{STRINGID}” के लिए
+STR_2786    :नई कुंजी चुनने के लिए शॉर्टकट विवरण पर क्लिक करें
+STR_2787    :{WINDOW_COLOUR_2}पार्क मूल्य: {BLACK}{CURRENCY}
+STR_2788    :{WINDOW_COLOUR_2}बधाई हो!{NEWLINE}{BLACK}आपने अपना उद्देश्य हासिल कर लिया है {CURRENCY} कंपनी मूल्य के साथ!
+STR_2789    :{WINDOW_COLOUR_2}आपका उद्देश्य विफल हो गया!
+STR_2790    :परिदृश्य चार्ट में नाम दर्ज करें
+STR_2791    :नाम दर्ज करें
+STR_2792    :परिदृश्य चार्ट के लिए कृपया अपना नाम दर्ज करें:
+STR_2793    :({STRINGID} द्वारा पूरा किया गया)
+STR_2794    :{WINDOW_COLOUR_2}पूरा किया: {BLACK}{STRINGID}{NEWLINE}{WINDOW_COLOUR_2}कंपनी मूल्य: {BLACK}{CURRENCY} के साथ
+STR_2795    :क्रमबद्ध करें
+STR_2796    :दिखाई गई जानकारी प्रकार का उपयोग करके राइड सूची को क्रमबद्ध करें
+STR_2797    :पॉइंटर स्क्रीन किनारे पर होने पर दृश्य स्क्रॉल करें
+STR_2798    :माउस पॉइंटर स्क्रीन किनारे पर होने पर दृश्य स्क्रॉल करें
+STR_2799    :नियंत्रण कुंजी असाइनमेंट देखें या बदलें
+STR_2800    :{WINDOW_COLOUR_2}कुल प्रवेश: {BLACK}{COMMA32}
+STR_2801    :{WINDOW_COLOUR_2}प्रवेश से आय: {BLACK}{CURRENCY2DP}
+STR_2802    :मानचित्र
+STR_2803    :इन मेहमानों को मानचित्र पर हाइलाइट दिखाएँ
+STR_2804    :इन स्टाफ सदस्यों को मानचित्र पर हाइलाइट दिखाएँ
+STR_2805    :पार्क का मानचित्र दिखाएँ
+STR_2806    :{RED}मेहमान पार्क के पथों की गंदी स्थिति के बारे में शिकायत कर रहे हैं{NEWLINE}अपने हैंडीमैन कहाँ हैं जाँचें और उन्हें बेहतर व्यवस्थित करने पर विचार करें
+STR_2807    :{RED}मेहमान पार्क में कूड़े की मात्रा के बारे में शिकायत कर रहे हैं{NEWLINE}अपने हैंडीमैन कहाँ हैं जाँचें और उन्हें बेहतर व्यवस्थित करने पर विचार करें
+STR_2808    :{RED}मेहमान पार्क में तोड़फोड़ के बारे में शिकायत कर रहे हैं{NEWLINE}अपने सिक्योरिटी गार्ड कहाँ हैं जाँचें और उन्हें बेहतर व्यवस्थित करने पर विचार करें
+STR_2809    :{RED}मेहमान भूखे हैं और भोजन खरीदने के लिए कोई जगह नहीं ढूंढ पा रहे
+STR_2810    :{RED}मेहमान प्यासे हैं और पेय खरीदने के लिए कोई जगह नहीं ढूंढ पा रहे
+STR_2811    :{RED}मेहमान शौचालय पार्क में नहीं ढूंढ पाने के कारण शिकायत कर रहे हैं
+STR_2812    :{RED}मेहमान भटक रहे हैं या फंस गए हैं{NEWLINE}जाँचें कि क्या पैदल पथों का लेआउट सुधारने की आवश्यकता है ताकि मेहमान आसानी से रास्ता ढूंढ सकें
+STR_2813    :{RED}आपका पार्क प्रवेश शुल्क बहुत अधिक है!{NEWLINE}प्रवेश शुल्क कम करें या पार्क का मूल्य बढ़ाकर अधिक मेहमान आकर्षित करें
+STR_2814    :{WINDOW_COLOUR_2}सबसे गंदा पार्क पुरस्कार
+STR_2815    :{WINDOW_COLOUR_2}सबसे साफ-सुथरा पार्क पुरस्कार
 STR_2816    :{WINDOW_COLOUR_2}Award for the park with the best roller coasters
 STR_2817    :{WINDOW_COLOUR_2}Best value park award
 STR_2818    :{WINDOW_COLOUR_2}Most beautiful park award
